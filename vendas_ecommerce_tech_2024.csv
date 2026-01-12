@@ -1,0 +1,1501 @@
+data_venda,id_pedido,produto,categoria,quantidade,preco_unitario,receita_total,regiao,metodo_pagamento,cliente_tipo
+2024-08-09,PED00001,Apple Watch Series 9,Smartwatches,1,4500,4500,Centro,PIX,Novo
+2024-01-11,PED00002,Amazon Fire HD,Tablets,2,850,1700,Sul,Boleto,Novo
+2024-05-20,PED00003,AirPods Pro,Fones de Ouvido,1,1800,1800,Oeste,PIX,Recorrente
+2024-12-27,PED00004,Xiaomi 13,Smartphones,1,2800,2800,Oeste,Cartão de Débito,Novo
+2024-06-11,PED00005,AirPods Pro,Fones de Ouvido,2,1800,3600,Centro,Boleto,Recorrente
+2024-03-19,PED00006,Motorola Edge 40,Smartphones,1,2200,2200,Centro,Cartão de Débito,Recorrente
+2024-08-16,PED00007,iPhone 14,Smartphones,1,3500,3500,Leste,PIX,Recorrente
+2024-02-10,PED00008,Lenovo Tab P11,Tablets,1,1800,1800,Oeste,Boleto,Novo
+2024-08-05,PED00009,Samsung Galaxy Watch 6,Smartwatches,1,2800,2800,Oeste,Boleto,Recorrente
+2024-10-28,PED00010,Samsung Galaxy S23,Smartphones,2,4200,8400,Norte,Cartão de Débito,Recorrente
+2024-08-20,PED00011,Garmin Forerunner,Smartwatches,1,2200,2200,Norte,Boleto,Recorrente
+2024-01-12,PED00012,Xiaomi 13,Smartphones,1,2800,2800,Oeste,Boleto,Recorrente
+2024-03-11,PED00013,MacBook Air M2,Laptops,1,8500,8500,Centro,Cartão de Crédito,Recorrente
+2024-05-10,PED00014,Samsung Buds,Fones de Ouvido,2,650,1300,Centro,Cartão de Débito,Recorrente
+2024-04-15,PED00015,Garmin Forerunner,Smartwatches,1,2200,2200,Norte,Cartão de Débito,Recorrente
+2024-10-09,PED00016,Apple Watch Series 9,Smartwatches,2,4500,9000,Norte,Cartão de Débito,Novo
+2024-08-13,PED00017,Samsung Galaxy S23,Smartphones,1,4200,4200,Oeste,Cartão de Débito,Recorrente
+2024-02-21,PED00018,JBL Tune 510,Fones de Ouvido,2,280,560,Oeste,PIX,Recorrente
+2024-01-13,PED00019,Samsung Buds,Fones de Ouvido,3,650,1950,Norte,Boleto,Recorrente
+2024-12-01,PED00020,Apple Watch Series 9,Smartwatches,1,4500,4500,Sul,Cartão de Débito,Recorrente
+2024-03-11,PED00021,Xiaomi 13,Smartphones,1,2800,2800,Sul,Boleto,Recorrente
+2024-01-20,PED00022,Garmin Forerunner,Smartwatches,2,2200,4400,Oeste,Boleto,Novo
+2024-04-14,PED00023,JBL Tune 510,Fones de Ouvido,2,280,560,Oeste,Cartão de Crédito,Novo
+2024-11-15,PED00024,MacBook Air M2,Laptops,1,8500,8500,Norte,Cartão de Crédito,Recorrente
+2024-10-20,PED00025,Samsung Galaxy Watch 6,Smartwatches,2,2800,5600,Oeste,PIX,Recorrente
+2024-04-01,PED00026,Asus ROG,Laptops,2,9500,19000,Centro,Cartão de Débito,Recorrente
+2024-09-06,PED00027,Samsung Tab S9,Tablets,1,3500,3500,Norte,Cartão de Crédito,Recorrente
+2024-10-02,PED00028,Motorola Edge 40,Smartphones,1,2200,2200,Sul,Boleto,Recorrente
+2024-10-04,PED00029,iPhone 14,Smartphones,2,3500,7000,Leste,Cartão de Crédito,Novo
+2024-01-23,PED00030,Samsung Tab S9,Tablets,1,3500,3500,Centro,Cartão de Crédito,Novo
+2024-12-14,PED00031,JBL Tune 510,Fones de Ouvido,3,280,840,Centro,Boleto,Recorrente
+2024-10-21,PED00032,iPad Air,Tablets,2,4200,8400,Norte,Cartão de Crédito,Recorrente
+2024-05-02,PED00033,Xiaomi 13,Smartphones,1,2800,2800,Norte,Cartão de Crédito,Novo
+2024-12-16,PED00034,Samsung Tab S9,Tablets,1,3500,3500,Leste,Cartão de Crédito,Recorrente
+2024-05-26,PED00035,Samsung Tab S9,Tablets,1,3500,3500,Centro,Boleto,Recorrente
+2024-04-20,PED00036,Xiaomi Band 8,Smartwatches,1,350,350,Leste,Cartão de Débito,Novo
+2024-08-14,PED00037,Lenovo ThinkPad,Laptops,2,5800,11600,Sul,Cartão de Débito,Recorrente
+2024-08-10,PED00038,MacBook Air M2,Laptops,1,8500,8500,Norte,Cartão de Débito,Recorrente
+2024-12-03,PED00039,Asus ROG,Laptops,1,9500,9500,Centro,Cartão de Débito,Recorrente
+2024-07-05,PED00040,iPhone 14,Smartphones,1,3500,3500,Sul,Cartão de Débito,Recorrente
+2024-06-08,PED00041,Samsung Buds,Fones de Ouvido,2,650,1300,Sul,Cartão de Crédito,Novo
+2024-01-27,PED00042,Motorola Edge 40,Smartphones,1,2200,2200,Oeste,Cartão de Crédito,Recorrente
+2024-07-21,PED00043,iPhone 14,Smartphones,1,3500,3500,Norte,Cartão de Crédito,Recorrente
+2024-12-08,PED00044,Samsung Tab S9,Tablets,1,3500,3500,Norte,Cartão de Crédito,Recorrente
+2024-10-10,PED00045,Xiaomi 13,Smartphones,1,2800,2800,Oeste,Boleto,Recorrente
+2024-06-10,PED00046,Samsung Buds,Fones de Ouvido,3,650,1950,Norte,Cartão de Débito,Novo
+2024-01-20,PED00047,Xiaomi Band 8,Smartwatches,1,350,350,Norte,Cartão de Débito,Recorrente
+2024-04-15,PED00048,iPhone 14,Smartphones,2,3500,7000,Leste,PIX,Novo
+2024-06-11,PED00049,Dell XPS 15,Laptops,1,7200,7200,Leste,Cartão de Crédito,Novo
+2024-07-19,PED00050,Garmin Forerunner,Smartwatches,1,2200,2200,Norte,Boleto,Recorrente
+2024-06-28,PED00051,Lenovo Tab P11,Tablets,1,1800,1800,Centro,Cartão de Débito,Recorrente
+2024-08-27,PED00052,MacBook Air M2,Laptops,1,8500,8500,Leste,Boleto,Recorrente
+2024-11-05,PED00053,MacBook Air M2,Laptops,1,8500,8500,Norte,PIX,Novo
+2024-06-27,PED00054,AirPods Pro,Fones de Ouvido,1,1800,1800,Norte,Boleto,Novo
+2024-10-06,PED00055,AirPods Pro,Fones de Ouvido,2,1800,3600,Oeste,Cartão de Débito,Recorrente
+2024-11-02,PED00056,Samsung Galaxy S23,Smartphones,1,4200,4200,Sul,Cartão de Crédito,Recorrente
+2024-01-05,PED00057,Lenovo ThinkPad,Laptops,1,5800,5800,Leste,PIX,Recorrente
+2024-12-12,PED00058,Motorola Edge 40,Smartphones,2,2200,4400,Leste,Cartão de Crédito,Novo
+2024-10-28,PED00059,Lenovo ThinkPad,Laptops,1,5800,5800,Leste,Cartão de Débito,Recorrente
+2024-11-20,PED00060,JBL Tune 510,Fones de Ouvido,2,280,560,Norte,Cartão de Crédito,Recorrente
+2024-10-25,PED00061,Samsung Galaxy Watch 6,Smartwatches,1,2800,2800,Centro,Cartão de Crédito,Recorrente
+2024-10-22,PED00062,Motorola Edge 40,Smartphones,2,2200,4400,Leste,PIX,Recorrente
+2024-06-02,PED00063,Apple Watch Series 9,Smartwatches,1,4500,4500,Sul,Boleto,Novo
+2024-03-10,PED00064,Amazon Fire HD,Tablets,1,850,850,Sul,Cartão de Crédito,Novo
+2024-04-14,PED00065,iPad Air,Tablets,1,4200,4200,Centro,Boleto,Recorrente
+2024-10-02,PED00066,Asus ROG,Laptops,1,9500,9500,Leste,PIX,Recorrente
+2024-08-18,PED00067,Lenovo Tab P11,Tablets,1,1800,1800,Oeste,PIX,Novo
+2024-08-10,PED00068,Lenovo ThinkPad,Laptops,1,5800,5800,Norte,PIX,Recorrente
+2024-03-04,PED00069,Lenovo ThinkPad,Laptops,1,5800,5800,Norte,Cartão de Crédito,Novo
+2024-09-28,PED00070,Xiaomi 13,Smartphones,2,2800,5600,Centro,Boleto,Recorrente
+2024-12-23,PED00071,Samsung Galaxy Watch 6,Smartwatches,2,2800,5600,Sul,Boleto,Novo
+2024-10-05,PED00072,AirPods Pro,Fones de Ouvido,1,1800,1800,Norte,Cartão de Crédito,Novo
+2024-03-23,PED00073,Samsung Galaxy Watch 6,Smartwatches,1,2800,2800,Leste,Cartão de Crédito,Recorrente
+2024-04-01,PED00074,Samsung Galaxy Watch 6,Smartwatches,1,2800,2800,Leste,Cartão de Crédito,Recorrente
+2024-12-18,PED00075,MacBook Air M2,Laptops,1,8500,8500,Centro,Boleto,Recorrente
+2024-09-02,PED00076,iPhone 14,Smartphones,1,3500,3500,Sul,Cartão de Débito,Recorrente
+2024-05-08,PED00077,iPhone 14,Smartphones,1,3500,3500,Sul,PIX,Recorrente
+2024-03-02,PED00078,MacBook Air M2,Laptops,1,8500,8500,Leste,Boleto,Recorrente
+2024-05-21,PED00079,Lenovo Tab P11,Tablets,1,1800,1800,Leste,Cartão de Crédito,Recorrente
+2024-02-12,PED00080,iPad Air,Tablets,2,4200,8400,Centro,Boleto,Novo
+2024-09-12,PED00081,Lenovo ThinkPad,Laptops,1,5800,5800,Centro,Boleto,Recorrente
+2024-10-08,PED00082,Sony WH-1000XM5,Fones de Ouvido,1,1500,1500,Centro,Cartão de Crédito,Novo
+2024-12-07,PED00083,AirPods Pro,Fones de Ouvido,1,1800,1800,Sul,Boleto,Novo
+2024-05-09,PED00084,Amazon Fire HD,Tablets,1,850,850,Oeste,Cartão de Débito,Novo
+2024-03-17,PED00085,Xiaomi Band 8,Smartwatches,1,350,350,Sul,Cartão de Débito,Recorrente
+2024-01-01,PED00086,Amazon Fire HD,Tablets,1,850,850,Sul,PIX,Novo
+2024-02-15,PED00087,JBL Tune 510,Fones de Ouvido,2,280,560,Oeste,Cartão de Crédito,Novo
+2024-11-12,PED00088,Sony WH-1000XM5,Fones de Ouvido,1,1500,1500,Centro,PIX,Recorrente
+2024-09-20,PED00089,MacBook Air M2,Laptops,1,8500,8500,Sul,Cartão de Débito,Novo
+2024-08-26,PED00090,Samsung Buds,Fones de Ouvido,1,650,650,Oeste,Cartão de Débito,Recorrente
+2024-10-18,PED00091,iPhone 14,Smartphones,2,3500,7000,Centro,Cartão de Débito,Recorrente
+2024-01-07,PED00092,Xiaomi Band 8,Smartwatches,2,350,700,Norte,Cartão de Crédito,Recorrente
+2024-10-07,PED00093,Samsung Galaxy Watch 6,Smartwatches,2,2800,5600,Leste,Boleto,Recorrente
+2024-02-18,PED00094,Sony WH-1000XM5,Fones de Ouvido,2,1500,3000,Leste,Boleto,Recorrente
+2024-09-13,PED00095,Asus ROG,Laptops,1,9500,9500,Leste,Cartão de Débito,Recorrente
+2024-12-27,PED00096,Lenovo ThinkPad,Laptops,1,5800,5800,Oeste,Cartão de Débito,Novo
+2024-09-05,PED00097,Lenovo Tab P11,Tablets,1,1800,1800,Norte,PIX,Recorrente
+2024-06-03,PED00098,Xiaomi Band 8,Smartwatches,2,350,700,Sul,Boleto,Recorrente
+2024-11-19,PED00099,Xiaomi 13,Smartphones,1,2800,2800,Centro,Boleto,Recorrente
+2024-02-02,PED00100,MacBook Air M2,Laptops,1,8500,8500,Centro,PIX,Recorrente
+2024-08-19,PED00101,Amazon Fire HD,Tablets,1,850,850,Sul,Cartão de Débito,Recorrente
+2024-05-26,PED00102,Samsung Tab S9,Tablets,1,3500,3500,Norte,Cartão de Crédito,Recorrente
+2024-02-09,PED00103,MacBook Air M2,Laptops,1,8500,8500,Norte,Boleto,Novo
+2024-12-22,PED00104,Lenovo Tab P11,Tablets,1,1800,1800,Norte,PIX,Recorrente
+2024-04-10,PED00105,Xiaomi 13,Smartphones,1,2800,2800,Leste,PIX,Novo
+2024-08-06,PED00106,Samsung Tab S9,Tablets,1,3500,3500,Norte,Boleto,Novo
+2024-11-14,PED00107,Motorola Edge 40,Smartphones,1,2200,2200,Oeste,Boleto,Recorrente
+2024-11-02,PED00108,Dell XPS 15,Laptops,2,7200,14400,Oeste,Cartão de Crédito,Recorrente
+2024-07-15,PED00109,Samsung Galaxy Watch 6,Smartwatches,1,2800,2800,Norte,Boleto,Recorrente
+2024-04-12,PED00110,iPad Air,Tablets,1,4200,4200,Leste,PIX,Recorrente
+2024-04-10,PED00111,Sony WH-1000XM5,Fones de Ouvido,2,1500,3000,Leste,Cartão de Débito,Novo
+2024-09-12,PED00112,Lenovo ThinkPad,Laptops,2,5800,11600,Oeste,Boleto,Novo
+2024-08-13,PED00113,JBL Tune 510,Fones de Ouvido,3,280,840,Oeste,Cartão de Crédito,Novo
+2024-12-22,PED00114,Xiaomi Band 8,Smartwatches,1,350,350,Sul,Cartão de Crédito,Novo
+2024-08-26,PED00115,Samsung Buds,Fones de Ouvido,2,650,1300,Leste,PIX,Recorrente
+2024-11-09,PED00116,iPhone 14,Smartphones,2,3500,7000,Centro,Cartão de Crédito,Recorrente
+2024-10-25,PED00117,AirPods Pro,Fones de Ouvido,1,1800,1800,Oeste,Cartão de Crédito,Recorrente
+2024-09-26,PED00118,MacBook Air M2,Laptops,2,8500,17000,Norte,Boleto,Recorrente
+2024-04-13,PED00119,Xiaomi Band 8,Smartwatches,1,350,350,Leste,PIX,Recorrente
+2024-04-24,PED00120,Amazon Fire HD,Tablets,1,850,850,Centro,Cartão de Crédito,Novo
+2024-05-20,PED00121,Apple Watch Series 9,Smartwatches,1,4500,4500,Sul,Boleto,Novo
+2024-01-10,PED00122,Lenovo ThinkPad,Laptops,2,5800,11600,Oeste,Cartão de Débito,Recorrente
+2024-10-02,PED00123,Lenovo ThinkPad,Laptops,1,5800,5800,Oeste,Cartão de Crédito,Recorrente
+2024-12-13,PED00124,Samsung Galaxy S23,Smartphones,1,4200,4200,Norte,Cartão de Débito,Recorrente
+2024-08-22,PED00125,Lenovo Tab P11,Tablets,1,1800,1800,Oeste,PIX,Recorrente
+2024-11-24,PED00126,Lenovo Tab P11,Tablets,1,1800,1800,Centro,PIX,Recorrente
+2024-08-16,PED00127,Lenovo ThinkPad,Laptops,1,5800,5800,Sul,Cartão de Débito,Recorrente
+2024-12-14,PED00128,Garmin Forerunner,Smartwatches,2,2200,4400,Centro,Boleto,Recorrente
+2024-04-21,PED00129,Apple Watch Series 9,Smartwatches,1,4500,4500,Norte,Cartão de Débito,Recorrente
+2024-12-11,PED00130,Garmin Forerunner,Smartwatches,2,2200,4400,Norte,Boleto,Recorrente
+2024-06-18,PED00131,Asus ROG,Laptops,1,9500,9500,Norte,Boleto,Novo
+2024-04-05,PED00132,Apple Watch Series 9,Smartwatches,1,4500,4500,Centro,Boleto,Novo
+2024-08-14,PED00133,iPad Air,Tablets,1,4200,4200,Sul,PIX,Recorrente
+2024-02-12,PED00134,Xiaomi Band 8,Smartwatches,1,350,350,Norte,Cartão de Débito,Recorrente
+2024-08-28,PED00135,Samsung Tab S9,Tablets,1,3500,3500,Leste,Cartão de Débito,Recorrente
+2024-05-01,PED00136,Asus ROG,Laptops,1,9500,9500,Oeste,Cartão de Débito,Novo
+2024-08-11,PED00137,Samsung Galaxy Watch 6,Smartwatches,1,2800,2800,Norte,Boleto,Novo
+2024-08-09,PED00138,Samsung Buds,Fones de Ouvido,2,650,1300,Leste,Boleto,Recorrente
+2024-06-23,PED00139,iPad Air,Tablets,1,4200,4200,Sul,Boleto,Recorrente
+2024-01-11,PED00140,Asus ROG,Laptops,1,9500,9500,Sul,Cartão de Débito,Novo
+2024-05-27,PED00141,Xiaomi Band 8,Smartwatches,1,350,350,Centro,Boleto,Novo
+2024-03-18,PED00142,Xiaomi 13,Smartphones,1,2800,2800,Sul,Cartão de Crédito,Recorrente
+2024-04-10,PED00143,Samsung Buds,Fones de Ouvido,2,650,1300,Leste,Boleto,Recorrente
+2024-09-04,PED00144,MacBook Air M2,Laptops,2,8500,17000,Centro,PIX,Recorrente
+2024-07-13,PED00145,MacBook Air M2,Laptops,1,8500,8500,Centro,PIX,Recorrente
+2024-06-27,PED00146,Samsung Galaxy S23,Smartphones,1,4200,4200,Centro,Cartão de Crédito,Recorrente
+2024-05-26,PED00147,Amazon Fire HD,Tablets,1,850,850,Leste,Boleto,Recorrente
+2024-08-14,PED00148,Samsung Galaxy S23,Smartphones,1,4200,4200,Sul,PIX,Novo
+2024-08-07,PED00149,Apple Watch Series 9,Smartwatches,1,4500,4500,Norte,Cartão de Crédito,Recorrente
+2024-11-03,PED00150,Xiaomi Band 8,Smartwatches,2,350,700,Norte,PIX,Recorrente
+2024-10-16,PED00151,iPad Air,Tablets,1,4200,4200,Leste,Cartão de Crédito,Recorrente
+2024-02-07,PED00152,Asus ROG,Laptops,1,9500,9500,Oeste,PIX,Recorrente
+2024-04-27,PED00153,AirPods Pro,Fones de Ouvido,3,1800,5400,Centro,Cartão de Débito,Novo
+2024-07-12,PED00154,iPhone 14,Smartphones,1,3500,3500,Centro,Boleto,Novo
+2024-08-22,PED00155,Samsung Buds,Fones de Ouvido,2,650,1300,Oeste,Cartão de Crédito,Recorrente
+2024-06-05,PED00156,Dell XPS 15,Laptops,2,7200,14400,Leste,Cartão de Débito,Recorrente
+2024-07-15,PED00157,Lenovo Tab P11,Tablets,1,1800,1800,Centro,PIX,Recorrente
+2024-04-01,PED00158,Lenovo Tab P11,Tablets,1,1800,1800,Norte,Cartão de Débito,Novo
+2024-09-01,PED00159,Samsung Galaxy S23,Smartphones,1,4200,4200,Norte,PIX,Novo
+2024-06-09,PED00160,Apple Watch Series 9,Smartwatches,1,4500,4500,Centro,Cartão de Débito,Recorrente
+2024-05-17,PED00161,Samsung Galaxy S23,Smartphones,1,4200,4200,Sul,Cartão de Débito,Recorrente
+2024-05-16,PED00162,Dell XPS 15,Laptops,2,7200,14400,Centro,Cartão de Débito,Novo
+2024-01-08,PED00163,Motorola Edge 40,Smartphones,1,2200,2200,Centro,Boleto,Recorrente
+2024-03-23,PED00164,Xiaomi 13,Smartphones,1,2800,2800,Sul,Cartão de Crédito,Recorrente
+2024-08-20,PED00165,iPad Air,Tablets,1,4200,4200,Sul,PIX,Recorrente
+2024-10-09,PED00166,MacBook Air M2,Laptops,1,8500,8500,Oeste,Cartão de Crédito,Recorrente
+2024-06-28,PED00167,iPad Air,Tablets,1,4200,4200,Leste,PIX,Recorrente
+2024-11-04,PED00168,Garmin Forerunner,Smartwatches,1,2200,2200,Sul,PIX,Recorrente
+2024-05-18,PED00169,AirPods Pro,Fones de Ouvido,1,1800,1800,Sul,Boleto,Novo
+2024-01-18,PED00170,Asus ROG,Laptops,2,9500,19000,Leste,Cartão de Débito,Recorrente
+2024-10-08,PED00171,Samsung Tab S9,Tablets,1,3500,3500,Sul,Cartão de Débito,Recorrente
+2024-05-18,PED00172,JBL Tune 510,Fones de Ouvido,2,280,560,Centro,PIX,Recorrente
+2024-06-11,PED00173,Sony WH-1000XM5,Fones de Ouvido,2,1500,3000,Norte,Boleto,Novo
+2024-03-01,PED00174,Samsung Galaxy S23,Smartphones,1,4200,4200,Norte,Cartão de Crédito,Recorrente
+2024-12-18,PED00175,Samsung Galaxy S23,Smartphones,2,4200,8400,Norte,Boleto,Recorrente
+2024-12-27,PED00176,Motorola Edge 40,Smartphones,1,2200,2200,Sul,Cartão de Crédito,Novo
+2024-03-11,PED00177,AirPods Pro,Fones de Ouvido,3,1800,5400,Oeste,Boleto,Recorrente
+2024-08-17,PED00178,Asus ROG,Laptops,1,9500,9500,Sul,PIX,Recorrente
+2024-03-10,PED00179,Asus ROG,Laptops,1,9500,9500,Leste,Cartão de Crédito,Recorrente
+2024-06-11,PED00180,Motorola Edge 40,Smartphones,1,2200,2200,Leste,Boleto,Recorrente
+2024-10-15,PED00181,Lenovo ThinkPad,Laptops,2,5800,11600,Oeste,Cartão de Débito,Novo
+2024-05-26,PED00182,Motorola Edge 40,Smartphones,1,2200,2200,Oeste,Cartão de Débito,Recorrente
+2024-04-27,PED00183,Amazon Fire HD,Tablets,2,850,1700,Sul,PIX,Recorrente
+2024-12-04,PED00184,MacBook Air M2,Laptops,2,8500,17000,Leste,PIX,Recorrente
+2024-01-08,PED00185,Garmin Forerunner,Smartwatches,1,2200,2200,Sul,PIX,Novo
+2024-09-21,PED00186,Amazon Fire HD,Tablets,2,850,1700,Leste,PIX,Novo
+2024-05-25,PED00187,Samsung Buds,Fones de Ouvido,2,650,1300,Oeste,PIX,Recorrente
+2024-06-14,PED00188,Apple Watch Series 9,Smartwatches,1,4500,4500,Leste,Cartão de Crédito,Novo
+2024-10-03,PED00189,Garmin Forerunner,Smartwatches,2,2200,4400,Leste,Cartão de Débito,Novo
+2024-04-28,PED00190,AirPods Pro,Fones de Ouvido,1,1800,1800,Leste,Cartão de Crédito,Recorrente
+2024-06-03,PED00191,Xiaomi 13,Smartphones,1,2800,2800,Norte,PIX,Recorrente
+2024-10-18,PED00192,Amazon Fire HD,Tablets,2,850,1700,Centro,Cartão de Crédito,Novo
+2024-10-07,PED00193,JBL Tune 510,Fones de Ouvido,3,280,840,Leste,Cartão de Crédito,Recorrente
+2024-01-28,PED00194,Samsung Galaxy S23,Smartphones,1,4200,4200,Centro,PIX,Novo
+2024-08-24,PED00195,MacBook Air M2,Laptops,1,8500,8500,Sul,Boleto,Recorrente
+2024-12-13,PED00196,Samsung Galaxy Watch 6,Smartwatches,2,2800,5600,Oeste,Cartão de Crédito,Recorrente
+2024-01-22,PED00197,Samsung Galaxy Watch 6,Smartwatches,1,2800,2800,Oeste,Boleto,Recorrente
+2024-07-05,PED00198,AirPods Pro,Fones de Ouvido,2,1800,3600,Centro,Cartão de Crédito,Recorrente
+2024-09-26,PED00199,Samsung Tab S9,Tablets,1,3500,3500,Leste,PIX,Novo
+2024-12-11,PED00200,Samsung Tab S9,Tablets,1,3500,3500,Leste,Cartão de Débito,Novo
+2024-12-13,PED00201,Samsung Galaxy Watch 6,Smartwatches,1,2800,2800,Leste,Cartão de Crédito,Recorrente
+2024-06-27,PED00202,Motorola Edge 40,Smartphones,1,2200,2200,Leste,PIX,Recorrente
+2024-04-06,PED00203,Amazon Fire HD,Tablets,2,850,1700,Leste,PIX,Novo
+2024-04-23,PED00204,Motorola Edge 40,Smartphones,1,2200,2200,Leste,Cartão de Crédito,Recorrente
+2024-10-07,PED00205,MacBook Air M2,Laptops,1,8500,8500,Sul,Cartão de Débito,Recorrente
+2024-05-23,PED00206,Samsung Buds,Fones de Ouvido,3,650,1950,Oeste,Cartão de Débito,Novo
+2024-10-06,PED00207,Apple Watch Series 9,Smartwatches,2,4500,9000,Norte,PIX,Recorrente
+2024-02-05,PED00208,Samsung Galaxy S23,Smartphones,2,4200,8400,Norte,PIX,Novo
+2024-11-24,PED00209,iPhone 14,Smartphones,1,3500,3500,Norte,Cartão de Crédito,Novo
+2024-08-21,PED00210,iPad Air,Tablets,1,4200,4200,Sul,Cartão de Crédito,Recorrente
+2024-09-22,PED00211,Asus ROG,Laptops,1,9500,9500,Sul,PIX,Recorrente
+2024-08-08,PED00212,Asus ROG,Laptops,1,9500,9500,Norte,Boleto,Novo
+2024-10-27,PED00213,Samsung Buds,Fones de Ouvido,2,650,1300,Norte,Boleto,Recorrente
+2024-10-06,PED00214,iPhone 14,Smartphones,1,3500,3500,Norte,Cartão de Crédito,Recorrente
+2024-04-13,PED00215,Samsung Galaxy Watch 6,Smartwatches,2,2800,5600,Oeste,PIX,Recorrente
+2024-05-19,PED00216,Motorola Edge 40,Smartphones,1,2200,2200,Centro,PIX,Novo
+2024-05-20,PED00217,iPad Air,Tablets,1,4200,4200,Oeste,Cartão de Crédito,Novo
+2024-04-07,PED00218,iPhone 14,Smartphones,1,3500,3500,Norte,Cartão de Débito,Recorrente
+2024-06-14,PED00219,Xiaomi 13,Smartphones,1,2800,2800,Oeste,Boleto,Recorrente
+2024-07-18,PED00220,Xiaomi 13,Smartphones,1,2800,2800,Centro,Cartão de Débito,Novo
+2024-07-28,PED00221,Amazon Fire HD,Tablets,1,850,850,Oeste,PIX,Novo
+2024-04-05,PED00222,Apple Watch Series 9,Smartwatches,1,4500,4500,Oeste,Cartão de Débito,Novo
+2024-10-08,PED00223,Amazon Fire HD,Tablets,1,850,850,Norte,PIX,Recorrente
+2024-04-17,PED00224,Amazon Fire HD,Tablets,1,850,850,Oeste,Cartão de Débito,Novo
+2024-11-19,PED00225,Samsung Buds,Fones de Ouvido,3,650,1950,Oeste,Cartão de Crédito,Recorrente
+2024-03-13,PED00226,AirPods Pro,Fones de Ouvido,3,1800,5400,Sul,Cartão de Débito,Recorrente
+2024-02-28,PED00227,iPad Air,Tablets,1,4200,4200,Centro,Cartão de Crédito,Novo
+2024-07-25,PED00228,Apple Watch Series 9,Smartwatches,1,4500,4500,Leste,Cartão de Crédito,Novo
+2024-07-23,PED00229,MacBook Air M2,Laptops,1,8500,8500,Norte,Cartão de Débito,Recorrente
+2024-11-14,PED00230,Samsung Tab S9,Tablets,2,3500,7000,Sul,Cartão de Débito,Recorrente
+2024-06-04,PED00231,AirPods Pro,Fones de Ouvido,2,1800,3600,Centro,Boleto,Recorrente
+2024-04-20,PED00232,Motorola Edge 40,Smartphones,1,2200,2200,Leste,Boleto,Novo
+2024-03-03,PED00233,Apple Watch Series 9,Smartwatches,1,4500,4500,Norte,Cartão de Crédito,Recorrente
+2024-02-11,PED00234,Lenovo Tab P11,Tablets,1,1800,1800,Sul,Cartão de Crédito,Recorrente
+2024-08-03,PED00235,Samsung Galaxy Watch 6,Smartwatches,1,2800,2800,Leste,PIX,Novo
+2024-06-07,PED00236,Xiaomi 13,Smartphones,1,2800,2800,Leste,PIX,Novo
+2024-06-18,PED00237,JBL Tune 510,Fones de Ouvido,2,280,560,Oeste,Cartão de Débito,Recorrente
+2024-12-11,PED00238,Motorola Edge 40,Smartphones,1,2200,2200,Centro,PIX,Recorrente
+2024-06-24,PED00239,Xiaomi 13,Smartphones,1,2800,2800,Oeste,Cartão de Crédito,Recorrente
+2024-02-13,PED00240,Xiaomi 13,Smartphones,1,2800,2800,Leste,Cartão de Débito,Recorrente
+2024-06-09,PED00241,Samsung Buds,Fones de Ouvido,1,650,650,Oeste,Boleto,Recorrente
+2024-11-22,PED00242,Motorola Edge 40,Smartphones,1,2200,2200,Leste,Cartão de Débito,Recorrente
+2024-09-19,PED00243,Xiaomi 13,Smartphones,1,2800,2800,Leste,Boleto,Recorrente
+2024-06-22,PED00244,Sony WH-1000XM5,Fones de Ouvido,2,1500,3000,Sul,Cartão de Crédito,Recorrente
+2024-02-20,PED00245,Xiaomi Band 8,Smartwatches,1,350,350,Oeste,Boleto,Recorrente
+2024-05-23,PED00246,Sony WH-1000XM5,Fones de Ouvido,3,1500,4500,Leste,Cartão de Débito,Recorrente
+2024-08-01,PED00247,Lenovo ThinkPad,Laptops,1,5800,5800,Centro,PIX,Novo
+2024-02-24,PED00248,JBL Tune 510,Fones de Ouvido,2,280,560,Sul,Cartão de Crédito,Recorrente
+2024-11-06,PED00249,iPad Air,Tablets,1,4200,4200,Norte,Boleto,Novo
+2024-01-13,PED00250,Samsung Galaxy Watch 6,Smartwatches,2,2800,5600,Oeste,PIX,Recorrente
+2024-08-21,PED00251,Garmin Forerunner,Smartwatches,2,2200,4400,Norte,Boleto,Novo
+2024-09-14,PED00252,Asus ROG,Laptops,1,9500,9500,Norte,Boleto,Novo
+2024-04-11,PED00253,AirPods Pro,Fones de Ouvido,1,1800,1800,Centro,Boleto,Recorrente
+2024-03-25,PED00254,Samsung Galaxy Watch 6,Smartwatches,1,2800,2800,Oeste,PIX,Novo
+2024-10-22,PED00255,iPad Air,Tablets,1,4200,4200,Oeste,Cartão de Crédito,Novo
+2024-08-22,PED00256,Amazon Fire HD,Tablets,1,850,850,Oeste,Boleto,Recorrente
+2024-07-12,PED00257,Samsung Galaxy S23,Smartphones,1,4200,4200,Sul,Boleto,Novo
+2024-04-25,PED00258,Sony WH-1000XM5,Fones de Ouvido,1,1500,1500,Oeste,PIX,Novo
+2024-03-23,PED00259,Samsung Tab S9,Tablets,1,3500,3500,Leste,PIX,Recorrente
+2024-11-09,PED00260,Xiaomi Band 8,Smartwatches,2,350,700,Leste,Cartão de Crédito,Novo
+2024-09-12,PED00261,Amazon Fire HD,Tablets,1,850,850,Oeste,Cartão de Crédito,Recorrente
+2024-07-28,PED00262,AirPods Pro,Fones de Ouvido,2,1800,3600,Norte,PIX,Recorrente
+2024-02-13,PED00263,Lenovo Tab P11,Tablets,2,1800,3600,Sul,Boleto,Novo
+2024-07-11,PED00264,Samsung Tab S9,Tablets,1,3500,3500,Leste,Cartão de Débito,Novo
+2024-04-20,PED00265,Lenovo ThinkPad,Laptops,1,5800,5800,Centro,PIX,Recorrente
+2024-05-16,PED00266,Sony WH-1000XM5,Fones de Ouvido,2,1500,3000,Centro,Cartão de Crédito,Recorrente
+2024-02-24,PED00267,Samsung Galaxy Watch 6,Smartwatches,1,2800,2800,Centro,Cartão de Crédito,Novo
+2024-04-02,PED00268,Motorola Edge 40,Smartphones,1,2200,2200,Oeste,Cartão de Débito,Recorrente
+2024-08-27,PED00269,iPhone 14,Smartphones,1,3500,3500,Sul,Cartão de Débito,Recorrente
+2024-11-28,PED00270,Samsung Galaxy S23,Smartphones,1,4200,4200,Centro,PIX,Recorrente
+2024-07-09,PED00271,Xiaomi Band 8,Smartwatches,1,350,350,Sul,Boleto,Novo
+2024-08-12,PED00272,Asus ROG,Laptops,1,9500,9500,Centro,Boleto,Recorrente
+2024-01-15,PED00273,MacBook Air M2,Laptops,1,8500,8500,Norte,Boleto,Recorrente
+2024-02-07,PED00274,iPad Air,Tablets,1,4200,4200,Sul,Cartão de Débito,Recorrente
+2024-07-14,PED00275,Dell XPS 15,Laptops,1,7200,7200,Sul,Cartão de Débito,Novo
+2024-06-26,PED00276,Samsung Galaxy S23,Smartphones,2,4200,8400,Centro,Cartão de Crédito,Recorrente
+2024-11-12,PED00277,Samsung Tab S9,Tablets,1,3500,3500,Sul,PIX,Recorrente
+2024-01-08,PED00278,iPhone 14,Smartphones,2,3500,7000,Oeste,Cartão de Débito,Novo
+2024-05-07,PED00279,Dell XPS 15,Laptops,1,7200,7200,Norte,Boleto,Recorrente
+2024-05-25,PED00280,Xiaomi Band 8,Smartwatches,1,350,350,Oeste,Cartão de Crédito,Recorrente
+2024-01-15,PED00281,Lenovo ThinkPad,Laptops,1,5800,5800,Leste,Boleto,Recorrente
+2024-03-22,PED00282,AirPods Pro,Fones de Ouvido,2,1800,3600,Sul,Boleto,Recorrente
+2024-08-20,PED00283,AirPods Pro,Fones de Ouvido,3,1800,5400,Centro,Cartão de Débito,Recorrente
+2024-06-20,PED00284,Samsung Galaxy Watch 6,Smartwatches,1,2800,2800,Norte,PIX,Novo
+2024-03-20,PED00285,Amazon Fire HD,Tablets,1,850,850,Leste,PIX,Recorrente
+2024-08-24,PED00286,Motorola Edge 40,Smartphones,1,2200,2200,Oeste,Boleto,Recorrente
+2024-04-20,PED00287,Apple Watch Series 9,Smartwatches,1,4500,4500,Centro,Boleto,Recorrente
+2024-06-23,PED00288,AirPods Pro,Fones de Ouvido,2,1800,3600,Leste,PIX,Recorrente
+2024-07-05,PED00289,AirPods Pro,Fones de Ouvido,3,1800,5400,Centro,Cartão de Débito,Recorrente
+2024-04-12,PED00290,Samsung Buds,Fones de Ouvido,2,650,1300,Norte,Cartão de Débito,Recorrente
+2024-03-28,PED00291,MacBook Air M2,Laptops,1,8500,8500,Sul,Cartão de Débito,Novo
+2024-08-16,PED00292,Dell XPS 15,Laptops,1,7200,7200,Centro,PIX,Recorrente
+2024-08-01,PED00293,AirPods Pro,Fones de Ouvido,3,1800,5400,Oeste,Cartão de Débito,Recorrente
+2024-08-26,PED00294,Garmin Forerunner,Smartwatches,1,2200,2200,Sul,Boleto,Novo
+2024-01-03,PED00295,Lenovo ThinkPad,Laptops,1,5800,5800,Centro,Boleto,Recorrente
+2024-09-17,PED00296,Samsung Galaxy Watch 6,Smartwatches,2,2800,5600,Oeste,Boleto,Recorrente
+2024-05-09,PED00297,Apple Watch Series 9,Smartwatches,1,4500,4500,Norte,Cartão de Crédito,Recorrente
+2024-01-10,PED00298,Motorola Edge 40,Smartphones,1,2200,2200,Leste,Cartão de Débito,Recorrente
+2024-04-21,PED00299,Apple Watch Series 9,Smartwatches,1,4500,4500,Centro,Boleto,Recorrente
+2024-03-10,PED00300,AirPods Pro,Fones de Ouvido,3,1800,5400,Leste,Cartão de Débito,Recorrente
+2024-05-19,PED00301,Amazon Fire HD,Tablets,1,850,850,Norte,Cartão de Débito,Recorrente
+2024-03-27,PED00302,Dell XPS 15,Laptops,2,7200,14400,Leste,Cartão de Crédito,Recorrente
+2024-04-03,PED00303,Xiaomi Band 8,Smartwatches,1,350,350,Leste,Cartão de Débito,Novo
+2024-06-25,PED00304,iPad Air,Tablets,1,4200,4200,Sul,Cartão de Débito,Recorrente
+2024-05-26,PED00305,Garmin Forerunner,Smartwatches,2,2200,4400,Oeste,Boleto,Recorrente
+2024-01-21,PED00306,Garmin Forerunner,Smartwatches,1,2200,2200,Leste,Boleto,Recorrente
+2024-06-04,PED00307,Samsung Galaxy S23,Smartphones,1,4200,4200,Norte,Boleto,Novo
+2024-10-16,PED00308,Asus ROG,Laptops,1,9500,9500,Norte,PIX,Novo
+2024-10-14,PED00309,Sony WH-1000XM5,Fones de Ouvido,3,1500,4500,Leste,Cartão de Crédito,Novo
+2024-05-28,PED00310,MacBook Air M2,Laptops,1,8500,8500,Leste,Cartão de Débito,Recorrente
+2024-12-12,PED00311,Asus ROG,Laptops,1,9500,9500,Centro,Cartão de Crédito,Recorrente
+2024-02-20,PED00312,Samsung Buds,Fones de Ouvido,1,650,650,Norte,Cartão de Débito,Novo
+2024-03-18,PED00313,Samsung Buds,Fones de Ouvido,3,650,1950,Sul,Cartão de Débito,Recorrente
+2024-02-16,PED00314,Xiaomi Band 8,Smartwatches,1,350,350,Norte,Boleto,Recorrente
+2024-11-10,PED00315,Xiaomi Band 8,Smartwatches,1,350,350,Oeste,Boleto,Recorrente
+2024-05-12,PED00316,Asus ROG,Laptops,2,9500,19000,Leste,Cartão de Crédito,Recorrente
+2024-07-22,PED00317,Lenovo ThinkPad,Laptops,2,5800,11600,Sul,Cartão de Crédito,Recorrente
+2024-03-08,PED00318,Motorola Edge 40,Smartphones,1,2200,2200,Oeste,PIX,Recorrente
+2024-11-18,PED00319,Samsung Tab S9,Tablets,1,3500,3500,Sul,Cartão de Crédito,Recorrente
+2024-12-20,PED00320,Apple Watch Series 9,Smartwatches,1,4500,4500,Centro,Boleto,Novo
+2024-09-28,PED00321,Samsung Buds,Fones de Ouvido,2,650,1300,Leste,Cartão de Crédito,Recorrente
+2024-04-02,PED00322,Asus ROG,Laptops,1,9500,9500,Norte,Cartão de Crédito,Recorrente
+2024-01-16,PED00323,Dell XPS 15,Laptops,1,7200,7200,Centro,Cartão de Débito,Recorrente
+2024-11-25,PED00324,Asus ROG,Laptops,2,9500,19000,Norte,Cartão de Crédito,Recorrente
+2024-05-14,PED00325,Samsung Galaxy Watch 6,Smartwatches,1,2800,2800,Centro,Boleto,Recorrente
+2024-07-07,PED00326,Samsung Galaxy S23,Smartphones,1,4200,4200,Leste,Cartão de Crédito,Recorrente
+2024-07-12,PED00327,MacBook Air M2,Laptops,1,8500,8500,Norte,Boleto,Recorrente
+2024-05-09,PED00328,Samsung Buds,Fones de Ouvido,2,650,1300,Leste,Cartão de Crédito,Novo
+2024-03-11,PED00329,Xiaomi 13,Smartphones,1,2800,2800,Sul,Cartão de Crédito,Novo
+2024-07-03,PED00330,iPhone 14,Smartphones,1,3500,3500,Sul,Boleto,Novo
+2024-09-23,PED00331,Apple Watch Series 9,Smartwatches,1,4500,4500,Norte,Boleto,Novo
+2024-04-01,PED00332,Sony WH-1000XM5,Fones de Ouvido,2,1500,3000,Sul,Boleto,Novo
+2024-05-10,PED00333,Lenovo Tab P11,Tablets,1,1800,1800,Leste,Cartão de Débito,Novo
+2024-10-01,PED00334,Amazon Fire HD,Tablets,2,850,1700,Sul,Boleto,Recorrente
+2024-08-16,PED00335,Asus ROG,Laptops,1,9500,9500,Centro,Cartão de Débito,Recorrente
+2024-09-21,PED00336,JBL Tune 510,Fones de Ouvido,2,280,560,Oeste,Cartão de Crédito,Recorrente
+2024-06-04,PED00337,iPad Air,Tablets,1,4200,4200,Leste,Boleto,Recorrente
+2024-06-25,PED00338,Amazon Fire HD,Tablets,1,850,850,Norte,Cartão de Débito,Recorrente
+2024-08-12,PED00339,Garmin Forerunner,Smartwatches,1,2200,2200,Leste,Cartão de Débito,Recorrente
+2024-09-15,PED00340,Dell XPS 15,Laptops,1,7200,7200,Centro,Boleto,Recorrente
+2024-07-10,PED00341,Garmin Forerunner,Smartwatches,2,2200,4400,Centro,Cartão de Débito,Recorrente
+2024-11-19,PED00342,Amazon Fire HD,Tablets,1,850,850,Norte,Boleto,Recorrente
+2024-04-01,PED00343,Asus ROG,Laptops,2,9500,19000,Norte,Cartão de Crédito,Recorrente
+2024-12-12,PED00344,Motorola Edge 40,Smartphones,1,2200,2200,Oeste,Boleto,Recorrente
+2024-10-02,PED00345,iPad Air,Tablets,1,4200,4200,Centro,Cartão de Débito,Recorrente
+2024-12-21,PED00346,JBL Tune 510,Fones de Ouvido,1,280,280,Oeste,Cartão de Crédito,Recorrente
+2024-02-02,PED00347,Motorola Edge 40,Smartphones,1,2200,2200,Leste,Cartão de Débito,Novo
+2024-05-09,PED00348,Amazon Fire HD,Tablets,1,850,850,Oeste,Cartão de Crédito,Novo
+2024-03-09,PED00349,Xiaomi Band 8,Smartwatches,1,350,350,Leste,Cartão de Débito,Recorrente
+2024-01-10,PED00350,Sony WH-1000XM5,Fones de Ouvido,3,1500,4500,Sul,Cartão de Débito,Recorrente
+2024-04-26,PED00351,Dell XPS 15,Laptops,1,7200,7200,Centro,Cartão de Débito,Novo
+2024-08-14,PED00352,Amazon Fire HD,Tablets,2,850,1700,Norte,Cartão de Débito,Recorrente
+2024-12-06,PED00353,Samsung Buds,Fones de Ouvido,3,650,1950,Leste,Cartão de Débito,Novo
+2024-09-08,PED00354,Xiaomi 13,Smartphones,1,2800,2800,Norte,Cartão de Débito,Recorrente
+2024-06-11,PED00355,Xiaomi 13,Smartphones,2,2800,5600,Norte,Boleto,Recorrente
+2024-02-19,PED00356,Apple Watch Series 9,Smartwatches,1,4500,4500,Oeste,Boleto,Novo
+2024-01-17,PED00357,Xiaomi 13,Smartphones,1,2800,2800,Leste,Boleto,Recorrente
+2024-02-07,PED00358,Amazon Fire HD,Tablets,1,850,850,Sul,Cartão de Crédito,Recorrente
+2024-03-06,PED00359,JBL Tune 510,Fones de Ouvido,1,280,280,Sul,Cartão de Débito,Recorrente
+2024-03-02,PED00360,Asus ROG,Laptops,1,9500,9500,Centro,PIX,Recorrente
+2024-07-21,PED00361,Garmin Forerunner,Smartwatches,1,2200,2200,Leste,Cartão de Crédito,Recorrente
+2024-10-27,PED00362,Motorola Edge 40,Smartphones,1,2200,2200,Oeste,Cartão de Crédito,Recorrente
+2024-12-25,PED00363,Apple Watch Series 9,Smartwatches,1,4500,4500,Centro,Cartão de Crédito,Recorrente
+2024-01-06,PED00364,MacBook Air M2,Laptops,1,8500,8500,Sul,Boleto,Recorrente
+2024-04-16,PED00365,Xiaomi Band 8,Smartwatches,1,350,350,Leste,PIX,Recorrente
+2024-02-26,PED00366,Samsung Galaxy S23,Smartphones,1,4200,4200,Leste,Boleto,Recorrente
+2024-09-28,PED00367,Lenovo Tab P11,Tablets,1,1800,1800,Norte,Cartão de Débito,Recorrente
+2024-07-10,PED00368,Xiaomi Band 8,Smartwatches,2,350,700,Oeste,Boleto,Novo
+2024-10-05,PED00369,JBL Tune 510,Fones de Ouvido,2,280,560,Leste,Cartão de Débito,Recorrente
+2024-09-14,PED00370,Samsung Galaxy S23,Smartphones,1,4200,4200,Norte,Cartão de Crédito,Recorrente
+2024-09-20,PED00371,Xiaomi Band 8,Smartwatches,1,350,350,Sul,Cartão de Débito,Recorrente
+2024-11-24,PED00372,iPad Air,Tablets,2,4200,8400,Leste,Boleto,Recorrente
+2024-02-03,PED00373,MacBook Air M2,Laptops,1,8500,8500,Norte,PIX,Recorrente
+2024-06-11,PED00374,Amazon Fire HD,Tablets,2,850,1700,Centro,Cartão de Crédito,Recorrente
+2024-04-23,PED00375,Lenovo ThinkPad,Laptops,1,5800,5800,Norte,Cartão de Débito,Recorrente
+2024-10-17,PED00376,JBL Tune 510,Fones de Ouvido,2,280,560,Centro,Cartão de Crédito,Recorrente
+2024-07-25,PED00377,Lenovo ThinkPad,Laptops,2,5800,11600,Leste,Boleto,Recorrente
+2024-09-16,PED00378,Sony WH-1000XM5,Fones de Ouvido,1,1500,1500,Sul,Boleto,Recorrente
+2024-02-02,PED00379,iPhone 14,Smartphones,1,3500,3500,Leste,Cartão de Crédito,Recorrente
+2024-01-03,PED00380,Lenovo ThinkPad,Laptops,2,5800,11600,Leste,Cartão de Débito,Recorrente
+2024-02-07,PED00381,Lenovo ThinkPad,Laptops,1,5800,5800,Oeste,PIX,Novo
+2024-01-11,PED00382,Motorola Edge 40,Smartphones,1,2200,2200,Oeste,Cartão de Débito,Novo
+2024-03-23,PED00383,iPhone 14,Smartphones,1,3500,3500,Sul,Cartão de Débito,Recorrente
+2024-04-19,PED00384,Apple Watch Series 9,Smartwatches,1,4500,4500,Oeste,Boleto,Recorrente
+2024-09-04,PED00385,iPad Air,Tablets,1,4200,4200,Oeste,Boleto,Novo
+2024-10-16,PED00386,Lenovo Tab P11,Tablets,1,1800,1800,Sul,Cartão de Débito,Recorrente
+2024-04-02,PED00387,Garmin Forerunner,Smartwatches,1,2200,2200,Norte,Cartão de Débito,Novo
+2024-04-23,PED00388,Garmin Forerunner,Smartwatches,1,2200,2200,Sul,Cartão de Crédito,Recorrente
+2024-08-03,PED00389,Dell XPS 15,Laptops,1,7200,7200,Oeste,Cartão de Débito,Recorrente
+2024-08-12,PED00390,Samsung Galaxy S23,Smartphones,2,4200,8400,Leste,Boleto,Recorrente
+2024-07-19,PED00391,Amazon Fire HD,Tablets,2,850,1700,Norte,PIX,Recorrente
+2024-04-01,PED00392,Xiaomi Band 8,Smartwatches,1,350,350,Norte,Cartão de Crédito,Recorrente
+2024-05-21,PED00393,AirPods Pro,Fones de Ouvido,1,1800,1800,Leste,Cartão de Crédito,Recorrente
+2024-05-24,PED00394,Samsung Buds,Fones de Ouvido,2,650,1300,Oeste,Boleto,Recorrente
+2024-05-07,PED00395,MacBook Air M2,Laptops,1,8500,8500,Oeste,Boleto,Recorrente
+2024-03-25,PED00396,iPhone 14,Smartphones,1,3500,3500,Sul,PIX,Recorrente
+2024-04-12,PED00397,Lenovo Tab P11,Tablets,1,1800,1800,Oeste,Cartão de Crédito,Recorrente
+2024-07-12,PED00398,Dell XPS 15,Laptops,1,7200,7200,Oeste,Cartão de Débito,Recorrente
+2024-07-10,PED00399,AirPods Pro,Fones de Ouvido,3,1800,5400,Oeste,Cartão de Crédito,Recorrente
+2024-08-25,PED00400,AirPods Pro,Fones de Ouvido,2,1800,3600,Centro,Boleto,Recorrente
+2024-06-09,PED00401,Sony WH-1000XM5,Fones de Ouvido,3,1500,4500,Sul,Cartão de Débito,Recorrente
+2024-01-15,PED00402,Dell XPS 15,Laptops,1,7200,7200,Leste,PIX,Recorrente
+2024-11-03,PED00403,Xiaomi 13,Smartphones,1,2800,2800,Centro,Cartão de Crédito,Recorrente
+2024-11-28,PED00404,Xiaomi Band 8,Smartwatches,1,350,350,Oeste,PIX,Novo
+2024-07-05,PED00405,Samsung Galaxy S23,Smartphones,1,4200,4200,Centro,Cartão de Débito,Recorrente
+2024-11-20,PED00406,Samsung Tab S9,Tablets,1,3500,3500,Sul,Cartão de Débito,Novo
+2024-06-18,PED00407,Apple Watch Series 9,Smartwatches,1,4500,4500,Norte,Cartão de Crédito,Novo
+2024-08-09,PED00408,Garmin Forerunner,Smartwatches,2,2200,4400,Centro,PIX,Recorrente
+2024-08-01,PED00409,Samsung Galaxy Watch 6,Smartwatches,1,2800,2800,Sul,PIX,Recorrente
+2024-04-18,PED00410,Lenovo Tab P11,Tablets,2,1800,3600,Norte,Cartão de Débito,Novo
+2024-08-25,PED00411,Samsung Tab S9,Tablets,1,3500,3500,Centro,Cartão de Crédito,Recorrente
+2024-12-04,PED00412,Xiaomi 13,Smartphones,1,2800,2800,Centro,Cartão de Débito,Recorrente
+2024-09-13,PED00413,Amazon Fire HD,Tablets,1,850,850,Sul,Boleto,Recorrente
+2024-10-10,PED00414,Sony WH-1000XM5,Fones de Ouvido,2,1500,3000,Leste,Boleto,Recorrente
+2024-03-21,PED00415,Xiaomi 13,Smartphones,1,2800,2800,Centro,PIX,Novo
+2024-08-17,PED00416,iPad Air,Tablets,2,4200,8400,Norte,PIX,Recorrente
+2024-01-05,PED00417,Garmin Forerunner,Smartwatches,1,2200,2200,Norte,PIX,Recorrente
+2024-08-08,PED00418,Samsung Buds,Fones de Ouvido,3,650,1950,Oeste,PIX,Recorrente
+2024-10-16,PED00419,Samsung Galaxy Watch 6,Smartwatches,2,2800,5600,Leste,Cartão de Crédito,Recorrente
+2024-01-04,PED00420,Asus ROG,Laptops,2,9500,19000,Centro,Cartão de Débito,Novo
+2024-12-08,PED00421,Apple Watch Series 9,Smartwatches,1,4500,4500,Norte,Boleto,Novo
+2024-02-20,PED00422,Motorola Edge 40,Smartphones,1,2200,2200,Oeste,Cartão de Crédito,Novo
+2024-01-27,PED00423,Amazon Fire HD,Tablets,1,850,850,Norte,PIX,Novo
+2024-06-24,PED00424,Lenovo ThinkPad,Laptops,2,5800,11600,Sul,Cartão de Crédito,Recorrente
+2024-06-19,PED00425,Samsung Galaxy S23,Smartphones,1,4200,4200,Leste,PIX,Novo
+2024-02-13,PED00426,Samsung Tab S9,Tablets,1,3500,3500,Norte,Cartão de Crédito,Novo
+2024-10-26,PED00427,Motorola Edge 40,Smartphones,1,2200,2200,Centro,PIX,Novo
+2024-10-10,PED00428,Xiaomi 13,Smartphones,1,2800,2800,Centro,Cartão de Crédito,Recorrente
+2024-04-05,PED00429,Dell XPS 15,Laptops,1,7200,7200,Centro,PIX,Recorrente
+2024-11-08,PED00430,Samsung Buds,Fones de Ouvido,1,650,650,Centro,Cartão de Débito,Novo
+2024-08-13,PED00431,Sony WH-1000XM5,Fones de Ouvido,1,1500,1500,Centro,Cartão de Débito,Novo
+2024-04-25,PED00432,MacBook Air M2,Laptops,1,8500,8500,Centro,Boleto,Recorrente
+2024-12-24,PED00433,Xiaomi Band 8,Smartwatches,1,350,350,Centro,Cartão de Débito,Novo
+2024-02-20,PED00434,iPad Air,Tablets,1,4200,4200,Oeste,PIX,Recorrente
+2024-04-26,PED00435,JBL Tune 510,Fones de Ouvido,2,280,560,Centro,Boleto,Recorrente
+2024-10-04,PED00436,iPhone 14,Smartphones,1,3500,3500,Norte,PIX,Novo
+2024-12-01,PED00437,Motorola Edge 40,Smartphones,1,2200,2200,Sul,Cartão de Débito,Recorrente
+2024-12-26,PED00438,AirPods Pro,Fones de Ouvido,3,1800,5400,Leste,Cartão de Crédito,Recorrente
+2024-01-12,PED00439,Xiaomi 13,Smartphones,1,2800,2800,Centro,PIX,Novo
+2024-09-26,PED00440,JBL Tune 510,Fones de Ouvido,2,280,560,Sul,Boleto,Recorrente
+2024-03-25,PED00441,Samsung Galaxy S23,Smartphones,1,4200,4200,Oeste,Cartão de Crédito,Recorrente
+2024-09-14,PED00442,iPhone 14,Smartphones,1,3500,3500,Leste,Boleto,Recorrente
+2024-04-19,PED00443,iPhone 14,Smartphones,1,3500,3500,Centro,Cartão de Débito,Recorrente
+2024-01-23,PED00444,Xiaomi Band 8,Smartwatches,1,350,350,Sul,PIX,Recorrente
+2024-05-10,PED00445,MacBook Air M2,Laptops,2,8500,17000,Leste,PIX,Recorrente
+2024-07-25,PED00446,Xiaomi 13,Smartphones,1,2800,2800,Norte,Boleto,Recorrente
+2024-06-02,PED00447,Samsung Buds,Fones de Ouvido,1,650,650,Leste,Boleto,Recorrente
+2024-05-26,PED00448,Amazon Fire HD,Tablets,1,850,850,Centro,PIX,Novo
+2024-11-06,PED00449,Xiaomi 13,Smartphones,1,2800,2800,Norte,Boleto,Recorrente
+2024-11-09,PED00450,Sony WH-1000XM5,Fones de Ouvido,3,1500,4500,Oeste,Cartão de Crédito,Recorrente
+2024-04-05,PED00451,Sony WH-1000XM5,Fones de Ouvido,3,1500,4500,Oeste,Boleto,Novo
+2024-09-27,PED00452,iPhone 14,Smartphones,1,3500,3500,Centro,Boleto,Recorrente
+2024-12-05,PED00453,JBL Tune 510,Fones de Ouvido,2,280,560,Norte,Boleto,Recorrente
+2024-09-11,PED00454,Samsung Galaxy Watch 6,Smartwatches,1,2800,2800,Leste,Cartão de Débito,Novo
+2024-06-19,PED00455,Xiaomi 13,Smartphones,1,2800,2800,Sul,Boleto,Recorrente
+2024-03-01,PED00456,Samsung Buds,Fones de Ouvido,2,650,1300,Leste,Boleto,Novo
+2024-05-13,PED00457,iPhone 14,Smartphones,2,3500,7000,Leste,PIX,Novo
+2024-06-24,PED00458,Samsung Tab S9,Tablets,2,3500,7000,Sul,Cartão de Débito,Recorrente
+2024-01-02,PED00459,Amazon Fire HD,Tablets,1,850,850,Leste,Cartão de Crédito,Novo
+2024-11-09,PED00460,iPad Air,Tablets,1,4200,4200,Sul,Cartão de Crédito,Recorrente
+2024-04-18,PED00461,AirPods Pro,Fones de Ouvido,1,1800,1800,Oeste,Cartão de Crédito,Novo
+2024-02-21,PED00462,Dell XPS 15,Laptops,1,7200,7200,Sul,PIX,Novo
+2024-11-17,PED00463,AirPods Pro,Fones de Ouvido,2,1800,3600,Sul,Boleto,Recorrente
+2024-02-15,PED00464,MacBook Air M2,Laptops,1,8500,8500,Sul,Cartão de Crédito,Novo
+2024-02-12,PED00465,Xiaomi Band 8,Smartwatches,1,350,350,Centro,PIX,Novo
+2024-09-11,PED00466,Garmin Forerunner,Smartwatches,1,2200,2200,Oeste,Cartão de Crédito,Recorrente
+2024-05-07,PED00467,Sony WH-1000XM5,Fones de Ouvido,1,1500,1500,Oeste,Boleto,Recorrente
+2024-12-03,PED00468,Samsung Galaxy S23,Smartphones,1,4200,4200,Oeste,Boleto,Recorrente
+2024-12-18,PED00469,Samsung Buds,Fones de Ouvido,1,650,650,Oeste,Cartão de Débito,Novo
+2024-06-08,PED00470,Samsung Buds,Fones de Ouvido,2,650,1300,Oeste,Cartão de Débito,Recorrente
+2024-06-01,PED00471,iPhone 14,Smartphones,2,3500,7000,Oeste,Boleto,Recorrente
+2024-10-16,PED00472,Xiaomi Band 8,Smartwatches,1,350,350,Sul,Cartão de Crédito,Novo
+2024-05-14,PED00473,Motorola Edge 40,Smartphones,1,2200,2200,Norte,Boleto,Novo
+2024-04-12,PED00474,Samsung Buds,Fones de Ouvido,1,650,650,Leste,Boleto,Recorrente
+2024-03-28,PED00475,Xiaomi 13,Smartphones,2,2800,5600,Leste,Boleto,Recorrente
+2024-11-25,PED00476,Xiaomi 13,Smartphones,1,2800,2800,Leste,Cartão de Crédito,Novo
+2024-06-05,PED00477,Samsung Buds,Fones de Ouvido,2,650,1300,Leste,PIX,Recorrente
+2024-09-14,PED00478,AirPods Pro,Fones de Ouvido,1,1800,1800,Centro,Cartão de Débito,Recorrente
+2024-03-05,PED00479,Lenovo ThinkPad,Laptops,1,5800,5800,Leste,Cartão de Débito,Recorrente
+2024-05-24,PED00480,AirPods Pro,Fones de Ouvido,1,1800,1800,Centro,Cartão de Crédito,Recorrente
+2024-10-18,PED00481,Samsung Galaxy S23,Smartphones,1,4200,4200,Leste,Cartão de Crédito,Recorrente
+2024-07-24,PED00482,Samsung Galaxy Watch 6,Smartwatches,2,2800,5600,Norte,Cartão de Débito,Novo
+2024-11-08,PED00483,Sony WH-1000XM5,Fones de Ouvido,2,1500,3000,Leste,Boleto,Novo
+2024-08-20,PED00484,Garmin Forerunner,Smartwatches,1,2200,2200,Norte,Boleto,Recorrente
+2024-01-17,PED00485,MacBook Air M2,Laptops,2,8500,17000,Leste,Cartão de Débito,Recorrente
+2024-10-08,PED00486,Motorola Edge 40,Smartphones,1,2200,2200,Leste,Boleto,Recorrente
+2024-05-17,PED00487,AirPods Pro,Fones de Ouvido,3,1800,5400,Centro,Cartão de Crédito,Recorrente
+2024-12-16,PED00488,AirPods Pro,Fones de Ouvido,3,1800,5400,Leste,Cartão de Débito,Recorrente
+2024-08-11,PED00489,Amazon Fire HD,Tablets,2,850,1700,Leste,Cartão de Débito,Novo
+2024-09-25,PED00490,Lenovo Tab P11,Tablets,1,1800,1800,Sul,Cartão de Débito,Recorrente
+2024-06-17,PED00491,AirPods Pro,Fones de Ouvido,3,1800,5400,Oeste,PIX,Recorrente
+2024-11-07,PED00492,Lenovo Tab P11,Tablets,1,1800,1800,Sul,Boleto,Recorrente
+2024-08-06,PED00493,iPhone 14,Smartphones,1,3500,3500,Norte,Cartão de Débito,Recorrente
+2024-09-03,PED00494,Samsung Buds,Fones de Ouvido,2,650,1300,Sul,PIX,Recorrente
+2024-09-25,PED00495,Xiaomi Band 8,Smartwatches,1,350,350,Leste,Boleto,Novo
+2024-03-17,PED00496,Samsung Buds,Fones de Ouvido,1,650,650,Norte,Boleto,Novo
+2024-08-21,PED00497,Lenovo Tab P11,Tablets,1,1800,1800,Oeste,Cartão de Débito,Recorrente
+2024-05-12,PED00498,Sony WH-1000XM5,Fones de Ouvido,1,1500,1500,Sul,Cartão de Crédito,Recorrente
+2024-01-02,PED00499,Amazon Fire HD,Tablets,2,850,1700,Sul,PIX,Novo
+2024-09-28,PED00500,MacBook Air M2,Laptops,1,8500,8500,Oeste,Boleto,Recorrente
+2024-03-15,PED00501,Xiaomi Band 8,Smartwatches,1,350,350,Norte,Cartão de Crédito,Recorrente
+2024-09-05,PED00502,Samsung Buds,Fones de Ouvido,3,650,1950,Norte,PIX,Recorrente
+2024-06-18,PED00503,Xiaomi 13,Smartphones,1,2800,2800,Norte,Cartão de Crédito,Novo
+2024-09-14,PED00504,Samsung Buds,Fones de Ouvido,2,650,1300,Leste,Cartão de Débito,Novo
+2024-02-04,PED00505,Asus ROG,Laptops,1,9500,9500,Sul,Boleto,Novo
+2024-11-15,PED00506,Motorola Edge 40,Smartphones,2,2200,4400,Leste,Boleto,Recorrente
+2024-04-11,PED00507,Amazon Fire HD,Tablets,1,850,850,Centro,PIX,Novo
+2024-05-12,PED00508,Xiaomi Band 8,Smartwatches,1,350,350,Norte,Cartão de Crédito,Recorrente
+2024-05-06,PED00509,Sony WH-1000XM5,Fones de Ouvido,2,1500,3000,Leste,Cartão de Crédito,Recorrente
+2024-09-04,PED00510,iPad Air,Tablets,1,4200,4200,Oeste,PIX,Recorrente
+2024-01-24,PED00511,Samsung Tab S9,Tablets,2,3500,7000,Leste,Cartão de Débito,Recorrente
+2024-12-05,PED00512,Dell XPS 15,Laptops,1,7200,7200,Centro,PIX,Recorrente
+2024-08-08,PED00513,Motorola Edge 40,Smartphones,1,2200,2200,Leste,Cartão de Crédito,Recorrente
+2024-07-23,PED00514,Xiaomi 13,Smartphones,1,2800,2800,Norte,Cartão de Débito,Recorrente
+2024-10-19,PED00515,Asus ROG,Laptops,1,9500,9500,Centro,Boleto,Recorrente
+2024-01-26,PED00516,JBL Tune 510,Fones de Ouvido,3,280,840,Sul,Boleto,Novo
+2024-11-20,PED00517,Amazon Fire HD,Tablets,1,850,850,Oeste,Cartão de Crédito,Recorrente
+2024-02-18,PED00518,JBL Tune 510,Fones de Ouvido,1,280,280,Oeste,Cartão de Crédito,Novo
+2024-11-25,PED00519,Asus ROG,Laptops,2,9500,19000,Norte,Boleto,Novo
+2024-02-08,PED00520,Samsung Buds,Fones de Ouvido,1,650,650,Oeste,Cartão de Crédito,Recorrente
+2024-03-23,PED00521,Samsung Buds,Fones de Ouvido,1,650,650,Centro,Boleto,Recorrente
+2024-02-15,PED00522,Xiaomi 13,Smartphones,1,2800,2800,Oeste,Cartão de Débito,Recorrente
+2024-07-09,PED00523,Amazon Fire HD,Tablets,1,850,850,Sul,Boleto,Novo
+2024-09-19,PED00524,Samsung Buds,Fones de Ouvido,3,650,1950,Oeste,Cartão de Crédito,Recorrente
+2024-05-13,PED00525,Apple Watch Series 9,Smartwatches,2,4500,9000,Leste,Cartão de Débito,Recorrente
+2024-02-08,PED00526,Sony WH-1000XM5,Fones de Ouvido,3,1500,4500,Leste,Cartão de Crédito,Novo
+2024-02-25,PED00527,iPad Air,Tablets,1,4200,4200,Norte,Cartão de Crédito,Recorrente
+2024-07-21,PED00528,Garmin Forerunner,Smartwatches,1,2200,2200,Centro,Cartão de Débito,Recorrente
+2024-02-27,PED00529,Samsung Galaxy Watch 6,Smartwatches,1,2800,2800,Norte,PIX,Novo
+2024-05-27,PED00530,Sony WH-1000XM5,Fones de Ouvido,2,1500,3000,Sul,PIX,Recorrente
+2024-09-15,PED00531,Apple Watch Series 9,Smartwatches,1,4500,4500,Oeste,PIX,Novo
+2024-03-21,PED00532,Asus ROG,Laptops,1,9500,9500,Leste,Cartão de Débito,Recorrente
+2024-09-19,PED00533,Lenovo ThinkPad,Laptops,1,5800,5800,Leste,PIX,Recorrente
+2024-11-01,PED00534,Lenovo Tab P11,Tablets,1,1800,1800,Sul,Cartão de Crédito,Recorrente
+2024-09-28,PED00535,Sony WH-1000XM5,Fones de Ouvido,3,1500,4500,Centro,PIX,Novo
+2024-11-21,PED00536,Xiaomi Band 8,Smartwatches,1,350,350,Norte,Cartão de Crédito,Novo
+2024-07-18,PED00537,Motorola Edge 40,Smartphones,1,2200,2200,Oeste,Cartão de Débito,Novo
+2024-12-16,PED00538,Samsung Galaxy Watch 6,Smartwatches,2,2800,5600,Sul,Cartão de Débito,Novo
+2024-09-05,PED00539,iPad Air,Tablets,2,4200,8400,Norte,Boleto,Novo
+2024-12-25,PED00540,Motorola Edge 40,Smartphones,2,2200,4400,Norte,Boleto,Novo
+2024-03-10,PED00541,Asus ROG,Laptops,1,9500,9500,Sul,Cartão de Débito,Recorrente
+2024-08-22,PED00542,Dell XPS 15,Laptops,1,7200,7200,Centro,Cartão de Crédito,Recorrente
+2024-01-04,PED00543,Samsung Galaxy Watch 6,Smartwatches,1,2800,2800,Leste,Cartão de Crédito,Recorrente
+2024-04-01,PED00544,Samsung Buds,Fones de Ouvido,3,650,1950,Centro,Cartão de Débito,Recorrente
+2024-08-06,PED00545,AirPods Pro,Fones de Ouvido,3,1800,5400,Oeste,Cartão de Crédito,Recorrente
+2024-10-11,PED00546,JBL Tune 510,Fones de Ouvido,1,280,280,Sul,PIX,Novo
+2024-02-12,PED00547,MacBook Air M2,Laptops,2,8500,17000,Centro,PIX,Recorrente
+2024-03-11,PED00548,Asus ROG,Laptops,2,9500,19000,Oeste,Cartão de Débito,Recorrente
+2024-05-24,PED00549,Asus ROG,Laptops,2,9500,19000,Oeste,Boleto,Novo
+2024-01-27,PED00550,Apple Watch Series 9,Smartwatches,1,4500,4500,Sul,PIX,Recorrente
+2024-09-21,PED00551,Xiaomi 13,Smartphones,1,2800,2800,Sul,Cartão de Débito,Recorrente
+2024-06-08,PED00552,Motorola Edge 40,Smartphones,1,2200,2200,Norte,Boleto,Novo
+2024-02-15,PED00553,Xiaomi Band 8,Smartwatches,1,350,350,Norte,PIX,Novo
+2024-09-11,PED00554,Sony WH-1000XM5,Fones de Ouvido,1,1500,1500,Centro,PIX,Recorrente
+2024-12-25,PED00555,Samsung Galaxy Watch 6,Smartwatches,1,2800,2800,Oeste,Cartão de Débito,Recorrente
+2024-09-28,PED00556,Xiaomi Band 8,Smartwatches,1,350,350,Oeste,Cartão de Débito,Novo
+2024-10-17,PED00557,Samsung Galaxy S23,Smartphones,2,4200,8400,Centro,PIX,Recorrente
+2024-09-04,PED00558,iPhone 14,Smartphones,1,3500,3500,Oeste,PIX,Recorrente
+2024-10-27,PED00559,AirPods Pro,Fones de Ouvido,2,1800,3600,Centro,Cartão de Crédito,Recorrente
+2024-02-12,PED00560,iPad Air,Tablets,1,4200,4200,Leste,Cartão de Débito,Recorrente
+2024-08-11,PED00561,JBL Tune 510,Fones de Ouvido,3,280,840,Norte,Cartão de Débito,Recorrente
+2024-07-07,PED00562,Lenovo Tab P11,Tablets,1,1800,1800,Leste,Boleto,Novo
+2024-09-10,PED00563,Samsung Galaxy S23,Smartphones,1,4200,4200,Oeste,Cartão de Débito,Recorrente
+2024-11-28,PED00564,Dell XPS 15,Laptops,1,7200,7200,Sul,Cartão de Crédito,Novo
+2024-07-17,PED00565,iPad Air,Tablets,1,4200,4200,Leste,Cartão de Débito,Recorrente
+2024-02-16,PED00566,MacBook Air M2,Laptops,1,8500,8500,Leste,Cartão de Débito,Novo
+2024-07-28,PED00567,Amazon Fire HD,Tablets,2,850,1700,Leste,Cartão de Crédito,Recorrente
+2024-11-09,PED00568,Apple Watch Series 9,Smartwatches,1,4500,4500,Centro,Cartão de Crédito,Novo
+2024-07-11,PED00569,MacBook Air M2,Laptops,1,8500,8500,Centro,PIX,Recorrente
+2024-12-22,PED00570,Lenovo Tab P11,Tablets,1,1800,1800,Sul,Boleto,Recorrente
+2024-01-26,PED00571,Amazon Fire HD,Tablets,1,850,850,Leste,Cartão de Crédito,Recorrente
+2024-05-15,PED00572,Lenovo ThinkPad,Laptops,1,5800,5800,Sul,Cartão de Crédito,Novo
+2024-08-26,PED00573,Sony WH-1000XM5,Fones de Ouvido,2,1500,3000,Norte,Cartão de Débito,Novo
+2024-01-08,PED00574,Samsung Tab S9,Tablets,1,3500,3500,Norte,PIX,Novo
+2024-06-21,PED00575,Xiaomi 13,Smartphones,1,2800,2800,Norte,Boleto,Novo
+2024-04-08,PED00576,Motorola Edge 40,Smartphones,1,2200,2200,Oeste,Cartão de Crédito,Recorrente
+2024-04-23,PED00577,Lenovo Tab P11,Tablets,1,1800,1800,Oeste,Cartão de Crédito,Recorrente
+2024-11-12,PED00578,Asus ROG,Laptops,1,9500,9500,Centro,Boleto,Recorrente
+2024-12-11,PED00579,Xiaomi Band 8,Smartwatches,1,350,350,Norte,Cartão de Crédito,Recorrente
+2024-03-24,PED00580,JBL Tune 510,Fones de Ouvido,1,280,280,Oeste,Boleto,Recorrente
+2024-06-22,PED00581,Xiaomi 13,Smartphones,2,2800,5600,Sul,PIX,Recorrente
+2024-09-02,PED00582,Samsung Tab S9,Tablets,1,3500,3500,Centro,PIX,Recorrente
+2024-01-10,PED00583,Lenovo Tab P11,Tablets,1,1800,1800,Sul,Cartão de Crédito,Novo
+2024-07-07,PED00584,Lenovo Tab P11,Tablets,1,1800,1800,Oeste,Cartão de Crédito,Recorrente
+2024-08-09,PED00585,Motorola Edge 40,Smartphones,1,2200,2200,Norte,PIX,Recorrente
+2024-03-22,PED00586,Lenovo ThinkPad,Laptops,2,5800,11600,Leste,Cartão de Crédito,Novo
+2024-08-22,PED00587,iPhone 14,Smartphones,1,3500,3500,Norte,PIX,Recorrente
+2024-07-16,PED00588,Asus ROG,Laptops,2,9500,19000,Centro,Boleto,Novo
+2024-06-19,PED00589,Garmin Forerunner,Smartwatches,1,2200,2200,Centro,Boleto,Novo
+2024-01-01,PED00590,iPad Air,Tablets,1,4200,4200,Norte,Cartão de Débito,Recorrente
+2024-03-26,PED00591,JBL Tune 510,Fones de Ouvido,3,280,840,Centro,Boleto,Recorrente
+2024-08-22,PED00592,Apple Watch Series 9,Smartwatches,2,4500,9000,Norte,Cartão de Crédito,Novo
+2024-07-08,PED00593,Samsung Galaxy Watch 6,Smartwatches,2,2800,5600,Centro,PIX,Recorrente
+2024-12-03,PED00594,iPhone 14,Smartphones,1,3500,3500,Sul,Boleto,Recorrente
+2024-03-16,PED00595,Xiaomi 13,Smartphones,1,2800,2800,Norte,PIX,Novo
+2024-03-17,PED00596,Sony WH-1000XM5,Fones de Ouvido,3,1500,4500,Leste,Boleto,Novo
+2024-05-27,PED00597,iPhone 14,Smartphones,2,3500,7000,Sul,PIX,Novo
+2024-01-10,PED00598,Asus ROG,Laptops,1,9500,9500,Leste,PIX,Recorrente
+2024-12-10,PED00599,MacBook Air M2,Laptops,1,8500,8500,Oeste,Boleto,Recorrente
+2024-06-09,PED00600,Apple Watch Series 9,Smartwatches,1,4500,4500,Oeste,Cartão de Débito,Recorrente
+2024-08-26,PED00601,Motorola Edge 40,Smartphones,2,2200,4400,Oeste,Cartão de Crédito,Recorrente
+2024-06-07,PED00602,Asus ROG,Laptops,2,9500,19000,Centro,Cartão de Débito,Recorrente
+2024-07-17,PED00603,Apple Watch Series 9,Smartwatches,2,4500,9000,Norte,Cartão de Débito,Recorrente
+2024-01-08,PED00604,iPad Air,Tablets,1,4200,4200,Centro,PIX,Novo
+2024-06-20,PED00605,Sony WH-1000XM5,Fones de Ouvido,2,1500,3000,Norte,Boleto,Recorrente
+2024-02-09,PED00606,Samsung Tab S9,Tablets,1,3500,3500,Sul,PIX,Recorrente
+2024-04-24,PED00607,Samsung Buds,Fones de Ouvido,3,650,1950,Leste,Cartão de Crédito,Recorrente
+2024-01-05,PED00608,Apple Watch Series 9,Smartwatches,2,4500,9000,Norte,PIX,Recorrente
+2024-02-04,PED00609,Garmin Forerunner,Smartwatches,1,2200,2200,Oeste,Cartão de Crédito,Recorrente
+2024-12-16,PED00610,JBL Tune 510,Fones de Ouvido,2,280,560,Oeste,Boleto,Recorrente
+2024-06-22,PED00611,Xiaomi Band 8,Smartwatches,2,350,700,Centro,Cartão de Débito,Recorrente
+2024-06-07,PED00612,AirPods Pro,Fones de Ouvido,1,1800,1800,Norte,Cartão de Crédito,Recorrente
+2024-07-26,PED00613,Xiaomi 13,Smartphones,1,2800,2800,Leste,Cartão de Débito,Recorrente
+2024-04-10,PED00614,Garmin Forerunner,Smartwatches,1,2200,2200,Centro,PIX,Recorrente
+2024-07-20,PED00615,AirPods Pro,Fones de Ouvido,1,1800,1800,Leste,Cartão de Débito,Recorrente
+2024-04-19,PED00616,Xiaomi Band 8,Smartwatches,1,350,350,Leste,Boleto,Recorrente
+2024-10-07,PED00617,Dell XPS 15,Laptops,1,7200,7200,Oeste,Cartão de Crédito,Recorrente
+2024-10-22,PED00618,Xiaomi Band 8,Smartwatches,1,350,350,Centro,Cartão de Débito,Novo
+2024-03-26,PED00619,Sony WH-1000XM5,Fones de Ouvido,3,1500,4500,Centro,Cartão de Débito,Recorrente
+2024-09-28,PED00620,Sony WH-1000XM5,Fones de Ouvido,2,1500,3000,Sul,Cartão de Débito,Recorrente
+2024-08-24,PED00621,AirPods Pro,Fones de Ouvido,1,1800,1800,Sul,PIX,Novo
+2024-12-13,PED00622,MacBook Air M2,Laptops,2,8500,17000,Centro,Cartão de Débito,Novo
+2024-11-26,PED00623,Apple Watch Series 9,Smartwatches,1,4500,4500,Sul,PIX,Recorrente
+2024-09-23,PED00624,Asus ROG,Laptops,2,9500,19000,Sul,Boleto,Recorrente
+2024-02-26,PED00625,Lenovo ThinkPad,Laptops,1,5800,5800,Leste,Cartão de Crédito,Recorrente
+2024-07-26,PED00626,JBL Tune 510,Fones de Ouvido,3,280,840,Oeste,Cartão de Débito,Recorrente
+2024-09-25,PED00627,Samsung Buds,Fones de Ouvido,3,650,1950,Centro,Cartão de Débito,Recorrente
+2024-04-13,PED00628,Sony WH-1000XM5,Fones de Ouvido,3,1500,4500,Leste,Cartão de Crédito,Novo
+2024-07-23,PED00629,Dell XPS 15,Laptops,1,7200,7200,Leste,Boleto,Novo
+2024-01-02,PED00630,Lenovo Tab P11,Tablets,1,1800,1800,Leste,Boleto,Novo
+2024-05-01,PED00631,Apple Watch Series 9,Smartwatches,2,4500,9000,Centro,Cartão de Crédito,Recorrente
+2024-09-12,PED00632,Garmin Forerunner,Smartwatches,1,2200,2200,Norte,Cartão de Débito,Recorrente
+2024-12-14,PED00633,Xiaomi 13,Smartphones,1,2800,2800,Sul,Cartão de Crédito,Recorrente
+2024-05-02,PED00634,Asus ROG,Laptops,1,9500,9500,Leste,Cartão de Crédito,Recorrente
+2024-05-16,PED00635,Apple Watch Series 9,Smartwatches,1,4500,4500,Centro,Cartão de Crédito,Novo
+2024-05-14,PED00636,iPad Air,Tablets,1,4200,4200,Centro,Cartão de Crédito,Recorrente
+2024-11-05,PED00637,Samsung Galaxy Watch 6,Smartwatches,1,2800,2800,Leste,Cartão de Débito,Novo
+2024-07-07,PED00638,Samsung Tab S9,Tablets,1,3500,3500,Centro,PIX,Recorrente
+2024-04-03,PED00639,Apple Watch Series 9,Smartwatches,2,4500,9000,Oeste,Boleto,Novo
+2024-04-04,PED00640,iPad Air,Tablets,1,4200,4200,Sul,Cartão de Débito,Recorrente
+2024-04-28,PED00641,Samsung Tab S9,Tablets,1,3500,3500,Oeste,Cartão de Débito,Recorrente
+2024-12-18,PED00642,Samsung Galaxy S23,Smartphones,1,4200,4200,Sul,PIX,Recorrente
+2024-11-04,PED00643,JBL Tune 510,Fones de Ouvido,3,280,840,Oeste,PIX,Recorrente
+2024-04-09,PED00644,Dell XPS 15,Laptops,2,7200,14400,Oeste,PIX,Recorrente
+2024-03-13,PED00645,Garmin Forerunner,Smartwatches,1,2200,2200,Leste,Cartão de Crédito,Recorrente
+2024-08-02,PED00646,AirPods Pro,Fones de Ouvido,1,1800,1800,Oeste,Cartão de Crédito,Recorrente
+2024-02-20,PED00647,Sony WH-1000XM5,Fones de Ouvido,3,1500,4500,Norte,Cartão de Débito,Recorrente
+2024-01-07,PED00648,Sony WH-1000XM5,Fones de Ouvido,2,1500,3000,Leste,Boleto,Novo
+2024-08-09,PED00649,Motorola Edge 40,Smartphones,1,2200,2200,Leste,Cartão de Débito,Novo
+2024-09-14,PED00650,iPad Air,Tablets,1,4200,4200,Leste,Cartão de Crédito,Recorrente
+2024-10-27,PED00651,Sony WH-1000XM5,Fones de Ouvido,2,1500,3000,Oeste,Boleto,Recorrente
+2024-07-06,PED00652,iPad Air,Tablets,1,4200,4200,Centro,PIX,Novo
+2024-03-07,PED00653,Samsung Tab S9,Tablets,1,3500,3500,Oeste,Cartão de Crédito,Recorrente
+2024-01-08,PED00654,MacBook Air M2,Laptops,1,8500,8500,Oeste,PIX,Novo
+2024-07-15,PED00655,Lenovo Tab P11,Tablets,1,1800,1800,Oeste,Cartão de Débito,Novo
+2024-07-21,PED00656,AirPods Pro,Fones de Ouvido,2,1800,3600,Leste,Boleto,Recorrente
+2024-03-11,PED00657,MacBook Air M2,Laptops,2,8500,17000,Leste,Boleto,Recorrente
+2024-04-25,PED00658,Asus ROG,Laptops,2,9500,19000,Leste,Cartão de Débito,Recorrente
+2024-07-22,PED00659,Samsung Tab S9,Tablets,1,3500,3500,Norte,PIX,Recorrente
+2024-08-12,PED00660,iPad Air,Tablets,1,4200,4200,Leste,Boleto,Novo
+2024-09-08,PED00661,Xiaomi Band 8,Smartwatches,1,350,350,Norte,Cartão de Débito,Recorrente
+2024-09-07,PED00662,iPhone 14,Smartphones,1,3500,3500,Leste,PIX,Recorrente
+2024-05-21,PED00663,Motorola Edge 40,Smartphones,2,2200,4400,Sul,Cartão de Crédito,Novo
+2024-04-02,PED00664,Amazon Fire HD,Tablets,2,850,1700,Sul,Cartão de Crédito,Recorrente
+2024-09-28,PED00665,Samsung Tab S9,Tablets,1,3500,3500,Sul,Cartão de Débito,Recorrente
+2024-10-13,PED00666,Garmin Forerunner,Smartwatches,1,2200,2200,Centro,PIX,Recorrente
+2024-08-16,PED00667,Dell XPS 15,Laptops,1,7200,7200,Sul,Cartão de Crédito,Novo
+2024-12-26,PED00668,iPhone 14,Smartphones,1,3500,3500,Centro,Boleto,Recorrente
+2024-04-20,PED00669,Asus ROG,Laptops,2,9500,19000,Norte,Cartão de Débito,Recorrente
+2024-06-08,PED00670,Asus ROG,Laptops,2,9500,19000,Leste,Cartão de Débito,Recorrente
+2024-12-22,PED00671,AirPods Pro,Fones de Ouvido,3,1800,5400,Norte,Cartão de Crédito,Novo
+2024-08-08,PED00672,JBL Tune 510,Fones de Ouvido,3,280,840,Centro,PIX,Novo
+2024-07-10,PED00673,JBL Tune 510,Fones de Ouvido,1,280,280,Oeste,Cartão de Débito,Recorrente
+2024-07-14,PED00674,Apple Watch Series 9,Smartwatches,1,4500,4500,Norte,PIX,Recorrente
+2024-10-05,PED00675,Lenovo ThinkPad,Laptops,2,5800,11600,Norte,PIX,Recorrente
+2024-12-09,PED00676,Sony WH-1000XM5,Fones de Ouvido,1,1500,1500,Oeste,Cartão de Débito,Recorrente
+2024-06-04,PED00677,Asus ROG,Laptops,1,9500,9500,Leste,Boleto,Novo
+2024-08-13,PED00678,Lenovo Tab P11,Tablets,1,1800,1800,Centro,Boleto,Recorrente
+2024-03-09,PED00679,Xiaomi 13,Smartphones,1,2800,2800,Centro,Cartão de Crédito,Novo
+2024-10-26,PED00680,Samsung Buds,Fones de Ouvido,2,650,1300,Leste,Cartão de Débito,Recorrente
+2024-04-28,PED00681,Lenovo ThinkPad,Laptops,2,5800,11600,Leste,PIX,Novo
+2024-09-04,PED00682,JBL Tune 510,Fones de Ouvido,1,280,280,Norte,PIX,Novo
+2024-03-09,PED00683,Lenovo ThinkPad,Laptops,2,5800,11600,Norte,Cartão de Débito,Recorrente
+2024-11-01,PED00684,Samsung Tab S9,Tablets,2,3500,7000,Oeste,Boleto,Recorrente
+2024-09-22,PED00685,Samsung Tab S9,Tablets,1,3500,3500,Sul,Boleto,Novo
+2024-08-04,PED00686,iPad Air,Tablets,1,4200,4200,Sul,Cartão de Crédito,Novo
+2024-04-09,PED00687,Garmin Forerunner,Smartwatches,1,2200,2200,Centro,Boleto,Novo
+2024-10-10,PED00688,JBL Tune 510,Fones de Ouvido,2,280,560,Leste,Cartão de Crédito,Recorrente
+2024-08-04,PED00689,Garmin Forerunner,Smartwatches,1,2200,2200,Leste,Cartão de Débito,Recorrente
+2024-03-09,PED00690,Lenovo Tab P11,Tablets,1,1800,1800,Centro,Cartão de Débito,Recorrente
+2024-09-05,PED00691,AirPods Pro,Fones de Ouvido,3,1800,5400,Norte,Cartão de Crédito,Novo
+2024-09-15,PED00692,Garmin Forerunner,Smartwatches,1,2200,2200,Centro,Boleto,Recorrente
+2024-12-20,PED00693,Dell XPS 15,Laptops,1,7200,7200,Oeste,Cartão de Débito,Novo
+2024-08-09,PED00694,Garmin Forerunner,Smartwatches,1,2200,2200,Oeste,Cartão de Débito,Novo
+2024-10-01,PED00695,Samsung Tab S9,Tablets,1,3500,3500,Centro,Cartão de Crédito,Novo
+2024-06-03,PED00696,Garmin Forerunner,Smartwatches,1,2200,2200,Norte,Cartão de Débito,Recorrente
+2024-08-15,PED00697,iPad Air,Tablets,1,4200,4200,Norte,Cartão de Crédito,Novo
+2024-01-05,PED00698,Samsung Galaxy Watch 6,Smartwatches,2,2800,5600,Sul,Cartão de Crédito,Novo
+2024-09-13,PED00699,Xiaomi 13,Smartphones,2,2800,5600,Leste,Cartão de Débito,Novo
+2024-12-03,PED00700,Xiaomi Band 8,Smartwatches,1,350,350,Leste,Cartão de Crédito,Novo
+2024-12-22,PED00701,Samsung Galaxy Watch 6,Smartwatches,1,2800,2800,Leste,Cartão de Débito,Novo
+2024-03-14,PED00702,Samsung Galaxy Watch 6,Smartwatches,1,2800,2800,Leste,Boleto,Novo
+2024-02-26,PED00703,AirPods Pro,Fones de Ouvido,1,1800,1800,Centro,Cartão de Crédito,Recorrente
+2024-04-11,PED00704,Samsung Tab S9,Tablets,1,3500,3500,Leste,Cartão de Crédito,Recorrente
+2024-02-24,PED00705,Apple Watch Series 9,Smartwatches,1,4500,4500,Norte,Cartão de Débito,Recorrente
+2024-09-17,PED00706,Xiaomi 13,Smartphones,2,2800,5600,Leste,Cartão de Crédito,Novo
+2024-01-25,PED00707,Lenovo ThinkPad,Laptops,1,5800,5800,Norte,PIX,Novo
+2024-01-18,PED00708,Samsung Galaxy Watch 6,Smartwatches,1,2800,2800,Leste,Cartão de Débito,Recorrente
+2024-03-28,PED00709,Motorola Edge 40,Smartphones,2,2200,4400,Oeste,Boleto,Recorrente
+2024-11-06,PED00710,JBL Tune 510,Fones de Ouvido,3,280,840,Norte,Cartão de Débito,Novo
+2024-10-14,PED00711,Xiaomi Band 8,Smartwatches,2,350,700,Centro,Cartão de Débito,Novo
+2024-12-02,PED00712,iPad Air,Tablets,1,4200,4200,Oeste,Cartão de Crédito,Novo
+2024-11-27,PED00713,Samsung Galaxy S23,Smartphones,1,4200,4200,Centro,PIX,Recorrente
+2024-01-07,PED00714,Samsung Buds,Fones de Ouvido,3,650,1950,Norte,PIX,Recorrente
+2024-10-04,PED00715,JBL Tune 510,Fones de Ouvido,1,280,280,Leste,Cartão de Crédito,Novo
+2024-11-12,PED00716,Motorola Edge 40,Smartphones,1,2200,2200,Norte,PIX,Recorrente
+2024-04-08,PED00717,Lenovo Tab P11,Tablets,2,1800,3600,Centro,PIX,Recorrente
+2024-02-10,PED00718,Xiaomi 13,Smartphones,2,2800,5600,Centro,PIX,Recorrente
+2024-04-17,PED00719,Xiaomi Band 8,Smartwatches,1,350,350,Oeste,Cartão de Crédito,Novo
+2024-10-08,PED00720,Apple Watch Series 9,Smartwatches,1,4500,4500,Norte,Boleto,Recorrente
+2024-05-18,PED00721,iPhone 14,Smartphones,2,3500,7000,Centro,PIX,Recorrente
+2024-12-09,PED00722,Samsung Galaxy S23,Smartphones,1,4200,4200,Leste,PIX,Recorrente
+2024-01-22,PED00723,Samsung Galaxy S23,Smartphones,2,4200,8400,Oeste,Boleto,Recorrente
+2024-12-23,PED00724,Amazon Fire HD,Tablets,2,850,1700,Oeste,Cartão de Débito,Recorrente
+2024-08-22,PED00725,Sony WH-1000XM5,Fones de Ouvido,1,1500,1500,Sul,Boleto,Novo
+2024-03-11,PED00726,Xiaomi 13,Smartphones,1,2800,2800,Norte,Cartão de Débito,Novo
+2024-04-08,PED00727,Samsung Galaxy S23,Smartphones,2,4200,8400,Centro,Cartão de Crédito,Recorrente
+2024-01-25,PED00728,Amazon Fire HD,Tablets,1,850,850,Centro,Cartão de Débito,Recorrente
+2024-10-20,PED00729,Xiaomi Band 8,Smartwatches,1,350,350,Oeste,Boleto,Novo
+2024-10-06,PED00730,Lenovo Tab P11,Tablets,1,1800,1800,Leste,PIX,Recorrente
+2024-01-05,PED00731,JBL Tune 510,Fones de Ouvido,2,280,560,Centro,Boleto,Recorrente
+2024-03-26,PED00732,Samsung Galaxy S23,Smartphones,1,4200,4200,Oeste,Cartão de Crédito,Recorrente
+2024-11-10,PED00733,Xiaomi Band 8,Smartwatches,2,350,700,Sul,PIX,Recorrente
+2024-02-24,PED00734,Motorola Edge 40,Smartphones,1,2200,2200,Centro,Cartão de Débito,Novo
+2024-03-25,PED00735,Sony WH-1000XM5,Fones de Ouvido,3,1500,4500,Leste,Boleto,Novo
+2024-01-18,PED00736,Amazon Fire HD,Tablets,1,850,850,Sul,Boleto,Recorrente
+2024-06-22,PED00737,Xiaomi 13,Smartphones,1,2800,2800,Sul,Boleto,Novo
+2024-11-27,PED00738,MacBook Air M2,Laptops,1,8500,8500,Centro,Cartão de Débito,Recorrente
+2024-07-26,PED00739,Garmin Forerunner,Smartwatches,1,2200,2200,Centro,Cartão de Crédito,Recorrente
+2024-03-21,PED00740,Motorola Edge 40,Smartphones,1,2200,2200,Centro,Cartão de Crédito,Recorrente
+2024-11-15,PED00741,Lenovo Tab P11,Tablets,2,1800,3600,Centro,Cartão de Crédito,Recorrente
+2024-02-05,PED00742,Samsung Tab S9,Tablets,1,3500,3500,Oeste,PIX,Recorrente
+2024-12-03,PED00743,JBL Tune 510,Fones de Ouvido,2,280,560,Sul,Boleto,Novo
+2024-01-05,PED00744,Xiaomi Band 8,Smartwatches,1,350,350,Leste,Cartão de Crédito,Recorrente
+2024-10-22,PED00745,Dell XPS 15,Laptops,1,7200,7200,Leste,PIX,Novo
+2024-07-27,PED00746,Dell XPS 15,Laptops,1,7200,7200,Sul,Boleto,Recorrente
+2024-07-25,PED00747,Xiaomi Band 8,Smartwatches,1,350,350,Sul,Boleto,Novo
+2024-05-02,PED00748,JBL Tune 510,Fones de Ouvido,3,280,840,Norte,Cartão de Débito,Recorrente
+2024-04-01,PED00749,Samsung Tab S9,Tablets,1,3500,3500,Oeste,Cartão de Crédito,Recorrente
+2024-02-07,PED00750,Asus ROG,Laptops,1,9500,9500,Sul,Cartão de Débito,Recorrente
+2024-08-04,PED00751,Samsung Galaxy S23,Smartphones,1,4200,4200,Leste,PIX,Novo
+2024-09-13,PED00752,Samsung Galaxy Watch 6,Smartwatches,1,2800,2800,Norte,Boleto,Recorrente
+2024-04-01,PED00753,JBL Tune 510,Fones de Ouvido,2,280,560,Norte,Cartão de Crédito,Novo
+2024-09-19,PED00754,Samsung Galaxy S23,Smartphones,2,4200,8400,Norte,PIX,Recorrente
+2024-03-07,PED00755,iPhone 14,Smartphones,1,3500,3500,Leste,Cartão de Crédito,Novo
+2024-05-08,PED00756,Xiaomi 13,Smartphones,1,2800,2800,Centro,Cartão de Crédito,Novo
+2024-08-11,PED00757,Apple Watch Series 9,Smartwatches,1,4500,4500,Leste,Boleto,Recorrente
+2024-10-01,PED00758,JBL Tune 510,Fones de Ouvido,3,280,840,Norte,PIX,Novo
+2024-09-06,PED00759,MacBook Air M2,Laptops,1,8500,8500,Sul,Cartão de Crédito,Recorrente
+2024-01-01,PED00760,AirPods Pro,Fones de Ouvido,2,1800,3600,Leste,PIX,Novo
+2024-02-22,PED00761,Motorola Edge 40,Smartphones,1,2200,2200,Centro,Cartão de Débito,Novo
+2024-08-02,PED00762,Amazon Fire HD,Tablets,1,850,850,Oeste,Cartão de Crédito,Novo
+2024-12-06,PED00763,iPhone 14,Smartphones,2,3500,7000,Norte,PIX,Novo
+2024-05-22,PED00764,Motorola Edge 40,Smartphones,1,2200,2200,Oeste,PIX,Novo
+2024-12-13,PED00765,iPad Air,Tablets,1,4200,4200,Sul,Boleto,Novo
+2024-08-08,PED00766,Samsung Tab S9,Tablets,1,3500,3500,Leste,Boleto,Novo
+2024-08-04,PED00767,Motorola Edge 40,Smartphones,1,2200,2200,Centro,Cartão de Crédito,Recorrente
+2024-12-13,PED00768,Xiaomi 13,Smartphones,2,2800,5600,Oeste,Boleto,Recorrente
+2024-02-24,PED00769,iPhone 14,Smartphones,1,3500,3500,Sul,Cartão de Crédito,Recorrente
+2024-08-04,PED00770,Lenovo ThinkPad,Laptops,1,5800,5800,Leste,PIX,Recorrente
+2024-05-17,PED00771,Samsung Galaxy S23,Smartphones,1,4200,4200,Oeste,Cartão de Débito,Recorrente
+2024-10-10,PED00772,AirPods Pro,Fones de Ouvido,1,1800,1800,Sul,Boleto,Novo
+2024-12-08,PED00773,Samsung Buds,Fones de Ouvido,3,650,1950,Norte,Cartão de Débito,Recorrente
+2024-04-12,PED00774,Sony WH-1000XM5,Fones de Ouvido,2,1500,3000,Centro,Boleto,Recorrente
+2024-09-26,PED00775,Lenovo ThinkPad,Laptops,1,5800,5800,Leste,Cartão de Crédito,Recorrente
+2024-01-25,PED00776,Amazon Fire HD,Tablets,1,850,850,Leste,Cartão de Crédito,Novo
+2024-10-10,PED00777,Xiaomi Band 8,Smartwatches,2,350,700,Sul,PIX,Novo
+2024-10-08,PED00778,JBL Tune 510,Fones de Ouvido,1,280,280,Sul,PIX,Novo
+2024-12-03,PED00779,Xiaomi Band 8,Smartwatches,1,350,350,Sul,Cartão de Débito,Recorrente
+2024-04-14,PED00780,Amazon Fire HD,Tablets,1,850,850,Leste,PIX,Novo
+2024-07-09,PED00781,Lenovo Tab P11,Tablets,1,1800,1800,Oeste,Cartão de Débito,Recorrente
+2024-02-06,PED00782,Sony WH-1000XM5,Fones de Ouvido,1,1500,1500,Sul,Cartão de Débito,Recorrente
+2024-04-25,PED00783,Motorola Edge 40,Smartphones,1,2200,2200,Norte,Cartão de Crédito,Recorrente
+2024-09-10,PED00784,JBL Tune 510,Fones de Ouvido,1,280,280,Norte,Cartão de Débito,Novo
+2024-01-04,PED00785,Garmin Forerunner,Smartwatches,1,2200,2200,Leste,Cartão de Débito,Recorrente
+2024-02-23,PED00786,Samsung Tab S9,Tablets,2,3500,7000,Centro,PIX,Novo
+2024-06-03,PED00787,Lenovo ThinkPad,Laptops,1,5800,5800,Norte,Boleto,Novo
+2024-11-06,PED00788,iPhone 14,Smartphones,1,3500,3500,Norte,Boleto,Recorrente
+2024-10-20,PED00789,iPad Air,Tablets,2,4200,8400,Leste,PIX,Recorrente
+2024-01-19,PED00790,Sony WH-1000XM5,Fones de Ouvido,3,1500,4500,Sul,Cartão de Débito,Novo
+2024-02-14,PED00791,Lenovo ThinkPad,Laptops,2,5800,11600,Leste,PIX,Recorrente
+2024-03-04,PED00792,Asus ROG,Laptops,2,9500,19000,Sul,Cartão de Débito,Recorrente
+2024-05-22,PED00793,Lenovo Tab P11,Tablets,1,1800,1800,Norte,PIX,Novo
+2024-05-08,PED00794,Amazon Fire HD,Tablets,1,850,850,Oeste,Cartão de Crédito,Recorrente
+2024-03-28,PED00795,Samsung Tab S9,Tablets,2,3500,7000,Norte,Cartão de Débito,Recorrente
+2024-09-27,PED00796,Samsung Galaxy S23,Smartphones,2,4200,8400,Centro,Cartão de Crédito,Recorrente
+2024-07-16,PED00797,Amazon Fire HD,Tablets,1,850,850,Leste,Cartão de Crédito,Novo
+2024-09-14,PED00798,iPhone 14,Smartphones,1,3500,3500,Oeste,Cartão de Crédito,Recorrente
+2024-12-02,PED00799,Lenovo ThinkPad,Laptops,1,5800,5800,Oeste,PIX,Recorrente
+2024-03-14,PED00800,iPhone 14,Smartphones,1,3500,3500,Centro,Cartão de Débito,Recorrente
+2024-11-03,PED00801,Asus ROG,Laptops,1,9500,9500,Leste,Boleto,Recorrente
+2024-08-27,PED00802,Samsung Galaxy Watch 6,Smartwatches,2,2800,5600,Norte,Cartão de Crédito,Recorrente
+2024-10-09,PED00803,Samsung Galaxy S23,Smartphones,1,4200,4200,Leste,Boleto,Novo
+2024-01-10,PED00804,Samsung Buds,Fones de Ouvido,2,650,1300,Leste,Cartão de Crédito,Novo
+2024-02-18,PED00805,Xiaomi Band 8,Smartwatches,1,350,350,Norte,PIX,Novo
+2024-07-19,PED00806,Asus ROG,Laptops,1,9500,9500,Norte,Cartão de Débito,Recorrente
+2024-10-07,PED00807,iPhone 14,Smartphones,2,3500,7000,Norte,Boleto,Recorrente
+2024-02-06,PED00808,Motorola Edge 40,Smartphones,2,2200,4400,Oeste,Cartão de Crédito,Recorrente
+2024-10-15,PED00809,Samsung Galaxy Watch 6,Smartwatches,1,2800,2800,Norte,Cartão de Débito,Recorrente
+2024-09-13,PED00810,Samsung Galaxy Watch 6,Smartwatches,1,2800,2800,Oeste,Boleto,Novo
+2024-07-13,PED00811,Samsung Buds,Fones de Ouvido,1,650,650,Sul,PIX,Recorrente
+2024-01-22,PED00812,Motorola Edge 40,Smartphones,2,2200,4400,Centro,PIX,Recorrente
+2024-08-19,PED00813,AirPods Pro,Fones de Ouvido,2,1800,3600,Norte,Boleto,Recorrente
+2024-07-10,PED00814,Samsung Galaxy S23,Smartphones,1,4200,4200,Sul,PIX,Recorrente
+2024-01-10,PED00815,Samsung Tab S9,Tablets,1,3500,3500,Centro,Boleto,Novo
+2024-02-16,PED00816,Samsung Buds,Fones de Ouvido,1,650,650,Sul,Cartão de Débito,Recorrente
+2024-06-24,PED00817,Dell XPS 15,Laptops,1,7200,7200,Sul,Cartão de Crédito,Novo
+2024-09-11,PED00818,Lenovo ThinkPad,Laptops,2,5800,11600,Norte,Cartão de Crédito,Novo
+2024-07-28,PED00819,Xiaomi Band 8,Smartwatches,1,350,350,Oeste,PIX,Novo
+2024-05-23,PED00820,Motorola Edge 40,Smartphones,1,2200,2200,Centro,Cartão de Crédito,Novo
+2024-04-01,PED00821,Samsung Galaxy Watch 6,Smartwatches,1,2800,2800,Centro,Boleto,Recorrente
+2024-03-14,PED00822,Samsung Galaxy S23,Smartphones,1,4200,4200,Centro,Cartão de Crédito,Recorrente
+2024-01-04,PED00823,Motorola Edge 40,Smartphones,1,2200,2200,Sul,Cartão de Crédito,Recorrente
+2024-08-22,PED00824,Amazon Fire HD,Tablets,1,850,850,Centro,Cartão de Débito,Novo
+2024-10-21,PED00825,JBL Tune 510,Fones de Ouvido,1,280,280,Norte,Boleto,Recorrente
+2024-04-16,PED00826,Xiaomi Band 8,Smartwatches,2,350,700,Norte,PIX,Recorrente
+2024-01-09,PED00827,Xiaomi 13,Smartphones,1,2800,2800,Oeste,PIX,Novo
+2024-10-11,PED00828,Lenovo Tab P11,Tablets,1,1800,1800,Sul,Boleto,Novo
+2024-04-25,PED00829,iPhone 14,Smartphones,2,3500,7000,Oeste,Boleto,Novo
+2024-03-14,PED00830,MacBook Air M2,Laptops,2,8500,17000,Norte,PIX,Recorrente
+2024-11-21,PED00831,Garmin Forerunner,Smartwatches,2,2200,4400,Norte,Boleto,Recorrente
+2024-05-06,PED00832,AirPods Pro,Fones de Ouvido,1,1800,1800,Sul,Cartão de Crédito,Novo
+2024-10-12,PED00833,Sony WH-1000XM5,Fones de Ouvido,1,1500,1500,Centro,Cartão de Débito,Recorrente
+2024-08-24,PED00834,Motorola Edge 40,Smartphones,1,2200,2200,Centro,Cartão de Débito,Recorrente
+2024-09-03,PED00835,Apple Watch Series 9,Smartwatches,1,4500,4500,Leste,Cartão de Crédito,Recorrente
+2024-01-18,PED00836,Samsung Galaxy Watch 6,Smartwatches,1,2800,2800,Norte,PIX,Novo
+2024-01-16,PED00837,Lenovo Tab P11,Tablets,1,1800,1800,Centro,Boleto,Recorrente
+2024-02-20,PED00838,Sony WH-1000XM5,Fones de Ouvido,2,1500,3000,Sul,Boleto,Novo
+2024-09-03,PED00839,Xiaomi 13,Smartphones,1,2800,2800,Sul,PIX,Recorrente
+2024-12-07,PED00840,Lenovo ThinkPad,Laptops,2,5800,11600,Leste,Cartão de Crédito,Novo
+2024-05-12,PED00841,MacBook Air M2,Laptops,1,8500,8500,Centro,PIX,Novo
+2024-07-06,PED00842,Sony WH-1000XM5,Fones de Ouvido,3,1500,4500,Sul,PIX,Novo
+2024-10-10,PED00843,Apple Watch Series 9,Smartwatches,1,4500,4500,Centro,Cartão de Débito,Novo
+2024-11-09,PED00844,Apple Watch Series 9,Smartwatches,1,4500,4500,Oeste,Cartão de Débito,Novo
+2024-02-02,PED00845,Lenovo ThinkPad,Laptops,1,5800,5800,Sul,Boleto,Novo
+2024-11-06,PED00846,Apple Watch Series 9,Smartwatches,1,4500,4500,Leste,PIX,Novo
+2024-09-11,PED00847,Asus ROG,Laptops,1,9500,9500,Centro,Boleto,Recorrente
+2024-12-19,PED00848,Samsung Buds,Fones de Ouvido,3,650,1950,Leste,Cartão de Débito,Novo
+2024-07-14,PED00849,Samsung Tab S9,Tablets,2,3500,7000,Centro,PIX,Recorrente
+2024-09-16,PED00850,JBL Tune 510,Fones de Ouvido,2,280,560,Norte,Cartão de Crédito,Recorrente
+2024-08-19,PED00851,Samsung Galaxy S23,Smartphones,1,4200,4200,Oeste,PIX,Recorrente
+2024-10-13,PED00852,Garmin Forerunner,Smartwatches,1,2200,2200,Norte,Cartão de Débito,Recorrente
+2024-12-25,PED00853,Garmin Forerunner,Smartwatches,2,2200,4400,Leste,Cartão de Crédito,Recorrente
+2024-06-18,PED00854,Samsung Galaxy Watch 6,Smartwatches,1,2800,2800,Norte,Cartão de Débito,Novo
+2024-06-01,PED00855,Garmin Forerunner,Smartwatches,1,2200,2200,Sul,PIX,Novo
+2024-02-01,PED00856,JBL Tune 510,Fones de Ouvido,2,280,560,Sul,Cartão de Crédito,Recorrente
+2024-10-27,PED00857,Apple Watch Series 9,Smartwatches,1,4500,4500,Oeste,PIX,Recorrente
+2024-02-15,PED00858,Amazon Fire HD,Tablets,1,850,850,Norte,PIX,Recorrente
+2024-04-16,PED00859,Dell XPS 15,Laptops,1,7200,7200,Leste,PIX,Novo
+2024-08-13,PED00860,Xiaomi 13,Smartphones,1,2800,2800,Centro,Cartão de Crédito,Recorrente
+2024-08-11,PED00861,Motorola Edge 40,Smartphones,2,2200,4400,Norte,Boleto,Recorrente
+2024-11-11,PED00862,Dell XPS 15,Laptops,1,7200,7200,Leste,Cartão de Crédito,Novo
+2024-04-10,PED00863,Amazon Fire HD,Tablets,1,850,850,Oeste,Boleto,Recorrente
+2024-01-27,PED00864,Samsung Galaxy S23,Smartphones,2,4200,8400,Oeste,Boleto,Novo
+2024-03-26,PED00865,Samsung Galaxy Watch 6,Smartwatches,1,2800,2800,Leste,Boleto,Novo
+2024-03-19,PED00866,Apple Watch Series 9,Smartwatches,1,4500,4500,Norte,Boleto,Novo
+2024-12-24,PED00867,MacBook Air M2,Laptops,2,8500,17000,Leste,PIX,Novo
+2024-11-01,PED00868,Xiaomi Band 8,Smartwatches,2,350,700,Leste,Boleto,Recorrente
+2024-08-03,PED00869,Dell XPS 15,Laptops,1,7200,7200,Norte,Cartão de Crédito,Novo
+2024-03-20,PED00870,AirPods Pro,Fones de Ouvido,1,1800,1800,Centro,PIX,Novo
+2024-02-11,PED00871,AirPods Pro,Fones de Ouvido,3,1800,5400,Sul,PIX,Recorrente
+2024-09-20,PED00872,Sony WH-1000XM5,Fones de Ouvido,1,1500,1500,Norte,Cartão de Débito,Novo
+2024-09-20,PED00873,Dell XPS 15,Laptops,2,7200,14400,Sul,Cartão de Crédito,Recorrente
+2024-08-08,PED00874,MacBook Air M2,Laptops,1,8500,8500,Centro,PIX,Recorrente
+2024-09-04,PED00875,Samsung Galaxy S23,Smartphones,1,4200,4200,Sul,Cartão de Débito,Recorrente
+2024-04-01,PED00876,Samsung Buds,Fones de Ouvido,3,650,1950,Oeste,Boleto,Novo
+2024-04-15,PED00877,Samsung Galaxy S23,Smartphones,1,4200,4200,Oeste,Boleto,Recorrente
+2024-02-03,PED00878,JBL Tune 510,Fones de Ouvido,3,280,840,Centro,Cartão de Crédito,Recorrente
+2024-03-09,PED00879,Lenovo Tab P11,Tablets,2,1800,3600,Norte,Boleto,Novo
+2024-12-22,PED00880,Samsung Galaxy S23,Smartphones,1,4200,4200,Leste,Boleto,Novo
+2024-08-02,PED00881,Dell XPS 15,Laptops,2,7200,14400,Sul,Boleto,Novo
+2024-09-03,PED00882,Asus ROG,Laptops,1,9500,9500,Oeste,Cartão de Débito,Recorrente
+2024-12-22,PED00883,JBL Tune 510,Fones de Ouvido,2,280,560,Leste,Cartão de Débito,Recorrente
+2024-04-20,PED00884,MacBook Air M2,Laptops,2,8500,17000,Leste,PIX,Recorrente
+2024-11-05,PED00885,Dell XPS 15,Laptops,1,7200,7200,Centro,Boleto,Novo
+2024-03-19,PED00886,iPad Air,Tablets,1,4200,4200,Centro,PIX,Recorrente
+2024-06-07,PED00887,iPhone 14,Smartphones,2,3500,7000,Norte,Cartão de Débito,Recorrente
+2024-01-24,PED00888,Xiaomi 13,Smartphones,1,2800,2800,Leste,Cartão de Débito,Novo
+2024-02-08,PED00889,AirPods Pro,Fones de Ouvido,3,1800,5400,Centro,PIX,Recorrente
+2024-03-09,PED00890,Sony WH-1000XM5,Fones de Ouvido,3,1500,4500,Centro,Cartão de Crédito,Recorrente
+2024-01-02,PED00891,Dell XPS 15,Laptops,1,7200,7200,Oeste,Cartão de Débito,Recorrente
+2024-08-16,PED00892,Samsung Galaxy Watch 6,Smartwatches,2,2800,5600,Leste,PIX,Recorrente
+2024-05-08,PED00893,Motorola Edge 40,Smartphones,1,2200,2200,Centro,Cartão de Débito,Recorrente
+2024-07-18,PED00894,Amazon Fire HD,Tablets,1,850,850,Centro,PIX,Novo
+2024-06-16,PED00895,Xiaomi Band 8,Smartwatches,2,350,700,Sul,Cartão de Débito,Recorrente
+2024-07-20,PED00896,Samsung Tab S9,Tablets,1,3500,3500,Oeste,Cartão de Crédito,Recorrente
+2024-06-06,PED00897,Xiaomi 13,Smartphones,1,2800,2800,Norte,PIX,Recorrente
+2024-09-08,PED00898,MacBook Air M2,Laptops,1,8500,8500,Leste,Cartão de Crédito,Recorrente
+2024-02-25,PED00899,Samsung Tab S9,Tablets,1,3500,3500,Oeste,Boleto,Novo
+2024-08-18,PED00900,Lenovo ThinkPad,Laptops,1,5800,5800,Leste,Boleto,Novo
+2024-02-27,PED00901,Asus ROG,Laptops,1,9500,9500,Oeste,Boleto,Recorrente
+2024-07-19,PED00902,Xiaomi 13,Smartphones,1,2800,2800,Leste,Cartão de Débito,Recorrente
+2024-03-14,PED00903,Samsung Galaxy Watch 6,Smartwatches,1,2800,2800,Sul,Boleto,Recorrente
+2024-12-01,PED00904,Motorola Edge 40,Smartphones,2,2200,4400,Oeste,Cartão de Débito,Recorrente
+2024-12-28,PED00905,AirPods Pro,Fones de Ouvido,1,1800,1800,Norte,Cartão de Débito,Recorrente
+2024-08-11,PED00906,iPhone 14,Smartphones,1,3500,3500,Leste,Cartão de Crédito,Recorrente
+2024-08-28,PED00907,Dell XPS 15,Laptops,2,7200,14400,Centro,PIX,Novo
+2024-03-04,PED00908,Samsung Galaxy Watch 6,Smartwatches,1,2800,2800,Oeste,PIX,Recorrente
+2024-02-05,PED00909,MacBook Air M2,Laptops,2,8500,17000,Leste,Cartão de Débito,Recorrente
+2024-05-28,PED00910,Samsung Buds,Fones de Ouvido,2,650,1300,Norte,PIX,Recorrente
+2024-07-24,PED00911,Dell XPS 15,Laptops,1,7200,7200,Norte,Cartão de Débito,Novo
+2024-04-13,PED00912,MacBook Air M2,Laptops,1,8500,8500,Oeste,Cartão de Débito,Recorrente
+2024-03-07,PED00913,Dell XPS 15,Laptops,1,7200,7200,Leste,PIX,Recorrente
+2024-08-23,PED00914,Samsung Buds,Fones de Ouvido,1,650,650,Leste,PIX,Recorrente
+2024-02-28,PED00915,Samsung Galaxy S23,Smartphones,1,4200,4200,Norte,Cartão de Crédito,Recorrente
+2024-04-23,PED00916,Sony WH-1000XM5,Fones de Ouvido,1,1500,1500,Centro,PIX,Recorrente
+2024-01-04,PED00917,Garmin Forerunner,Smartwatches,1,2200,2200,Sul,PIX,Recorrente
+2024-09-15,PED00918,iPad Air,Tablets,1,4200,4200,Oeste,PIX,Recorrente
+2024-05-16,PED00919,AirPods Pro,Fones de Ouvido,2,1800,3600,Oeste,PIX,Novo
+2024-11-11,PED00920,Asus ROG,Laptops,1,9500,9500,Sul,Cartão de Crédito,Recorrente
+2024-12-04,PED00921,Lenovo ThinkPad,Laptops,2,5800,11600,Sul,PIX,Recorrente
+2024-06-08,PED00922,Sony WH-1000XM5,Fones de Ouvido,3,1500,4500,Centro,PIX,Recorrente
+2024-03-20,PED00923,Lenovo ThinkPad,Laptops,1,5800,5800,Leste,Cartão de Crédito,Novo
+2024-10-25,PED00924,Sony WH-1000XM5,Fones de Ouvido,1,1500,1500,Centro,Boleto,Recorrente
+2024-12-23,PED00925,Samsung Galaxy S23,Smartphones,1,4200,4200,Sul,Boleto,Recorrente
+2024-09-19,PED00926,iPad Air,Tablets,1,4200,4200,Oeste,Cartão de Crédito,Novo
+2024-02-02,PED00927,Amazon Fire HD,Tablets,1,850,850,Norte,PIX,Novo
+2024-03-21,PED00928,Samsung Galaxy Watch 6,Smartwatches,1,2800,2800,Norte,PIX,Novo
+2024-12-04,PED00929,MacBook Air M2,Laptops,1,8500,8500,Sul,Cartão de Crédito,Recorrente
+2024-08-09,PED00930,Garmin Forerunner,Smartwatches,2,2200,4400,Centro,PIX,Novo
+2024-08-10,PED00931,Samsung Galaxy Watch 6,Smartwatches,1,2800,2800,Centro,Boleto,Novo
+2024-07-27,PED00932,AirPods Pro,Fones de Ouvido,2,1800,3600,Sul,Boleto,Novo
+2024-02-24,PED00933,Lenovo Tab P11,Tablets,1,1800,1800,Norte,PIX,Recorrente
+2024-04-23,PED00934,Motorola Edge 40,Smartphones,1,2200,2200,Oeste,Cartão de Débito,Recorrente
+2024-04-12,PED00935,Sony WH-1000XM5,Fones de Ouvido,2,1500,3000,Sul,Cartão de Crédito,Recorrente
+2024-11-26,PED00936,Samsung Buds,Fones de Ouvido,2,650,1300,Norte,PIX,Recorrente
+2024-05-21,PED00937,Amazon Fire HD,Tablets,1,850,850,Norte,Boleto,Recorrente
+2024-11-04,PED00938,Xiaomi Band 8,Smartwatches,1,350,350,Leste,PIX,Novo
+2024-03-27,PED00939,Motorola Edge 40,Smartphones,1,2200,2200,Norte,Cartão de Débito,Novo
+2024-01-11,PED00940,Asus ROG,Laptops,1,9500,9500,Norte,Cartão de Débito,Recorrente
+2024-12-20,PED00941,Samsung Tab S9,Tablets,1,3500,3500,Sul,Cartão de Débito,Recorrente
+2024-07-18,PED00942,Samsung Buds,Fones de Ouvido,2,650,1300,Leste,Boleto,Recorrente
+2024-12-22,PED00943,Xiaomi Band 8,Smartwatches,2,350,700,Norte,Boleto,Novo
+2024-08-11,PED00944,MacBook Air M2,Laptops,1,8500,8500,Leste,PIX,Recorrente
+2024-07-27,PED00945,Motorola Edge 40,Smartphones,1,2200,2200,Oeste,Boleto,Recorrente
+2024-03-01,PED00946,Asus ROG,Laptops,2,9500,19000,Oeste,Boleto,Recorrente
+2024-01-12,PED00947,Samsung Galaxy S23,Smartphones,1,4200,4200,Sul,Cartão de Débito,Recorrente
+2024-11-21,PED00948,Garmin Forerunner,Smartwatches,2,2200,4400,Centro,PIX,Recorrente
+2024-02-02,PED00949,Samsung Galaxy S23,Smartphones,1,4200,4200,Oeste,Cartão de Débito,Recorrente
+2024-08-11,PED00950,Xiaomi 13,Smartphones,1,2800,2800,Sul,Boleto,Novo
+2024-02-03,PED00951,Samsung Galaxy S23,Smartphones,1,4200,4200,Oeste,Cartão de Crédito,Recorrente
+2024-03-12,PED00952,Motorola Edge 40,Smartphones,2,2200,4400,Centro,PIX,Novo
+2024-08-06,PED00953,Samsung Galaxy Watch 6,Smartwatches,1,2800,2800,Centro,Cartão de Crédito,Novo
+2024-07-20,PED00954,Dell XPS 15,Laptops,1,7200,7200,Sul,PIX,Recorrente
+2024-06-24,PED00955,Samsung Galaxy Watch 6,Smartwatches,1,2800,2800,Sul,PIX,Recorrente
+2024-01-23,PED00956,iPhone 14,Smartphones,1,3500,3500,Oeste,Boleto,Recorrente
+2024-08-16,PED00957,Asus ROG,Laptops,1,9500,9500,Leste,Cartão de Crédito,Recorrente
+2024-03-07,PED00958,MacBook Air M2,Laptops,1,8500,8500,Sul,Cartão de Crédito,Novo
+2024-03-09,PED00959,Xiaomi 13,Smartphones,1,2800,2800,Leste,PIX,Novo
+2024-11-23,PED00960,Apple Watch Series 9,Smartwatches,1,4500,4500,Oeste,PIX,Novo
+2024-07-17,PED00961,Garmin Forerunner,Smartwatches,1,2200,2200,Oeste,Cartão de Débito,Recorrente
+2024-08-10,PED00962,AirPods Pro,Fones de Ouvido,1,1800,1800,Norte,PIX,Recorrente
+2024-08-27,PED00963,Garmin Forerunner,Smartwatches,1,2200,2200,Norte,Cartão de Crédito,Recorrente
+2024-01-17,PED00964,Lenovo Tab P11,Tablets,1,1800,1800,Oeste,PIX,Recorrente
+2024-12-27,PED00965,Apple Watch Series 9,Smartwatches,1,4500,4500,Norte,Cartão de Crédito,Recorrente
+2024-04-24,PED00966,Amazon Fire HD,Tablets,1,850,850,Sul,Cartão de Débito,Recorrente
+2024-08-17,PED00967,Apple Watch Series 9,Smartwatches,1,4500,4500,Norte,Boleto,Recorrente
+2024-07-17,PED00968,Xiaomi Band 8,Smartwatches,1,350,350,Centro,PIX,Recorrente
+2024-01-21,PED00969,Samsung Galaxy S23,Smartphones,1,4200,4200,Sul,Cartão de Crédito,Novo
+2024-07-02,PED00970,Dell XPS 15,Laptops,1,7200,7200,Norte,PIX,Recorrente
+2024-03-04,PED00971,Dell XPS 15,Laptops,1,7200,7200,Sul,PIX,Novo
+2024-07-12,PED00972,Amazon Fire HD,Tablets,1,850,850,Oeste,Cartão de Débito,Recorrente
+2024-01-28,PED00973,MacBook Air M2,Laptops,2,8500,17000,Sul,PIX,Recorrente
+2024-09-25,PED00974,iPhone 14,Smartphones,2,3500,7000,Centro,PIX,Recorrente
+2024-12-11,PED00975,Amazon Fire HD,Tablets,1,850,850,Leste,PIX,Recorrente
+2024-05-05,PED00976,iPad Air,Tablets,1,4200,4200,Sul,PIX,Novo
+2024-03-06,PED00977,MacBook Air M2,Laptops,1,8500,8500,Oeste,PIX,Novo
+2024-02-21,PED00978,Apple Watch Series 9,Smartwatches,1,4500,4500,Leste,Boleto,Recorrente
+2024-09-12,PED00979,Asus ROG,Laptops,2,9500,19000,Leste,PIX,Novo
+2024-07-05,PED00980,iPhone 14,Smartphones,1,3500,3500,Centro,PIX,Recorrente
+2024-07-26,PED00981,Motorola Edge 40,Smartphones,1,2200,2200,Leste,Cartão de Débito,Recorrente
+2024-04-21,PED00982,iPad Air,Tablets,1,4200,4200,Oeste,Boleto,Recorrente
+2024-02-14,PED00983,Sony WH-1000XM5,Fones de Ouvido,3,1500,4500,Centro,PIX,Novo
+2024-12-05,PED00984,iPad Air,Tablets,1,4200,4200,Oeste,Boleto,Recorrente
+2024-06-06,PED00985,Samsung Buds,Fones de Ouvido,3,650,1950,Norte,Cartão de Débito,Recorrente
+2024-07-01,PED00986,iPad Air,Tablets,1,4200,4200,Centro,Cartão de Crédito,Recorrente
+2024-09-23,PED00987,JBL Tune 510,Fones de Ouvido,1,280,280,Leste,PIX,Recorrente
+2024-05-14,PED00988,MacBook Air M2,Laptops,1,8500,8500,Centro,Cartão de Crédito,Novo
+2024-01-24,PED00989,iPad Air,Tablets,2,4200,8400,Sul,Cartão de Débito,Recorrente
+2024-12-22,PED00990,Samsung Galaxy Watch 6,Smartwatches,1,2800,2800,Norte,PIX,Novo
+2024-11-10,PED00991,Dell XPS 15,Laptops,2,7200,14400,Leste,Boleto,Recorrente
+2024-11-16,PED00992,iPad Air,Tablets,1,4200,4200,Leste,Cartão de Crédito,Recorrente
+2024-06-15,PED00993,Sony WH-1000XM5,Fones de Ouvido,2,1500,3000,Centro,PIX,Recorrente
+2024-05-19,PED00994,Sony WH-1000XM5,Fones de Ouvido,2,1500,3000,Norte,PIX,Recorrente
+2024-01-05,PED00995,Dell XPS 15,Laptops,2,7200,14400,Norte,Cartão de Débito,Recorrente
+2024-10-01,PED00996,Amazon Fire HD,Tablets,2,850,1700,Oeste,Cartão de Crédito,Novo
+2024-08-16,PED00997,Lenovo Tab P11,Tablets,2,1800,3600,Oeste,Cartão de Crédito,Recorrente
+2024-06-01,PED00998,JBL Tune 510,Fones de Ouvido,1,280,280,Oeste,Boleto,Recorrente
+2024-07-24,PED00999,MacBook Air M2,Laptops,1,8500,8500,Norte,PIX,Novo
+2024-04-18,PED01000,MacBook Air M2,Laptops,1,8500,8500,Leste,PIX,Recorrente
+2024-02-09,PED01001,Xiaomi 13,Smartphones,1,2800,2800,Centro,Boleto,Novo
+2024-12-01,PED01002,AirPods Pro,Fones de Ouvido,2,1800,3600,Centro,Boleto,Recorrente
+2024-08-23,PED01003,Dell XPS 15,Laptops,2,7200,14400,Centro,Boleto,Recorrente
+2024-03-20,PED01004,Lenovo ThinkPad,Laptops,1,5800,5800,Centro,PIX,Recorrente
+2024-11-25,PED01005,Sony WH-1000XM5,Fones de Ouvido,2,1500,3000,Norte,PIX,Novo
+2024-03-10,PED01006,Xiaomi Band 8,Smartwatches,1,350,350,Centro,Cartão de Débito,Recorrente
+2024-10-20,PED01007,AirPods Pro,Fones de Ouvido,3,1800,5400,Centro,PIX,Novo
+2024-11-28,PED01008,Lenovo ThinkPad,Laptops,2,5800,11600,Sul,Boleto,Novo
+2024-02-08,PED01009,Xiaomi Band 8,Smartwatches,1,350,350,Oeste,PIX,Recorrente
+2024-07-21,PED01010,JBL Tune 510,Fones de Ouvido,3,280,840,Leste,Cartão de Débito,Novo
+2024-02-28,PED01011,Garmin Forerunner,Smartwatches,1,2200,2200,Sul,Boleto,Recorrente
+2024-09-12,PED01012,Lenovo Tab P11,Tablets,1,1800,1800,Sul,Boleto,Novo
+2024-07-26,PED01013,Motorola Edge 40,Smartphones,1,2200,2200,Oeste,Cartão de Crédito,Recorrente
+2024-04-09,PED01014,Samsung Galaxy S23,Smartphones,1,4200,4200,Norte,PIX,Recorrente
+2024-04-26,PED01015,Xiaomi Band 8,Smartwatches,1,350,350,Oeste,Cartão de Débito,Recorrente
+2024-12-27,PED01016,Sony WH-1000XM5,Fones de Ouvido,3,1500,4500,Norte,PIX,Recorrente
+2024-04-21,PED01017,Garmin Forerunner,Smartwatches,2,2200,4400,Centro,Boleto,Recorrente
+2024-05-09,PED01018,Samsung Tab S9,Tablets,1,3500,3500,Centro,Boleto,Recorrente
+2024-12-24,PED01019,iPhone 14,Smartphones,2,3500,7000,Norte,Cartão de Débito,Recorrente
+2024-09-25,PED01020,Samsung Galaxy Watch 6,Smartwatches,1,2800,2800,Sul,Cartão de Crédito,Novo
+2024-07-27,PED01021,MacBook Air M2,Laptops,1,8500,8500,Norte,PIX,Recorrente
+2024-09-05,PED01022,MacBook Air M2,Laptops,2,8500,17000,Sul,Cartão de Débito,Novo
+2024-02-03,PED01023,Asus ROG,Laptops,1,9500,9500,Leste,Cartão de Crédito,Recorrente
+2024-09-24,PED01024,MacBook Air M2,Laptops,2,8500,17000,Leste,Cartão de Crédito,Novo
+2024-03-22,PED01025,Motorola Edge 40,Smartphones,1,2200,2200,Leste,PIX,Recorrente
+2024-01-27,PED01026,Xiaomi Band 8,Smartwatches,1,350,350,Oeste,PIX,Novo
+2024-02-14,PED01027,Motorola Edge 40,Smartphones,1,2200,2200,Sul,PIX,Novo
+2024-05-16,PED01028,JBL Tune 510,Fones de Ouvido,3,280,840,Sul,Boleto,Recorrente
+2024-05-10,PED01029,Samsung Buds,Fones de Ouvido,2,650,1300,Sul,Cartão de Crédito,Recorrente
+2024-03-03,PED01030,JBL Tune 510,Fones de Ouvido,1,280,280,Oeste,PIX,Novo
+2024-11-03,PED01031,iPhone 14,Smartphones,2,3500,7000,Leste,Cartão de Débito,Novo
+2024-06-02,PED01032,MacBook Air M2,Laptops,1,8500,8500,Leste,Cartão de Débito,Recorrente
+2024-08-22,PED01033,Samsung Buds,Fones de Ouvido,2,650,1300,Centro,PIX,Recorrente
+2024-07-02,PED01034,MacBook Air M2,Laptops,2,8500,17000,Norte,Cartão de Débito,Recorrente
+2024-08-17,PED01035,Asus ROG,Laptops,1,9500,9500,Leste,PIX,Novo
+2024-01-22,PED01036,Samsung Galaxy S23,Smartphones,2,4200,8400,Oeste,Cartão de Crédito,Recorrente
+2024-04-15,PED01037,Xiaomi 13,Smartphones,1,2800,2800,Leste,PIX,Novo
+2024-12-23,PED01038,Apple Watch Series 9,Smartwatches,1,4500,4500,Norte,Cartão de Débito,Novo
+2024-07-11,PED01039,Xiaomi Band 8,Smartwatches,1,350,350,Norte,Boleto,Novo
+2024-02-28,PED01040,iPhone 14,Smartphones,1,3500,3500,Norte,Cartão de Débito,Recorrente
+2024-12-20,PED01041,Samsung Galaxy Watch 6,Smartwatches,1,2800,2800,Sul,Boleto,Novo
+2024-08-17,PED01042,Samsung Galaxy S23,Smartphones,1,4200,4200,Norte,Cartão de Crédito,Recorrente
+2024-03-20,PED01043,Dell XPS 15,Laptops,1,7200,7200,Centro,Cartão de Crédito,Recorrente
+2024-10-28,PED01044,Samsung Tab S9,Tablets,1,3500,3500,Norte,PIX,Recorrente
+2024-03-25,PED01045,Garmin Forerunner,Smartwatches,1,2200,2200,Centro,PIX,Novo
+2024-07-24,PED01046,Motorola Edge 40,Smartphones,2,2200,4400,Centro,PIX,Recorrente
+2024-12-17,PED01047,Xiaomi Band 8,Smartwatches,1,350,350,Oeste,PIX,Recorrente
+2024-12-06,PED01048,iPad Air,Tablets,2,4200,8400,Sul,Boleto,Recorrente
+2024-06-24,PED01049,AirPods Pro,Fones de Ouvido,3,1800,5400,Norte,PIX,Recorrente
+2024-06-10,PED01050,iPhone 14,Smartphones,1,3500,3500,Centro,Cartão de Débito,Novo
+2024-02-14,PED01051,Lenovo ThinkPad,Laptops,1,5800,5800,Norte,Cartão de Débito,Novo
+2024-11-17,PED01052,Samsung Buds,Fones de Ouvido,1,650,650,Leste,Boleto,Recorrente
+2024-12-08,PED01053,Samsung Galaxy S23,Smartphones,1,4200,4200,Oeste,Cartão de Crédito,Recorrente
+2024-11-03,PED01054,Lenovo Tab P11,Tablets,2,1800,3600,Sul,PIX,Recorrente
+2024-11-20,PED01055,Xiaomi 13,Smartphones,2,2800,5600,Leste,Boleto,Recorrente
+2024-12-24,PED01056,Lenovo Tab P11,Tablets,1,1800,1800,Oeste,Boleto,Novo
+2024-03-17,PED01057,Motorola Edge 40,Smartphones,1,2200,2200,Sul,PIX,Recorrente
+2024-12-23,PED01058,Samsung Tab S9,Tablets,1,3500,3500,Sul,Cartão de Débito,Novo
+2024-01-26,PED01059,Dell XPS 15,Laptops,1,7200,7200,Centro,Cartão de Crédito,Recorrente
+2024-08-03,PED01060,Motorola Edge 40,Smartphones,1,2200,2200,Norte,Cartão de Débito,Recorrente
+2024-03-17,PED01061,Garmin Forerunner,Smartwatches,1,2200,2200,Centro,Cartão de Crédito,Novo
+2024-12-04,PED01062,AirPods Pro,Fones de Ouvido,1,1800,1800,Oeste,Cartão de Débito,Recorrente
+2024-07-28,PED01063,Lenovo Tab P11,Tablets,2,1800,3600,Norte,Cartão de Crédito,Recorrente
+2024-07-23,PED01064,Apple Watch Series 9,Smartwatches,1,4500,4500,Oeste,PIX,Recorrente
+2024-05-08,PED01065,Lenovo ThinkPad,Laptops,1,5800,5800,Centro,Boleto,Recorrente
+2024-09-11,PED01066,Dell XPS 15,Laptops,1,7200,7200,Leste,Cartão de Crédito,Recorrente
+2024-03-15,PED01067,Samsung Buds,Fones de Ouvido,3,650,1950,Centro,Cartão de Débito,Recorrente
+2024-02-18,PED01068,JBL Tune 510,Fones de Ouvido,2,280,560,Centro,Cartão de Crédito,Recorrente
+2024-11-01,PED01069,Samsung Galaxy S23,Smartphones,1,4200,4200,Oeste,PIX,Novo
+2024-08-11,PED01070,Asus ROG,Laptops,1,9500,9500,Oeste,Boleto,Recorrente
+2024-01-05,PED01071,Garmin Forerunner,Smartwatches,1,2200,2200,Centro,Boleto,Recorrente
+2024-03-06,PED01072,Samsung Buds,Fones de Ouvido,3,650,1950,Oeste,Cartão de Débito,Novo
+2024-06-19,PED01073,Amazon Fire HD,Tablets,2,850,1700,Centro,Boleto,Novo
+2024-10-04,PED01074,iPad Air,Tablets,1,4200,4200,Oeste,Boleto,Recorrente
+2024-08-13,PED01075,Dell XPS 15,Laptops,2,7200,14400,Centro,Cartão de Crédito,Novo
+2024-07-11,PED01076,Sony WH-1000XM5,Fones de Ouvido,2,1500,3000,Sul,Cartão de Débito,Recorrente
+2024-01-03,PED01077,iPad Air,Tablets,2,4200,8400,Sul,PIX,Recorrente
+2024-07-02,PED01078,Asus ROG,Laptops,1,9500,9500,Oeste,PIX,Recorrente
+2024-06-06,PED01079,Asus ROG,Laptops,2,9500,19000,Norte,PIX,Novo
+2024-01-18,PED01080,Lenovo ThinkPad,Laptops,1,5800,5800,Sul,Cartão de Débito,Novo
+2024-06-23,PED01081,Samsung Galaxy Watch 6,Smartwatches,1,2800,2800,Centro,Boleto,Recorrente
+2024-03-04,PED01082,Xiaomi Band 8,Smartwatches,1,350,350,Leste,Cartão de Débito,Recorrente
+2024-03-11,PED01083,Samsung Buds,Fones de Ouvido,2,650,1300,Centro,PIX,Recorrente
+2024-10-08,PED01084,Lenovo Tab P11,Tablets,1,1800,1800,Centro,Boleto,Novo
+2024-10-20,PED01085,Xiaomi Band 8,Smartwatches,1,350,350,Centro,Cartão de Débito,Recorrente
+2024-12-06,PED01086,Motorola Edge 40,Smartphones,1,2200,2200,Centro,Cartão de Crédito,Recorrente
+2024-01-27,PED01087,Xiaomi Band 8,Smartwatches,1,350,350,Sul,Boleto,Recorrente
+2024-02-15,PED01088,Sony WH-1000XM5,Fones de Ouvido,1,1500,1500,Leste,Cartão de Crédito,Recorrente
+2024-08-10,PED01089,Dell XPS 15,Laptops,1,7200,7200,Sul,Cartão de Crédito,Novo
+2024-07-11,PED01090,iPhone 14,Smartphones,2,3500,7000,Leste,PIX,Novo
+2024-08-01,PED01091,Samsung Galaxy Watch 6,Smartwatches,1,2800,2800,Norte,Cartão de Débito,Novo
+2024-10-12,PED01092,Samsung Galaxy S23,Smartphones,1,4200,4200,Oeste,Cartão de Crédito,Novo
+2024-03-07,PED01093,iPad Air,Tablets,2,4200,8400,Oeste,Boleto,Recorrente
+2024-02-19,PED01094,Apple Watch Series 9,Smartwatches,1,4500,4500,Centro,Boleto,Recorrente
+2024-01-01,PED01095,MacBook Air M2,Laptops,1,8500,8500,Oeste,Cartão de Débito,Recorrente
+2024-10-24,PED01096,Sony WH-1000XM5,Fones de Ouvido,3,1500,4500,Sul,Cartão de Débito,Novo
+2024-07-23,PED01097,Amazon Fire HD,Tablets,1,850,850,Sul,Boleto,Recorrente
+2024-07-27,PED01098,Garmin Forerunner,Smartwatches,1,2200,2200,Oeste,PIX,Recorrente
+2024-05-22,PED01099,Dell XPS 15,Laptops,1,7200,7200,Leste,PIX,Recorrente
+2024-06-05,PED01100,iPad Air,Tablets,1,4200,4200,Leste,Cartão de Crédito,Recorrente
+2024-04-18,PED01101,MacBook Air M2,Laptops,2,8500,17000,Leste,PIX,Novo
+2024-06-15,PED01102,Dell XPS 15,Laptops,2,7200,14400,Sul,PIX,Novo
+2024-04-13,PED01103,AirPods Pro,Fones de Ouvido,2,1800,3600,Oeste,Cartão de Débito,Recorrente
+2024-11-18,PED01104,Sony WH-1000XM5,Fones de Ouvido,2,1500,3000,Leste,PIX,Novo
+2024-02-12,PED01105,Dell XPS 15,Laptops,1,7200,7200,Oeste,Cartão de Crédito,Recorrente
+2024-08-01,PED01106,Amazon Fire HD,Tablets,2,850,1700,Centro,Boleto,Recorrente
+2024-03-13,PED01107,MacBook Air M2,Laptops,1,8500,8500,Oeste,Cartão de Crédito,Novo
+2024-12-12,PED01108,MacBook Air M2,Laptops,1,8500,8500,Oeste,PIX,Recorrente
+2024-01-20,PED01109,iPad Air,Tablets,2,4200,8400,Sul,Cartão de Débito,Recorrente
+2024-08-10,PED01110,AirPods Pro,Fones de Ouvido,2,1800,3600,Norte,Cartão de Crédito,Recorrente
+2024-07-10,PED01111,Xiaomi Band 8,Smartwatches,2,350,700,Leste,Boleto,Novo
+2024-10-23,PED01112,Samsung Galaxy Watch 6,Smartwatches,1,2800,2800,Centro,Cartão de Débito,Recorrente
+2024-10-25,PED01113,Motorola Edge 40,Smartphones,1,2200,2200,Oeste,Cartão de Débito,Recorrente
+2024-09-19,PED01114,Motorola Edge 40,Smartphones,2,2200,4400,Centro,Cartão de Débito,Recorrente
+2024-08-22,PED01115,Sony WH-1000XM5,Fones de Ouvido,3,1500,4500,Oeste,Cartão de Débito,Novo
+2024-08-22,PED01116,AirPods Pro,Fones de Ouvido,3,1800,5400,Norte,PIX,Recorrente
+2024-07-12,PED01117,Apple Watch Series 9,Smartwatches,2,4500,9000,Centro,Boleto,Recorrente
+2024-10-22,PED01118,JBL Tune 510,Fones de Ouvido,2,280,560,Centro,Cartão de Crédito,Recorrente
+2024-10-05,PED01119,Garmin Forerunner,Smartwatches,1,2200,2200,Leste,Boleto,Recorrente
+2024-04-05,PED01120,Samsung Galaxy S23,Smartphones,1,4200,4200,Norte,PIX,Recorrente
+2024-04-05,PED01121,Xiaomi 13,Smartphones,1,2800,2800,Norte,Boleto,Recorrente
+2024-07-03,PED01122,iPad Air,Tablets,1,4200,4200,Oeste,Cartão de Débito,Novo
+2024-12-09,PED01123,Xiaomi 13,Smartphones,2,2800,5600,Centro,Cartão de Débito,Recorrente
+2024-07-21,PED01124,MacBook Air M2,Laptops,2,8500,17000,Centro,Boleto,Novo
+2024-11-20,PED01125,Xiaomi Band 8,Smartwatches,2,350,700,Norte,Cartão de Débito,Recorrente
+2024-09-19,PED01126,Dell XPS 15,Laptops,1,7200,7200,Leste,PIX,Recorrente
+2024-09-13,PED01127,Xiaomi 13,Smartphones,1,2800,2800,Sul,Cartão de Crédito,Recorrente
+2024-11-06,PED01128,MacBook Air M2,Laptops,1,8500,8500,Oeste,PIX,Novo
+2024-08-25,PED01129,Amazon Fire HD,Tablets,1,850,850,Sul,Boleto,Recorrente
+2024-02-22,PED01130,Lenovo Tab P11,Tablets,1,1800,1800,Oeste,PIX,Novo
+2024-06-06,PED01131,AirPods Pro,Fones de Ouvido,3,1800,5400,Leste,Cartão de Crédito,Novo
+2024-12-27,PED01132,Dell XPS 15,Laptops,1,7200,7200,Norte,Cartão de Débito,Recorrente
+2024-10-22,PED01133,Samsung Tab S9,Tablets,2,3500,7000,Norte,PIX,Recorrente
+2024-09-26,PED01134,MacBook Air M2,Laptops,1,8500,8500,Norte,Cartão de Débito,Recorrente
+2024-12-18,PED01135,iPad Air,Tablets,1,4200,4200,Leste,PIX,Novo
+2024-12-20,PED01136,Amazon Fire HD,Tablets,1,850,850,Oeste,Cartão de Crédito,Recorrente
+2024-05-16,PED01137,Motorola Edge 40,Smartphones,1,2200,2200,Centro,Cartão de Crédito,Recorrente
+2024-11-07,PED01138,iPad Air,Tablets,2,4200,8400,Centro,PIX,Recorrente
+2024-06-27,PED01139,MacBook Air M2,Laptops,2,8500,17000,Oeste,Cartão de Débito,Novo
+2024-09-09,PED01140,AirPods Pro,Fones de Ouvido,2,1800,3600,Centro,Cartão de Crédito,Recorrente
+2024-05-19,PED01141,Lenovo ThinkPad,Laptops,2,5800,11600,Centro,Cartão de Débito,Recorrente
+2024-11-22,PED01142,AirPods Pro,Fones de Ouvido,3,1800,5400,Norte,PIX,Recorrente
+2024-03-12,PED01143,Dell XPS 15,Laptops,2,7200,14400,Sul,Cartão de Crédito,Recorrente
+2024-04-26,PED01144,Xiaomi Band 8,Smartwatches,1,350,350,Oeste,Boleto,Recorrente
+2024-01-06,PED01145,Motorola Edge 40,Smartphones,1,2200,2200,Sul,Boleto,Recorrente
+2024-04-17,PED01146,Asus ROG,Laptops,2,9500,19000,Leste,Cartão de Crédito,Recorrente
+2024-01-03,PED01147,JBL Tune 510,Fones de Ouvido,3,280,840,Norte,Cartão de Débito,Novo
+2024-06-12,PED01148,Asus ROG,Laptops,1,9500,9500,Norte,PIX,Novo
+2024-06-16,PED01149,Lenovo Tab P11,Tablets,2,1800,3600,Centro,Cartão de Débito,Recorrente
+2024-05-11,PED01150,Xiaomi Band 8,Smartwatches,1,350,350,Norte,Boleto,Recorrente
+2024-01-10,PED01151,Apple Watch Series 9,Smartwatches,2,4500,9000,Leste,PIX,Recorrente
+2024-04-09,PED01152,Xiaomi 13,Smartphones,1,2800,2800,Leste,Cartão de Débito,Recorrente
+2024-03-28,PED01153,Samsung Galaxy Watch 6,Smartwatches,1,2800,2800,Sul,Boleto,Novo
+2024-07-26,PED01154,Dell XPS 15,Laptops,2,7200,14400,Norte,Cartão de Débito,Recorrente
+2024-06-12,PED01155,MacBook Air M2,Laptops,1,8500,8500,Norte,PIX,Novo
+2024-09-24,PED01156,JBL Tune 510,Fones de Ouvido,2,280,560,Centro,Boleto,Recorrente
+2024-07-16,PED01157,Dell XPS 15,Laptops,1,7200,7200,Sul,PIX,Novo
+2024-04-02,PED01158,Sony WH-1000XM5,Fones de Ouvido,2,1500,3000,Norte,Cartão de Débito,Novo
+2024-09-20,PED01159,Garmin Forerunner,Smartwatches,1,2200,2200,Sul,PIX,Recorrente
+2024-05-10,PED01160,Asus ROG,Laptops,2,9500,19000,Norte,Boleto,Novo
+2024-05-18,PED01161,Lenovo Tab P11,Tablets,2,1800,3600,Sul,Cartão de Débito,Recorrente
+2024-01-05,PED01162,iPhone 14,Smartphones,1,3500,3500,Oeste,Boleto,Recorrente
+2024-03-18,PED01163,Sony WH-1000XM5,Fones de Ouvido,1,1500,1500,Sul,Cartão de Crédito,Novo
+2024-06-21,PED01164,Samsung Buds,Fones de Ouvido,1,650,650,Leste,Cartão de Crédito,Recorrente
+2024-08-09,PED01165,MacBook Air M2,Laptops,1,8500,8500,Leste,Cartão de Crédito,Recorrente
+2024-11-09,PED01166,Amazon Fire HD,Tablets,1,850,850,Norte,Cartão de Crédito,Recorrente
+2024-04-09,PED01167,iPhone 14,Smartphones,1,3500,3500,Centro,Cartão de Débito,Recorrente
+2024-10-02,PED01168,Xiaomi 13,Smartphones,1,2800,2800,Norte,Cartão de Crédito,Novo
+2024-10-01,PED01169,Lenovo Tab P11,Tablets,1,1800,1800,Centro,Cartão de Débito,Recorrente
+2024-02-25,PED01170,JBL Tune 510,Fones de Ouvido,3,280,840,Oeste,Cartão de Débito,Recorrente
+2024-05-02,PED01171,Apple Watch Series 9,Smartwatches,2,4500,9000,Leste,Boleto,Recorrente
+2024-03-07,PED01172,Apple Watch Series 9,Smartwatches,1,4500,4500,Sul,PIX,Recorrente
+2024-06-27,PED01173,Samsung Galaxy Watch 6,Smartwatches,1,2800,2800,Sul,PIX,Novo
+2024-04-17,PED01174,Dell XPS 15,Laptops,1,7200,7200,Norte,PIX,Recorrente
+2024-05-07,PED01175,Amazon Fire HD,Tablets,2,850,1700,Sul,Cartão de Débito,Recorrente
+2024-04-07,PED01176,iPhone 14,Smartphones,1,3500,3500,Leste,Cartão de Débito,Recorrente
+2024-11-28,PED01177,Garmin Forerunner,Smartwatches,1,2200,2200,Sul,Cartão de Crédito,Novo
+2024-07-19,PED01178,Dell XPS 15,Laptops,2,7200,14400,Oeste,PIX,Recorrente
+2024-08-08,PED01179,AirPods Pro,Fones de Ouvido,2,1800,3600,Centro,PIX,Recorrente
+2024-08-16,PED01180,Asus ROG,Laptops,1,9500,9500,Centro,Cartão de Débito,Recorrente
+2024-05-02,PED01181,iPad Air,Tablets,1,4200,4200,Sul,PIX,Recorrente
+2024-10-20,PED01182,iPad Air,Tablets,1,4200,4200,Leste,Cartão de Crédito,Recorrente
+2024-01-13,PED01183,Amazon Fire HD,Tablets,1,850,850,Norte,Boleto,Recorrente
+2024-05-17,PED01184,Xiaomi Band 8,Smartwatches,2,350,700,Sul,Cartão de Crédito,Novo
+2024-01-11,PED01185,Xiaomi Band 8,Smartwatches,2,350,700,Norte,Boleto,Recorrente
+2024-02-02,PED01186,iPad Air,Tablets,1,4200,4200,Sul,Cartão de Débito,Recorrente
+2024-05-15,PED01187,Motorola Edge 40,Smartphones,1,2200,2200,Leste,Cartão de Débito,Novo
+2024-04-12,PED01188,Lenovo ThinkPad,Laptops,2,5800,11600,Sul,Cartão de Crédito,Recorrente
+2024-10-05,PED01189,Motorola Edge 40,Smartphones,2,2200,4400,Oeste,Cartão de Crédito,Recorrente
+2024-02-11,PED01190,iPad Air,Tablets,1,4200,4200,Leste,Cartão de Débito,Novo
+2024-08-28,PED01191,iPad Air,Tablets,1,4200,4200,Sul,Cartão de Crédito,Recorrente
+2024-03-01,PED01192,Samsung Galaxy S23,Smartphones,2,4200,8400,Centro,PIX,Recorrente
+2024-01-15,PED01193,Samsung Galaxy Watch 6,Smartwatches,1,2800,2800,Leste,Cartão de Crédito,Novo
+2024-01-27,PED01194,Garmin Forerunner,Smartwatches,1,2200,2200,Norte,Cartão de Crédito,Recorrente
+2024-01-27,PED01195,Lenovo ThinkPad,Laptops,2,5800,11600,Sul,PIX,Recorrente
+2024-08-26,PED01196,Apple Watch Series 9,Smartwatches,2,4500,9000,Centro,Cartão de Crédito,Recorrente
+2024-03-20,PED01197,Samsung Tab S9,Tablets,1,3500,3500,Oeste,Cartão de Débito,Recorrente
+2024-06-16,PED01198,iPad Air,Tablets,1,4200,4200,Norte,PIX,Novo
+2024-06-23,PED01199,MacBook Air M2,Laptops,2,8500,17000,Leste,Boleto,Recorrente
+2024-08-09,PED01200,Amazon Fire HD,Tablets,1,850,850,Sul,Boleto,Recorrente
+2024-05-18,PED01201,JBL Tune 510,Fones de Ouvido,3,280,840,Leste,Cartão de Crédito,Recorrente
+2024-04-19,PED01202,Lenovo ThinkPad,Laptops,1,5800,5800,Centro,Cartão de Débito,Novo
+2024-12-22,PED01203,Samsung Buds,Fones de Ouvido,1,650,650,Centro,PIX,Novo
+2024-03-12,PED01204,Lenovo Tab P11,Tablets,1,1800,1800,Sul,Cartão de Crédito,Recorrente
+2024-04-12,PED01205,Samsung Tab S9,Tablets,1,3500,3500,Leste,Cartão de Débito,Recorrente
+2024-01-28,PED01206,AirPods Pro,Fones de Ouvido,1,1800,1800,Sul,Cartão de Crédito,Recorrente
+2024-10-27,PED01207,Amazon Fire HD,Tablets,1,850,850,Oeste,Cartão de Débito,Recorrente
+2024-06-13,PED01208,Garmin Forerunner,Smartwatches,1,2200,2200,Centro,Boleto,Recorrente
+2024-07-08,PED01209,Samsung Tab S9,Tablets,1,3500,3500,Oeste,Boleto,Recorrente
+2024-11-21,PED01210,Sony WH-1000XM5,Fones de Ouvido,3,1500,4500,Norte,PIX,Novo
+2024-04-09,PED01211,Amazon Fire HD,Tablets,2,850,1700,Centro,PIX,Novo
+2024-09-03,PED01212,Samsung Tab S9,Tablets,1,3500,3500,Leste,Cartão de Débito,Recorrente
+2024-04-11,PED01213,Samsung Galaxy S23,Smartphones,1,4200,4200,Norte,PIX,Novo
+2024-12-24,PED01214,Amazon Fire HD,Tablets,2,850,1700,Leste,Cartão de Crédito,Recorrente
+2024-02-15,PED01215,iPhone 14,Smartphones,1,3500,3500,Sul,PIX,Recorrente
+2024-05-07,PED01216,Dell XPS 15,Laptops,1,7200,7200,Sul,PIX,Recorrente
+2024-05-12,PED01217,iPhone 14,Smartphones,1,3500,3500,Sul,Boleto,Recorrente
+2024-07-26,PED01218,Samsung Galaxy Watch 6,Smartwatches,1,2800,2800,Sul,Cartão de Crédito,Novo
+2024-03-25,PED01219,Apple Watch Series 9,Smartwatches,2,4500,9000,Centro,PIX,Recorrente
+2024-08-13,PED01220,Xiaomi 13,Smartphones,2,2800,5600,Norte,Cartão de Crédito,Novo
+2024-08-23,PED01221,iPad Air,Tablets,2,4200,8400,Centro,Cartão de Crédito,Recorrente
+2024-03-22,PED01222,Samsung Galaxy Watch 6,Smartwatches,1,2800,2800,Centro,Boleto,Recorrente
+2024-11-23,PED01223,Dell XPS 15,Laptops,2,7200,14400,Centro,Boleto,Recorrente
+2024-06-26,PED01224,iPhone 14,Smartphones,2,3500,7000,Oeste,Cartão de Débito,Recorrente
+2024-02-22,PED01225,AirPods Pro,Fones de Ouvido,3,1800,5400,Centro,Boleto,Recorrente
+2024-02-27,PED01226,iPhone 14,Smartphones,1,3500,3500,Sul,PIX,Recorrente
+2024-02-07,PED01227,Lenovo ThinkPad,Laptops,1,5800,5800,Norte,Cartão de Crédito,Recorrente
+2024-12-22,PED01228,Motorola Edge 40,Smartphones,2,2200,4400,Centro,Cartão de Crédito,Recorrente
+2024-12-15,PED01229,AirPods Pro,Fones de Ouvido,3,1800,5400,Oeste,Cartão de Crédito,Novo
+2024-04-18,PED01230,iPad Air,Tablets,1,4200,4200,Sul,Cartão de Débito,Recorrente
+2024-08-08,PED01231,Lenovo Tab P11,Tablets,1,1800,1800,Oeste,PIX,Recorrente
+2024-03-03,PED01232,MacBook Air M2,Laptops,1,8500,8500,Centro,Boleto,Novo
+2024-10-07,PED01233,Motorola Edge 40,Smartphones,1,2200,2200,Sul,Cartão de Débito,Novo
+2024-09-20,PED01234,JBL Tune 510,Fones de Ouvido,1,280,280,Sul,Boleto,Recorrente
+2024-02-02,PED01235,Amazon Fire HD,Tablets,1,850,850,Centro,PIX,Recorrente
+2024-05-16,PED01236,Dell XPS 15,Laptops,1,7200,7200,Centro,Cartão de Crédito,Novo
+2024-05-08,PED01237,JBL Tune 510,Fones de Ouvido,1,280,280,Norte,Cartão de Crédito,Novo
+2024-12-18,PED01238,JBL Tune 510,Fones de Ouvido,3,280,840,Leste,PIX,Recorrente
+2024-07-09,PED01239,Lenovo ThinkPad,Laptops,2,5800,11600,Leste,Boleto,Recorrente
+2024-04-26,PED01240,Xiaomi 13,Smartphones,1,2800,2800,Centro,Boleto,Novo
+2024-06-25,PED01241,Motorola Edge 40,Smartphones,1,2200,2200,Norte,Boleto,Novo
+2024-10-21,PED01242,Samsung Tab S9,Tablets,1,3500,3500,Norte,Boleto,Recorrente
+2024-07-10,PED01243,JBL Tune 510,Fones de Ouvido,2,280,560,Sul,Cartão de Crédito,Recorrente
+2024-09-14,PED01244,Samsung Tab S9,Tablets,1,3500,3500,Oeste,PIX,Novo
+2024-08-01,PED01245,Lenovo Tab P11,Tablets,1,1800,1800,Centro,PIX,Recorrente
+2024-11-01,PED01246,JBL Tune 510,Fones de Ouvido,1,280,280,Centro,Boleto,Recorrente
+2024-09-23,PED01247,Lenovo ThinkPad,Laptops,1,5800,5800,Centro,PIX,Novo
+2024-09-25,PED01248,iPad Air,Tablets,1,4200,4200,Sul,Boleto,Recorrente
+2024-09-01,PED01249,Xiaomi 13,Smartphones,1,2800,2800,Leste,Cartão de Débito,Novo
+2024-11-19,PED01250,Xiaomi 13,Smartphones,2,2800,5600,Leste,Cartão de Débito,Recorrente
+2024-07-16,PED01251,iPhone 14,Smartphones,1,3500,3500,Centro,Boleto,Recorrente
+2024-12-27,PED01252,Samsung Galaxy S23,Smartphones,1,4200,4200,Norte,Boleto,Novo
+2024-10-01,PED01253,Lenovo Tab P11,Tablets,1,1800,1800,Centro,Boleto,Recorrente
+2024-04-26,PED01254,Dell XPS 15,Laptops,1,7200,7200,Leste,Cartão de Débito,Recorrente
+2024-08-11,PED01255,Xiaomi Band 8,Smartwatches,1,350,350,Sul,Cartão de Crédito,Recorrente
+2024-01-17,PED01256,Motorola Edge 40,Smartphones,1,2200,2200,Centro,PIX,Recorrente
+2024-01-18,PED01257,Lenovo ThinkPad,Laptops,1,5800,5800,Leste,Boleto,Recorrente
+2024-11-16,PED01258,Samsung Buds,Fones de Ouvido,3,650,1950,Leste,Boleto,Recorrente
+2024-06-23,PED01259,Motorola Edge 40,Smartphones,1,2200,2200,Leste,Boleto,Novo
+2024-02-09,PED01260,Lenovo ThinkPad,Laptops,1,5800,5800,Centro,PIX,Recorrente
+2024-12-25,PED01261,iPad Air,Tablets,1,4200,4200,Sul,Cartão de Débito,Novo
+2024-03-15,PED01262,Xiaomi 13,Smartphones,1,2800,2800,Oeste,Cartão de Crédito,Novo
+2024-05-25,PED01263,Lenovo Tab P11,Tablets,1,1800,1800,Sul,Cartão de Crédito,Novo
+2024-01-01,PED01264,Samsung Galaxy S23,Smartphones,1,4200,4200,Centro,PIX,Recorrente
+2024-11-04,PED01265,Asus ROG,Laptops,1,9500,9500,Leste,Boleto,Recorrente
+2024-10-13,PED01266,Samsung Galaxy Watch 6,Smartwatches,1,2800,2800,Sul,Cartão de Débito,Recorrente
+2024-08-22,PED01267,Lenovo ThinkPad,Laptops,1,5800,5800,Norte,Boleto,Recorrente
+2024-05-14,PED01268,Lenovo ThinkPad,Laptops,1,5800,5800,Norte,Cartão de Débito,Novo
+2024-04-18,PED01269,Lenovo Tab P11,Tablets,2,1800,3600,Oeste,Cartão de Débito,Novo
+2024-04-09,PED01270,iPad Air,Tablets,1,4200,4200,Leste,Cartão de Crédito,Recorrente
+2024-01-01,PED01271,Xiaomi Band 8,Smartwatches,1,350,350,Leste,PIX,Novo
+2024-01-10,PED01272,iPad Air,Tablets,2,4200,8400,Sul,Cartão de Débito,Recorrente
+2024-10-22,PED01273,Samsung Tab S9,Tablets,1,3500,3500,Sul,Cartão de Crédito,Novo
+2024-12-21,PED01274,Samsung Galaxy Watch 6,Smartwatches,1,2800,2800,Centro,Cartão de Crédito,Recorrente
+2024-07-06,PED01275,JBL Tune 510,Fones de Ouvido,1,280,280,Leste,Cartão de Débito,Recorrente
+2024-01-17,PED01276,Samsung Buds,Fones de Ouvido,2,650,1300,Sul,Cartão de Crédito,Recorrente
+2024-02-14,PED01277,iPad Air,Tablets,1,4200,4200,Centro,PIX,Novo
+2024-12-18,PED01278,Dell XPS 15,Laptops,1,7200,7200,Norte,Cartão de Crédito,Recorrente
+2024-03-04,PED01279,AirPods Pro,Fones de Ouvido,1,1800,1800,Sul,Boleto,Novo
+2024-07-12,PED01280,JBL Tune 510,Fones de Ouvido,1,280,280,Leste,Boleto,Recorrente
+2024-05-17,PED01281,Samsung Galaxy Watch 6,Smartwatches,1,2800,2800,Centro,Cartão de Débito,Recorrente
+2024-11-26,PED01282,MacBook Air M2,Laptops,2,8500,17000,Centro,Cartão de Débito,Recorrente
+2024-07-16,PED01283,Xiaomi 13,Smartphones,1,2800,2800,Leste,Cartão de Débito,Novo
+2024-10-27,PED01284,MacBook Air M2,Laptops,1,8500,8500,Oeste,PIX,Recorrente
+2024-08-03,PED01285,Lenovo ThinkPad,Laptops,1,5800,5800,Centro,PIX,Novo
+2024-09-27,PED01286,JBL Tune 510,Fones de Ouvido,2,280,560,Oeste,PIX,Recorrente
+2024-04-21,PED01287,Dell XPS 15,Laptops,1,7200,7200,Oeste,Cartão de Crédito,Recorrente
+2024-01-10,PED01288,Xiaomi 13,Smartphones,1,2800,2800,Sul,Cartão de Crédito,Recorrente
+2024-11-05,PED01289,Samsung Buds,Fones de Ouvido,1,650,650,Leste,Cartão de Débito,Recorrente
+2024-06-08,PED01290,Apple Watch Series 9,Smartwatches,1,4500,4500,Centro,Boleto,Novo
+2024-03-27,PED01291,Dell XPS 15,Laptops,1,7200,7200,Norte,Cartão de Crédito,Novo
+2024-10-27,PED01292,Samsung Galaxy Watch 6,Smartwatches,1,2800,2800,Centro,Boleto,Recorrente
+2024-08-12,PED01293,Dell XPS 15,Laptops,2,7200,14400,Sul,Cartão de Débito,Recorrente
+2024-05-05,PED01294,iPhone 14,Smartphones,1,3500,3500,Oeste,PIX,Recorrente
+2024-07-13,PED01295,iPhone 14,Smartphones,1,3500,3500,Sul,Cartão de Crédito,Novo
+2024-03-11,PED01296,AirPods Pro,Fones de Ouvido,2,1800,3600,Centro,Cartão de Crédito,Recorrente
+2024-08-01,PED01297,Motorola Edge 40,Smartphones,2,2200,4400,Leste,PIX,Novo
+2024-01-07,PED01298,Lenovo ThinkPad,Laptops,2,5800,11600,Leste,Cartão de Débito,Recorrente
+2024-06-20,PED01299,Samsung Tab S9,Tablets,1,3500,3500,Centro,Cartão de Débito,Recorrente
+2024-09-21,PED01300,JBL Tune 510,Fones de Ouvido,1,280,280,Norte,Cartão de Débito,Recorrente
+2024-11-21,PED01301,iPad Air,Tablets,1,4200,4200,Leste,PIX,Recorrente
+2024-07-17,PED01302,Xiaomi Band 8,Smartwatches,2,350,700,Leste,Boleto,Novo
+2024-08-23,PED01303,Samsung Galaxy Watch 6,Smartwatches,1,2800,2800,Leste,Cartão de Crédito,Recorrente
+2024-10-02,PED01304,Dell XPS 15,Laptops,1,7200,7200,Oeste,Boleto,Recorrente
+2024-09-05,PED01305,Sony WH-1000XM5,Fones de Ouvido,3,1500,4500,Norte,Cartão de Crédito,Recorrente
+2024-08-20,PED01306,Sony WH-1000XM5,Fones de Ouvido,1,1500,1500,Norte,PIX,Recorrente
+2024-12-22,PED01307,Amazon Fire HD,Tablets,1,850,850,Oeste,PIX,Recorrente
+2024-11-13,PED01308,Lenovo Tab P11,Tablets,1,1800,1800,Sul,Cartão de Crédito,Novo
+2024-11-22,PED01309,Garmin Forerunner,Smartwatches,2,2200,4400,Leste,PIX,Novo
+2024-06-11,PED01310,Xiaomi 13,Smartphones,1,2800,2800,Sul,Boleto,Recorrente
+2024-01-09,PED01311,Samsung Tab S9,Tablets,1,3500,3500,Centro,PIX,Novo
+2024-05-06,PED01312,MacBook Air M2,Laptops,1,8500,8500,Sul,Boleto,Recorrente
+2024-10-09,PED01313,Samsung Tab S9,Tablets,1,3500,3500,Centro,Cartão de Crédito,Recorrente
+2024-12-02,PED01314,Lenovo Tab P11,Tablets,1,1800,1800,Sul,PIX,Recorrente
+2024-03-13,PED01315,Lenovo Tab P11,Tablets,1,1800,1800,Sul,Boleto,Novo
+2024-08-23,PED01316,Samsung Tab S9,Tablets,2,3500,7000,Norte,Boleto,Recorrente
+2024-05-24,PED01317,Lenovo Tab P11,Tablets,1,1800,1800,Centro,Boleto,Novo
+2024-07-26,PED01318,Asus ROG,Laptops,1,9500,9500,Norte,Cartão de Débito,Recorrente
+2024-03-03,PED01319,iPhone 14,Smartphones,1,3500,3500,Leste,Boleto,Recorrente
+2024-02-12,PED01320,Xiaomi Band 8,Smartwatches,1,350,350,Centro,PIX,Recorrente
+2024-11-28,PED01321,Xiaomi Band 8,Smartwatches,1,350,350,Oeste,PIX,Recorrente
+2024-02-23,PED01322,Sony WH-1000XM5,Fones de Ouvido,2,1500,3000,Sul,PIX,Novo
+2024-07-22,PED01323,Asus ROG,Laptops,2,9500,19000,Leste,Cartão de Débito,Recorrente
+2024-02-07,PED01324,Apple Watch Series 9,Smartwatches,1,4500,4500,Centro,PIX,Novo
+2024-12-25,PED01325,Lenovo ThinkPad,Laptops,1,5800,5800,Centro,Cartão de Débito,Novo
+2024-06-24,PED01326,Lenovo Tab P11,Tablets,2,1800,3600,Centro,Cartão de Crédito,Novo
+2024-01-15,PED01327,iPad Air,Tablets,1,4200,4200,Centro,Cartão de Crédito,Recorrente
+2024-04-09,PED01328,JBL Tune 510,Fones de Ouvido,3,280,840,Centro,PIX,Recorrente
+2024-10-15,PED01329,Samsung Buds,Fones de Ouvido,2,650,1300,Oeste,PIX,Recorrente
+2024-07-12,PED01330,Lenovo Tab P11,Tablets,1,1800,1800,Norte,PIX,Recorrente
+2024-09-15,PED01331,Lenovo ThinkPad,Laptops,1,5800,5800,Sul,PIX,Novo
+2024-05-17,PED01332,Xiaomi 13,Smartphones,1,2800,2800,Leste,Cartão de Crédito,Novo
+2024-12-15,PED01333,Asus ROG,Laptops,1,9500,9500,Norte,PIX,Recorrente
+2024-03-19,PED01334,Asus ROG,Laptops,1,9500,9500,Leste,Boleto,Novo
+2024-04-18,PED01335,Lenovo ThinkPad,Laptops,1,5800,5800,Norte,PIX,Recorrente
+2024-04-17,PED01336,Asus ROG,Laptops,2,9500,19000,Leste,Boleto,Recorrente
+2024-05-27,PED01337,Samsung Buds,Fones de Ouvido,3,650,1950,Sul,Boleto,Recorrente
+2024-02-11,PED01338,Xiaomi Band 8,Smartwatches,2,350,700,Centro,Cartão de Crédito,Recorrente
+2024-02-23,PED01339,Motorola Edge 40,Smartphones,1,2200,2200,Norte,Boleto,Novo
+2024-06-24,PED01340,Motorola Edge 40,Smartphones,1,2200,2200,Leste,Cartão de Crédito,Novo
+2024-01-10,PED01341,JBL Tune 510,Fones de Ouvido,1,280,280,Sul,Cartão de Débito,Recorrente
+2024-09-12,PED01342,Samsung Buds,Fones de Ouvido,1,650,650,Centro,Cartão de Débito,Novo
+2024-02-08,PED01343,MacBook Air M2,Laptops,1,8500,8500,Sul,Boleto,Recorrente
+2024-04-26,PED01344,Samsung Galaxy Watch 6,Smartwatches,1,2800,2800,Oeste,Boleto,Recorrente
+2024-06-08,PED01345,JBL Tune 510,Fones de Ouvido,3,280,840,Centro,Cartão de Débito,Recorrente
+2024-02-18,PED01346,Lenovo Tab P11,Tablets,1,1800,1800,Leste,PIX,Recorrente
+2024-02-24,PED01347,Lenovo ThinkPad,Laptops,1,5800,5800,Leste,Boleto,Recorrente
+2024-11-21,PED01348,Amazon Fire HD,Tablets,1,850,850,Oeste,PIX,Novo
+2024-02-27,PED01349,Samsung Galaxy Watch 6,Smartwatches,2,2800,5600,Centro,Cartão de Débito,Recorrente
+2024-08-18,PED01350,Lenovo Tab P11,Tablets,2,1800,3600,Centro,Cartão de Crédito,Recorrente
+2024-10-08,PED01351,Samsung Galaxy S23,Smartphones,1,4200,4200,Leste,PIX,Recorrente
+2024-02-10,PED01352,iPhone 14,Smartphones,1,3500,3500,Leste,Boleto,Recorrente
+2024-06-26,PED01353,MacBook Air M2,Laptops,1,8500,8500,Centro,PIX,Recorrente
+2024-09-26,PED01354,JBL Tune 510,Fones de Ouvido,2,280,560,Oeste,Cartão de Débito,Recorrente
+2024-05-07,PED01355,Samsung Buds,Fones de Ouvido,1,650,650,Oeste,Cartão de Débito,Recorrente
+2024-08-10,PED01356,iPad Air,Tablets,1,4200,4200,Sul,PIX,Recorrente
+2024-04-17,PED01357,iPad Air,Tablets,1,4200,4200,Centro,PIX,Recorrente
+2024-11-05,PED01358,Samsung Tab S9,Tablets,2,3500,7000,Centro,Cartão de Crédito,Recorrente
+2024-05-19,PED01359,Samsung Galaxy S23,Smartphones,1,4200,4200,Centro,Cartão de Débito,Recorrente
+2024-01-18,PED01360,Motorola Edge 40,Smartphones,2,2200,4400,Leste,Cartão de Crédito,Novo
+2024-01-08,PED01361,Xiaomi 13,Smartphones,1,2800,2800,Leste,Cartão de Crédito,Novo
+2024-08-03,PED01362,Xiaomi 13,Smartphones,2,2800,5600,Sul,Cartão de Crédito,Recorrente
+2024-03-09,PED01363,iPad Air,Tablets,1,4200,4200,Leste,Cartão de Débito,Recorrente
+2024-01-28,PED01364,Lenovo Tab P11,Tablets,2,1800,3600,Sul,PIX,Recorrente
+2024-10-12,PED01365,Lenovo Tab P11,Tablets,1,1800,1800,Oeste,Cartão de Crédito,Recorrente
+2024-05-24,PED01366,Samsung Galaxy Watch 6,Smartwatches,1,2800,2800,Norte,PIX,Recorrente
+2024-06-16,PED01367,Asus ROG,Laptops,1,9500,9500,Norte,PIX,Recorrente
+2024-02-06,PED01368,Apple Watch Series 9,Smartwatches,2,4500,9000,Centro,PIX,Novo
+2024-10-16,PED01369,Motorola Edge 40,Smartphones,1,2200,2200,Sul,Boleto,Novo
+2024-04-19,PED01370,Samsung Buds,Fones de Ouvido,3,650,1950,Norte,Cartão de Crédito,Novo
+2024-05-21,PED01371,Motorola Edge 40,Smartphones,1,2200,2200,Norte,PIX,Recorrente
+2024-11-06,PED01372,Samsung Buds,Fones de Ouvido,1,650,650,Leste,Cartão de Crédito,Novo
+2024-07-08,PED01373,Xiaomi Band 8,Smartwatches,1,350,350,Sul,Boleto,Recorrente
+2024-05-01,PED01374,MacBook Air M2,Laptops,2,8500,17000,Norte,Boleto,Recorrente
+2024-09-10,PED01375,iPhone 14,Smartphones,1,3500,3500,Sul,PIX,Recorrente
+2024-12-23,PED01376,Apple Watch Series 9,Smartwatches,1,4500,4500,Leste,Cartão de Crédito,Recorrente
+2024-03-05,PED01377,MacBook Air M2,Laptops,1,8500,8500,Centro,Cartão de Crédito,Recorrente
+2024-12-08,PED01378,Xiaomi Band 8,Smartwatches,1,350,350,Centro,Boleto,Recorrente
+2024-10-02,PED01379,Samsung Galaxy S23,Smartphones,2,4200,8400,Sul,Cartão de Débito,Recorrente
+2024-10-04,PED01380,Sony WH-1000XM5,Fones de Ouvido,1,1500,1500,Sul,PIX,Recorrente
+2024-08-26,PED01381,AirPods Pro,Fones de Ouvido,1,1800,1800,Centro,Cartão de Crédito,Recorrente
+2024-09-05,PED01382,Asus ROG,Laptops,1,9500,9500,Leste,PIX,Recorrente
+2024-10-28,PED01383,Lenovo ThinkPad,Laptops,1,5800,5800,Leste,Cartão de Débito,Recorrente
+2024-05-14,PED01384,Samsung Buds,Fones de Ouvido,2,650,1300,Leste,Boleto,Novo
+2024-06-23,PED01385,Motorola Edge 40,Smartphones,2,2200,4400,Oeste,Boleto,Novo
+2024-01-28,PED01386,Lenovo Tab P11,Tablets,2,1800,3600,Leste,Cartão de Débito,Novo
+2024-09-06,PED01387,Lenovo ThinkPad,Laptops,1,5800,5800,Sul,Boleto,Novo
+2024-11-28,PED01388,Samsung Galaxy Watch 6,Smartwatches,1,2800,2800,Oeste,PIX,Recorrente
+2024-07-28,PED01389,iPhone 14,Smartphones,1,3500,3500,Oeste,Cartão de Crédito,Recorrente
+2024-03-15,PED01390,JBL Tune 510,Fones de Ouvido,3,280,840,Sul,PIX,Recorrente
+2024-10-14,PED01391,Samsung Galaxy Watch 6,Smartwatches,2,2800,5600,Centro,Boleto,Recorrente
+2024-03-06,PED01392,iPad Air,Tablets,1,4200,4200,Norte,PIX,Novo
+2024-08-05,PED01393,Xiaomi 13,Smartphones,1,2800,2800,Oeste,Cartão de Crédito,Recorrente
+2024-08-03,PED01394,Xiaomi Band 8,Smartwatches,1,350,350,Centro,Cartão de Crédito,Recorrente
+2024-10-17,PED01395,Lenovo Tab P11,Tablets,1,1800,1800,Norte,Cartão de Débito,Recorrente
+2024-09-25,PED01396,AirPods Pro,Fones de Ouvido,3,1800,5400,Leste,Boleto,Novo
+2024-12-18,PED01397,Samsung Tab S9,Tablets,1,3500,3500,Sul,Boleto,Recorrente
+2024-08-06,PED01398,AirPods Pro,Fones de Ouvido,2,1800,3600,Sul,Boleto,Recorrente
+2024-01-15,PED01399,iPhone 14,Smartphones,1,3500,3500,Sul,Cartão de Débito,Novo
+2024-04-17,PED01400,Dell XPS 15,Laptops,2,7200,14400,Leste,Cartão de Débito,Novo
+2024-02-06,PED01401,Xiaomi Band 8,Smartwatches,1,350,350,Sul,Cartão de Crédito,Novo
+2024-04-19,PED01402,Xiaomi 13,Smartphones,1,2800,2800,Leste,Cartão de Débito,Novo
+2024-09-08,PED01403,Apple Watch Series 9,Smartwatches,1,4500,4500,Centro,Cartão de Crédito,Recorrente
+2024-06-04,PED01404,Sony WH-1000XM5,Fones de Ouvido,1,1500,1500,Centro,Cartão de Débito,Novo
+2024-10-07,PED01405,Sony WH-1000XM5,Fones de Ouvido,2,1500,3000,Leste,PIX,Recorrente
+2024-08-19,PED01406,Samsung Galaxy S23,Smartphones,2,4200,8400,Leste,Cartão de Débito,Novo
+2024-07-27,PED01407,Samsung Tab S9,Tablets,1,3500,3500,Leste,Cartão de Débito,Recorrente
+2024-04-25,PED01408,Dell XPS 15,Laptops,1,7200,7200,Sul,PIX,Recorrente
+2024-07-06,PED01409,Sony WH-1000XM5,Fones de Ouvido,1,1500,1500,Sul,PIX,Novo
+2024-03-19,PED01410,iPad Air,Tablets,1,4200,4200,Norte,Cartão de Crédito,Recorrente
+2024-06-07,PED01411,Apple Watch Series 9,Smartwatches,1,4500,4500,Leste,Boleto,Novo
+2024-01-10,PED01412,JBL Tune 510,Fones de Ouvido,1,280,280,Leste,PIX,Recorrente
+2024-08-03,PED01413,Garmin Forerunner,Smartwatches,1,2200,2200,Leste,Cartão de Crédito,Recorrente
+2024-08-27,PED01414,Asus ROG,Laptops,1,9500,9500,Oeste,Cartão de Crédito,Recorrente
+2024-02-19,PED01415,iPad Air,Tablets,1,4200,4200,Centro,Cartão de Crédito,Recorrente
+2024-01-20,PED01416,Motorola Edge 40,Smartphones,1,2200,2200,Norte,PIX,Recorrente
+2024-07-05,PED01417,Xiaomi 13,Smartphones,1,2800,2800,Norte,Boleto,Recorrente
+2024-08-26,PED01418,Asus ROG,Laptops,1,9500,9500,Norte,Cartão de Crédito,Novo
+2024-05-17,PED01419,iPad Air,Tablets,2,4200,8400,Norte,Cartão de Débito,Novo
+2024-09-27,PED01420,Motorola Edge 40,Smartphones,1,2200,2200,Leste,PIX,Novo
+2024-10-05,PED01421,iPhone 14,Smartphones,2,3500,7000,Oeste,Cartão de Débito,Novo
+2024-08-14,PED01422,iPhone 14,Smartphones,1,3500,3500,Leste,Cartão de Débito,Recorrente
+2024-01-11,PED01423,Motorola Edge 40,Smartphones,1,2200,2200,Centro,Boleto,Recorrente
+2024-03-07,PED01424,Samsung Galaxy S23,Smartphones,1,4200,4200,Oeste,Cartão de Débito,Recorrente
+2024-03-02,PED01425,Apple Watch Series 9,Smartwatches,1,4500,4500,Oeste,PIX,Novo
+2024-05-14,PED01426,Asus ROG,Laptops,2,9500,19000,Norte,PIX,Novo
+2024-04-16,PED01427,Samsung Galaxy Watch 6,Smartwatches,1,2800,2800,Norte,PIX,Recorrente
+2024-04-24,PED01428,Xiaomi Band 8,Smartwatches,1,350,350,Oeste,Boleto,Recorrente
+2024-05-18,PED01429,Samsung Buds,Fones de Ouvido,2,650,1300,Centro,Cartão de Crédito,Recorrente
+2024-12-22,PED01430,Lenovo ThinkPad,Laptops,2,5800,11600,Centro,PIX,Novo
+2024-09-13,PED01431,Samsung Tab S9,Tablets,2,3500,7000,Sul,Cartão de Débito,Recorrente
+2024-01-01,PED01432,Samsung Galaxy S23,Smartphones,1,4200,4200,Oeste,Boleto,Novo
+2024-12-18,PED01433,Lenovo ThinkPad,Laptops,1,5800,5800,Leste,Cartão de Débito,Novo
+2024-11-09,PED01434,MacBook Air M2,Laptops,2,8500,17000,Leste,Boleto,Recorrente
+2024-10-04,PED01435,Samsung Buds,Fones de Ouvido,2,650,1300,Norte,Boleto,Recorrente
+2024-01-23,PED01436,Lenovo Tab P11,Tablets,1,1800,1800,Leste,Cartão de Débito,Recorrente
+2024-08-24,PED01437,Lenovo ThinkPad,Laptops,1,5800,5800,Norte,Boleto,Recorrente
+2024-04-26,PED01438,Samsung Tab S9,Tablets,2,3500,7000,Leste,Boleto,Recorrente
+2024-11-01,PED01439,Lenovo ThinkPad,Laptops,2,5800,11600,Norte,Cartão de Débito,Recorrente
+2024-09-26,PED01440,Samsung Galaxy Watch 6,Smartwatches,1,2800,2800,Centro,Boleto,Recorrente
+2024-02-08,PED01441,Apple Watch Series 9,Smartwatches,1,4500,4500,Norte,PIX,Recorrente
+2024-06-26,PED01442,Samsung Tab S9,Tablets,2,3500,7000,Sul,Cartão de Crédito,Recorrente
+2024-05-07,PED01443,Garmin Forerunner,Smartwatches,1,2200,2200,Norte,Cartão de Débito,Recorrente
+2024-04-17,PED01444,Asus ROG,Laptops,2,9500,19000,Centro,Boleto,Recorrente
+2024-07-04,PED01445,Samsung Galaxy S23,Smartphones,1,4200,4200,Leste,Boleto,Novo
+2024-05-02,PED01446,Apple Watch Series 9,Smartwatches,1,4500,4500,Sul,Boleto,Novo
+2024-04-10,PED01447,iPhone 14,Smartphones,1,3500,3500,Sul,PIX,Recorrente
+2024-11-02,PED01448,Garmin Forerunner,Smartwatches,1,2200,2200,Sul,PIX,Recorrente
+2024-06-04,PED01449,JBL Tune 510,Fones de Ouvido,2,280,560,Sul,Cartão de Crédito,Recorrente
+2024-02-12,PED01450,Xiaomi Band 8,Smartwatches,2,350,700,Norte,PIX,Recorrente
+2024-09-23,PED01451,Samsung Galaxy S23,Smartphones,1,4200,4200,Sul,PIX,Novo
+2024-01-01,PED01452,Samsung Galaxy Watch 6,Smartwatches,2,2800,5600,Sul,Boleto,Recorrente
+2024-08-04,PED01453,Xiaomi Band 8,Smartwatches,2,350,700,Oeste,Boleto,Recorrente
+2024-12-05,PED01454,Xiaomi Band 8,Smartwatches,1,350,350,Norte,Cartão de Crédito,Novo
+2024-07-05,PED01455,Amazon Fire HD,Tablets,1,850,850,Leste,PIX,Recorrente
+2024-09-07,PED01456,AirPods Pro,Fones de Ouvido,1,1800,1800,Centro,PIX,Recorrente
+2024-08-18,PED01457,MacBook Air M2,Laptops,1,8500,8500,Norte,Cartão de Crédito,Novo
+2024-02-12,PED01458,Sony WH-1000XM5,Fones de Ouvido,2,1500,3000,Norte,Boleto,Recorrente
+2024-02-28,PED01459,MacBook Air M2,Laptops,1,8500,8500,Centro,Boleto,Recorrente
+2024-08-12,PED01460,Samsung Galaxy Watch 6,Smartwatches,1,2800,2800,Norte,Cartão de Débito,Recorrente
+2024-06-01,PED01461,Lenovo Tab P11,Tablets,2,1800,3600,Leste,PIX,Novo
+2024-09-16,PED01462,Samsung Galaxy Watch 6,Smartwatches,1,2800,2800,Leste,Cartão de Débito,Recorrente
+2024-05-10,PED01463,Motorola Edge 40,Smartphones,1,2200,2200,Leste,Cartão de Débito,Novo
+2024-01-05,PED01464,Apple Watch Series 9,Smartwatches,1,4500,4500,Sul,Boleto,Recorrente
+2024-01-17,PED01465,Apple Watch Series 9,Smartwatches,1,4500,4500,Sul,Boleto,Recorrente
+2024-10-19,PED01466,JBL Tune 510,Fones de Ouvido,3,280,840,Leste,Cartão de Crédito,Recorrente
+2024-03-28,PED01467,Samsung Tab S9,Tablets,1,3500,3500,Leste,Boleto,Novo
+2024-07-06,PED01468,MacBook Air M2,Laptops,1,8500,8500,Centro,Cartão de Crédito,Recorrente
+2024-10-08,PED01469,iPhone 14,Smartphones,1,3500,3500,Sul,Boleto,Novo
+2024-03-04,PED01470,Lenovo Tab P11,Tablets,1,1800,1800,Sul,Cartão de Débito,Recorrente
+2024-04-12,PED01471,AirPods Pro,Fones de Ouvido,2,1800,3600,Sul,Boleto,Novo
+2024-02-07,PED01472,Asus ROG,Laptops,1,9500,9500,Leste,Cartão de Crédito,Novo
+2024-11-22,PED01473,Samsung Tab S9,Tablets,1,3500,3500,Norte,Cartão de Crédito,Novo
+2024-01-28,PED01474,iPhone 14,Smartphones,1,3500,3500,Norte,PIX,Recorrente
+2024-05-11,PED01475,Samsung Galaxy S23,Smartphones,2,4200,8400,Leste,Boleto,Novo
+2024-08-06,PED01476,JBL Tune 510,Fones de Ouvido,3,280,840,Norte,PIX,Recorrente
+2024-06-03,PED01477,Samsung Tab S9,Tablets,1,3500,3500,Oeste,PIX,Recorrente
+2024-01-16,PED01478,Samsung Galaxy Watch 6,Smartwatches,1,2800,2800,Oeste,PIX,Novo
+2024-09-02,PED01479,Samsung Tab S9,Tablets,1,3500,3500,Leste,Cartão de Débito,Recorrente
+2024-12-19,PED01480,AirPods Pro,Fones de Ouvido,3,1800,5400,Oeste,Cartão de Débito,Recorrente
+2024-03-20,PED01481,iPad Air,Tablets,1,4200,4200,Sul,Cartão de Crédito,Recorrente
+2024-03-24,PED01482,Lenovo ThinkPad,Laptops,1,5800,5800,Sul,Cartão de Débito,Novo
+2024-11-20,PED01483,Amazon Fire HD,Tablets,2,850,1700,Centro,Boleto,Recorrente
+2024-09-12,PED01484,Lenovo ThinkPad,Laptops,2,5800,11600,Oeste,Boleto,Novo
+2024-11-03,PED01485,JBL Tune 510,Fones de Ouvido,3,280,840,Norte,Cartão de Débito,Recorrente
+2024-07-16,PED01486,MacBook Air M2,Laptops,1,8500,8500,Oeste,PIX,Novo
+2024-11-14,PED01487,iPhone 14,Smartphones,2,3500,7000,Sul,PIX,Recorrente
+2024-02-27,PED01488,Samsung Galaxy Watch 6,Smartwatches,1,2800,2800,Centro,Cartão de Crédito,Recorrente
+2024-01-25,PED01489,Samsung Tab S9,Tablets,2,3500,7000,Oeste,Cartão de Débito,Recorrente
+2024-06-10,PED01490,JBL Tune 510,Fones de Ouvido,3,280,840,Oeste,PIX,Recorrente
+2024-01-06,PED01491,Samsung Galaxy S23,Smartphones,1,4200,4200,Centro,PIX,Novo
+2024-04-20,PED01492,Sony WH-1000XM5,Fones de Ouvido,1,1500,1500,Norte,Cartão de Débito,Novo
+2024-12-06,PED01493,Lenovo ThinkPad,Laptops,1,5800,5800,Sul,Cartão de Crédito,Recorrente
+2024-08-11,PED01494,Dell XPS 15,Laptops,1,7200,7200,Centro,Boleto,Novo
+2024-12-18,PED01495,Samsung Galaxy Watch 6,Smartwatches,1,2800,2800,Oeste,PIX,Novo
+2024-07-10,PED01496,Amazon Fire HD,Tablets,2,850,1700,Oeste,Cartão de Débito,Novo
+2024-01-27,PED01497,AirPods Pro,Fones de Ouvido,3,1800,5400,Leste,Cartão de Débito,Novo
+2024-12-14,PED01498,Samsung Galaxy Watch 6,Smartwatches,1,2800,2800,Centro,Cartão de Crédito,Novo
+2024-01-20,PED01499,Xiaomi Band 8,Smartwatches,1,350,350,Leste,Boleto,Novo
+2024-11-07,PED01500,MacBook Air M2,Laptops,1,8500,8500,Leste,Cartão de Crédito,Recorrente
