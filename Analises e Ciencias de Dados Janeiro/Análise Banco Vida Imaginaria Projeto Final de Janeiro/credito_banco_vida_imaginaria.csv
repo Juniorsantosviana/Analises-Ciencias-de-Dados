@@ -1,0 +1,2001 @@
+ClienteID,Idade,Genero,EstadoCivil,Dependentes,Escolaridade,RendaMensal,TipoEmprego,TempoEmprego,TipoCredito,ValorCredito,Prazo,HistoricoCredito,Inadimplente,Score
+CLI000001,22,Masculino,Solteiro,0,Médio,3131,Servidor Público,1,Veículo,65086,43,Regular,Sim,596
+CLI000002,75,Feminino,Divorciado,3,Médio,1958,Aposentado,0,Veículo,66365,33,Ruim,Sim,300
+CLI000003,40,Masculino,Solteiro,0,Pós-graduação,6651,Servidor Público,16,Veículo,42136,28,Ruim,Sim,451
+CLI000004,20,Masculino,Solteiro,2,Médio,3404,Autônomo,1,Consignado,6567,21,Regular,Não,653
+CLI000005,30,Masculino,Solteiro,2,Pós-graduação,7964,Servidor Público,10,Veículo,29831,47,Bom,Não,850
+CLI000006,67,Masculino,Casado,0,Superior,3111,Aposentado,0,Pessoal,8212,37,Bom,Não,825
+CLI000007,59,Feminino,Casado,0,Fundamental,2117,Servidor Público,30,Pessoal,3754,32,Regular,Não,753
+CLI000008,23,Feminino,Solteiro,0,Médio,2545,Servidor Público,1,Cartão,3913,11,Regular,Não,733
+CLI000009,57,Feminino,Solteiro,3,Médio,3552,Autônomo,9,Consignado,2376,45,Bom,Não,759
+CLI000010,39,Feminino,Solteiro,1,Pós-graduação,8972,Servidor Público,20,Veículo,39748,43,Ruim,Não,600
+CLI000011,30,Feminino,Casado,2,Superior,5004,Servidor Público,0,Pessoal,7028,34,Bom,Não,850
+CLI000012,48,Feminino,Viúvo,1,Pós-graduação,7347,CLT,2,Consignado,12918,39,Regular,Não,822
+CLI000013,69,Masculino,Casado,0,Pós-graduação,5860,Aposentado,0,Cartão,1580,9,Ruim,Não,512
+CLI000014,52,Feminino,Divorciado,0,Pós-graduação,8292,Servidor Público,7,Cartão,5211,8,Bom,Não,850
+CLI000015,19,Masculino,Casado,1,Médio,2094,CLT,0,Pessoal,3708,34,Ruim,Sim,330
+CLI000016,62,Masculino,Divorciado,0,Médio,1577,Autônomo,17,Consignado,3335,14,Regular,Não,627
+CLI000017,29,Masculino,Casado,1,Médio,2118,Autônomo,0,Pessoal,5218,21,Bom,Sim,612
+CLI000018,42,Feminino,Casado,3,Pós-graduação,8587,Servidor Público,21,Consignado,18014,38,Regular,Não,850
+CLI000019,41,Feminino,Viúvo,0,Superior,5059,CLT,2,Pessoal,5107,29,Ruim,Não,554
+CLI000020,51,Feminino,Casado,2,Médio,3055,Servidor Público,26,Pessoal,3292,40,Regular,Não,741
+CLI000021,28,Masculino,Casado,3,Superior,5715,Servidor Público,2,Consignado,12019,47,Bom,Não,850
+CLI000022,31,Masculino,Casado,2,Médio,2052,Autônomo,11,Veículo,31808,28,Bom,Não,807
+CLI000023,53,Feminino,Divorciado,3,Fundamental,2397,Autônomo,13,Veículo,49440,46,Regular,Sim,530
+CLI000024,30,Masculino,Solteiro,0,Médio,2463,CLT,2,Cartão,5289,11,Bom,Não,849
+CLI000025,59,Feminino,Divorciado,2,Médio,2921,CLT,30,Cartão,886,12,Ruim,Não,472
+CLI000026,59,Feminino,Solteiro,0,Fundamental,2149,CLT,30,Veículo,48891,44,Bom,Sim,675
+CLI000027,71,Feminino,Solteiro,2,Médio,2407,Aposentado,0,Consignado,6395,37,Bom,Não,796
+CLI000028,61,Masculino,Casado,3,Superior,5841,Autônomo,14,Consignado,3502,34,Ruim,Não,468
+CLI000029,59,Feminino,Solteiro,0,Superior,6733,Servidor Público,30,Veículo,24067,28,Bom,Não,850
+CLI000030,20,Masculino,Casado,3,Médio,2176,Autônomo,0,Cartão,3966,8,Regular,Não,681
+CLI000031,33,Feminino,Casado,0,Médio,2683,CLT,13,Consignado,2158,33,Bom,Não,850
+CLI000032,69,Masculino,Divorciado,0,Superior,3570,Aposentado,0,Veículo,42063,38,Regular,Sim,585
+CLI000033,40,Masculino,Casado,1,Superior,5604,Servidor Público,13,Cartão,5044,6,Regular,Não,849
+CLI000034,64,Masculino,Solteiro,3,Fundamental,2909,Servidor Público,19,Veículo,35000,44,Bom,Não,850
+CLI000035,34,Feminino,Solteiro,0,Médio,2602,Servidor Público,15,Cartão,3345,9,Bom,Não,850
+CLI000036,73,Feminino,Viúvo,0,Médio,1722,Aposentado,0,Veículo,24540,47,Bom,Não,733
+CLI000037,29,Feminino,Solteiro,0,Superior,3986,CLT,3,Pessoal,4075,37,Regular,Não,730
+CLI000038,56,Masculino,Viúvo,3,Pós-graduação,8578,Servidor Público,4,Veículo,55452,24,Ruim,Sim,434
+CLI000039,31,Feminino,Casado,3,Médio,2091,CLT,11,Veículo,58628,28,Bom,Sim,713
+CLI000040,34,Masculino,Solteiro,1,Médio,2054,CLT,5,Consignado,5649,21,Bom,Não,847
+CLI000041,50,Feminino,Solteiro,3,Pós-graduação,6947,CLT,30,Veículo,39399,33,Bom,Sim,786
+CLI000042,35,Masculino,Casado,2,Superior,4116,CLT,2,Consignado,5570,41,Regular,Não,786
+CLI000043,55,Masculino,Solteiro,2,Superior,3945,CLT,16,Veículo,46387,25,Bom,Sim,685
+CLI000044,34,Masculino,Casado,1,Médio,2674,Servidor Público,14,Cartão,4369,10,Bom,Não,850
+CLI000045,19,Feminino,Solteiro,3,Médio,1869,CLT,0,Veículo,55484,40,Bom,Sim,628
+CLI000046,35,Masculino,Casado,2,Pós-graduação,8198,Servidor Público,1,Pessoal,15781,22,Bom,Não,850
+CLI000047,52,Feminino,Solteiro,2,Superior,4967,Servidor Público,28,Consignado,2723,34,Ruim,Não,531
+CLI000048,45,Feminino,Casado,3,Pós-graduação,9468,Servidor Público,15,Pessoal,22104,37,Ruim,Não,628
+CLI000049,25,Masculino,Solteiro,3,Superior,5433,Servidor Público,1,Cartão,2529,6,Regular,Não,825
+CLI000050,43,Masculino,Casado,2,Superior,4726,CLT,10,Consignado,5512,36,Bom,Não,850
+CLI000051,37,Feminino,Casado,3,Médio,2106,CLT,11,Pessoal,3161,29,Ruim,Não,495
+CLI000052,33,Masculino,Solteiro,3,Médio,1902,Autônomo,5,Veículo,65230,25,Bom,Não,761
+CLI000053,24,Feminino,Solteiro,3,Superior,3077,Autônomo,0,Pessoal,9733,17,Regular,Sim,522
+CLI000054,36,Feminino,Casado,1,Superior,4306,Autônomo,0,Veículo,30062,40,Regular,Sim,559
+CLI000055,70,Feminino,Viúvo,0,Superior,3746,Aposentado,0,Consignado,7971,14,Regular,Não,729
+CLI000056,26,Masculino,Solteiro,1,Médio,2941,Servidor Público,4,Pessoal,9296,37,Bom,Não,850
+CLI000057,50,Masculino,Casado,2,Superior,6680,Servidor Público,4,Veículo,37921,39,Bom,Não,850
+CLI000058,49,Feminino,Divorciado,0,Superior,5324,Autônomo,2,Pessoal,15663,12,Regular,Não,741
+CLI000059,30,Masculino,Solteiro,1,Pós-graduação,3193,Autônomo,7,Cartão,4512,12,Bom,Não,848
+CLI000060,48,Feminino,Viúvo,1,Médio,3920,Servidor Público,20,Consignado,6124,37,Bom,Não,850
+CLI000061,36,Feminino,Solteiro,2,Médio,3185,Servidor Público,15,Veículo,38401,46,Bom,Não,850
+CLI000062,23,Feminino,Solteiro,0,Superior,3205,CLT,3,Consignado,2281,42,Bom,Não,837
+CLI000063,65,Feminino,Solteiro,1,Pós-graduação,6518,CLT,14,Pessoal,16841,13,Bom,Não,850
+CLI000064,31,Feminino,Solteiro,0,Pós-graduação,6527,Autônomo,9,Consignado,12304,43,Ruim,Sim,389
+CLI000065,74,Feminino,Viúvo,3,Superior,3480,Aposentado,0,Veículo,25131,29,Regular,Sim,564
+CLI000066,23,Masculino,Solteiro,1,Superior,3425,CLT,3,Cartão,5448,7,Bom,Não,850
+CLI000067,20,Feminino,Casado,0,Médio,2846,Servidor Público,1,Veículo,60703,32,Bom,Sim,710
+CLI000068,70,Feminino,Viúvo,0,Pós-graduação,4782,Aposentado,0,Pessoal,7719,20,Bom,Não,838
+CLI000069,65,Feminino,Viúvo,3,Médio,2575,Autônomo,20,Veículo,39959,27,Bom,Sim,601
+CLI000070,39,Feminino,Solteiro,2,Médio,1647,Autônomo,19,Pessoal,3596,18,Bom,Não,731
+CLI000071,21,Feminino,Solteiro,1,Médio,2357,CLT,2,Veículo,23932,35,Bom,Sim,671
+CLI000072,23,Feminino,Casado,1,Médio,1924,CLT,0,Veículo,34126,48,Ruim,Sim,300
+CLI000073,55,Masculino,Solteiro,1,Pós-graduação,7664,CLT,18,Consignado,13913,15,Ruim,Não,552
+CLI000074,18,Feminino,Casado,2,Superior,4510,Servidor Público,0,Veículo,44390,39,Regular,Não,771
+CLI000075,52,Masculino,Divorciado,2,Superior,5269,Autônomo,28,Veículo,36703,27,Regular,Sim,588
+CLI000076,72,Masculino,Divorciado,1,Pós-graduação,5254,Aposentado,0,Cartão,3925,6,Regular,Não,784
+CLI000077,45,Feminino,Casado,0,Médio,3492,Autônomo,12,Veículo,30910,28,Bom,Não,802
+CLI000078,29,Masculino,Casado,3,Superior,3789,CLT,5,Veículo,28514,29,Regular,Sim,593
+CLI000079,21,Feminino,Solteiro,3,Superior,4489,Autônomo,1,Cartão,5000,6,Bom,Sim,630
+CLI000080,39,Masculino,Solteiro,2,Superior,5360,Autônomo,8,Pessoal,5146,28,Bom,Não,850
+CLI000081,73,Masculino,Divorciado,3,Médio,2392,Aposentado,0,Cartão,1056,9,Bom,Não,783
+CLI000082,50,Masculino,Viúvo,0,Pós-graduação,9446,Servidor Público,22,Cartão,4613,12,Bom,Não,850
+CLI000083,28,Feminino,Solteiro,3,Médio,3352,Servidor Público,8,Pessoal,7893,27,Ruim,Não,482
+CLI000084,42,Masculino,Divorciado,1,Médio,3236,CLT,5,Consignado,6815,37,Regular,Não,778
+CLI000085,32,Masculino,Solteiro,2,Pós-graduação,4926,Autônomo,5,Consignado,11848,44,Ruim,Não,494
+CLI000086,64,Masculino,Divorciado,0,Pós-graduação,9056,Autônomo,13,Consignado,16981,37,Regular,Sim,597
+CLI000087,74,Feminino,Solteiro,1,Superior,3108,Aposentado,0,Pessoal,6282,19,Regular,Sim,574
+CLI000088,24,Masculino,Casado,2,Superior,4912,Servidor Público,5,Veículo,26641,31,Bom,Não,850
+CLI000089,54,Masculino,Divorciado,3,Médio,3227,Autônomo,7,Pessoal,9992,35,Bom,Sim,606
+CLI000090,50,Masculino,Casado,2,Superior,4903,CLT,8,Consignado,8267,30,Regular,Não,798
+CLI000091,46,Feminino,Solteiro,0,Superior,5180,CLT,27,Veículo,61843,28,Ruim,Sim,430
+CLI000092,24,Feminino,Casado,3,Médio,2395,Servidor Público,2,Cartão,5139,6,Bom,Não,847
+CLI000093,39,Feminino,Casado,3,Pós-graduação,6538,Autônomo,16,Consignado,6151,29,Bom,Não,850
+CLI000094,30,Masculino,Casado,2,Pós-graduação,3528,Autônomo,9,Cartão,5151,8,Bom,Não,833
+CLI000095,25,Masculino,Casado,1,Superior,3287,CLT,2,Pessoal,8101,38,Regular,Não,767
+CLI000096,44,Masculino,Divorciado,1,Médio,3085,Autônomo,10,Cartão,5063,7,Bom,Não,798
+CLI000097,44,Feminino,Solteiro,0,Pós-graduação,6983,CLT,15,Pessoal,6558,37,Bom,Não,850
+CLI000098,52,Masculino,Viúvo,2,Pós-graduação,8614,Autônomo,14,Pessoal,9533,12,Bom,Não,835
+CLI000099,22,Feminino,Solteiro,3,Médio,1892,Autônomo,0,Veículo,22966,43,Bom,Sim,557
+CLI000100,58,Feminino,Casado,1,Pós-graduação,6531,Autônomo,6,Cartão,5034,9,Regular,Sim,607
+CLI000101,47,Feminino,Viúvo,1,Médio,2506,CLT,17,Veículo,69549,45,Regular,Sim,602
+CLI000102,33,Masculino,Solteiro,0,Superior,3714,Autônomo,10,Veículo,31809,47,Bom,Sim,658
+CLI000103,55,Masculino,Casado,1,Fundamental,1343,Autônomo,30,Pessoal,1543,20,Bom,Não,728
+CLI000104,62,Masculino,Casado,3,Superior,5750,Servidor Público,30,Veículo,48529,32,Bom,Não,850
+CLI000105,18,Feminino,Casado,1,Médio,3372,Servidor Público,0,Veículo,34793,33,Ruim,Sim,355
+CLI000106,61,Masculino,Casado,1,Pós-graduação,7445,Autônomo,10,Consignado,12100,14,Regular,Não,753
+CLI000107,44,Masculino,Divorciado,1,Médio,2885,CLT,14,Veículo,43977,43,Bom,Não,847
+CLI000108,23,Feminino,Solteiro,3,Superior,3100,CLT,2,Pessoal,4255,29,Ruim,Sim,342
+CLI000109,19,Feminino,Casado,0,Superior,4308,CLT,0,Pessoal,6277,40,Ruim,Sim,344
+CLI000110,24,Feminino,Solteiro,2,Médio,2889,Servidor Público,1,Veículo,31908,30,Regular,Sim,585
+CLI000111,63,Masculino,Casado,2,Médio,2696,CLT,8,Cartão,4106,12,Regular,Não,747
+CLI000112,31,Masculino,Casado,1,Pós-graduação,5046,Autônomo,4,Veículo,25172,42,Bom,Sim,744
+CLI000113,34,Masculino,Casado,0,Superior,4414,CLT,3,Consignado,8996,30,Bom,Não,850
+CLI000114,24,Feminino,Casado,0,Médio,3326,Autônomo,5,Pessoal,1290,35,Regular,Sim,532
+CLI000115,18,Feminino,Solteiro,0,Superior,4186,CLT,0,Consignado,9057,37,Bom,Sim,698
+CLI000116,74,Masculino,Casado,0,Pós-graduação,5190,Aposentado,0,Cartão,3505,7,Regular,Não,795
+CLI000117,26,Feminino,Solteiro,2,Médio,3461,Servidor Público,0,Pessoal,1958,36,Bom,Não,845
+CLI000118,69,Feminino,Divorciado,3,Médio,2266,Aposentado,0,Pessoal,2708,14,Bom,Não,808
+CLI000119,62,Feminino,Casado,1,Médio,3264,Servidor Público,1,Pessoal,1416,39,Ruim,Não,493
+CLI000120,23,Masculino,Solteiro,0,Médio,3034,Servidor Público,2,Veículo,45501,30,Ruim,Sim,338
+CLI000121,50,Masculino,Casado,0,Superior,4857,Servidor Público,17,Veículo,51703,28,Regular,Sim,656
+CLI000122,68,Feminino,Viúvo,0,Médio,2047,Aposentado,0,Veículo,35668,25,Regular,Sim,563
+CLI000123,21,Masculino,Solteiro,1,Médio,2454,Servidor Público,1,Cartão,1143,6,Regular,Não,750
+CLI000124,32,Masculino,Casado,2,Pós-graduação,7453,Autônomo,9,Pessoal,7454,26,Ruim,Não,544
+CLI000125,56,Feminino,Solteiro,3,Pós-graduação,9036,Autônomo,16,Cartão,3210,8,Bom,Não,843
+CLI000126,45,Feminino,Divorciado,2,Pós-graduação,5774,Autônomo,19,Veículo,34456,42,Bom,Não,850
+CLI000127,28,Feminino,Solteiro,1,Médio,2422,CLT,3,Pessoal,6397,29,Ruim,Sim,327
+CLI000128,30,Feminino,Casado,1,Pós-graduação,6681,CLT,9,Pessoal,11126,37,Bom,Não,850
+CLI000129,56,Masculino,Solteiro,2,Fundamental,2642,Servidor Público,22,Cartão,649,7,Regular,Não,747
+CLI000130,67,Masculino,Divorciado,3,Fundamental,1589,Aposentado,0,Pessoal,4198,42,Bom,Não,740
+CLI000131,63,Feminino,Casado,1,Superior,6173,Servidor Público,30,Cartão,5182,10,Bom,Não,850
+CLI000132,34,Feminino,Casado,1,Superior,5675,Autônomo,5,Consignado,4117,12,Regular,Sim,630
+CLI000133,29,Feminino,Solteiro,3,Médio,2666,Autônomo,5,Pessoal,8893,30,Bom,Não,751
+CLI000134,64,Masculino,Solteiro,0,Fundamental,1785,Autônomo,10,Pessoal,5036,29,Ruim,Não,378
+CLI000135,53,Feminino,Solteiro,0,Pós-graduação,8495,Autônomo,26,Consignado,8241,28,Ruim,Sim,341
+CLI000136,22,Feminino,Casado,3,Superior,3052,CLT,2,Consignado,5238,47,Bom,Não,850
+CLI000137,71,Feminino,Viúvo,3,Superior,3401,Aposentado,0,Pessoal,5253,37,Bom,Não,823
+CLI000138,43,Masculino,Viúvo,2,Pós-graduação,3678,Autônomo,15,Consignado,8353,25,Bom,Não,847
+CLI000139,48,Feminino,Divorciado,1,Médio,3951,Servidor Público,16,Cartão,928,9,Bom,Não,850
+CLI000140,61,Masculino,Casado,2,Pós-graduação,7036,Autônomo,30,Consignado,12275,32,Regular,Sim,618
+CLI000141,32,Feminino,Solteiro,3,Pós-graduação,5318,CLT,9,Cartão,1845,6,Bom,Não,850
+CLI000142,42,Feminino,Solteiro,3,Médio,2416,CLT,12,Consignado,3609,35,Ruim,Não,519
+CLI000143,57,Feminino,Casado,0,Superior,3453,Autônomo,2,Pessoal,3793,16,Bom,Não,810
+CLI000144,43,Masculino,Solteiro,3,Médio,3213,CLT,8,Consignado,7445,12,Bom,Não,850
+CLI000145,55,Masculino,Viúvo,1,Médio,1626,Autônomo,19,Veículo,49619,34,Regular,Sim,466
+CLI000146,46,Masculino,Casado,1,Pós-graduação,5609,Autônomo,19,Veículo,29290,43,Bom,Sim,748
+CLI000147,45,Masculino,Divorciado,3,Superior,3761,CLT,0,Cartão,3418,6,Regular,Não,781
+CLI000148,71,Masculino,Solteiro,3,Fundamental,1250,Aposentado,0,Consignado,3675,30,Bom,Não,744
+CLI000149,44,Feminino,Divorciado,2,Pós-graduação,8560,CLT,12,Consignado,18769,14,Regular,Não,823
+CLI000150,71,Feminino,Divorciado,2,Fundamental,1325,Aposentado,0,Cartão,4797,6,Bom,Não,747
+CLI000151,73,Feminino,Casado,3,Fundamental,1586,Aposentado,0,Cartão,4537,10,Bom,Sim,588
+CLI000152,60,Feminino,Solteiro,3,Fundamental,2573,Servidor Público,27,Pessoal,7853,33,Bom,Sim,716
+CLI000153,49,Feminino,Casado,2,Pós-graduação,7631,Servidor Público,30,Cartão,3079,11,Regular,Não,850
+CLI000154,43,Feminino,Casado,2,Pós-graduação,8112,Autônomo,24,Cartão,1860,11,Regular,Não,760
+CLI000155,47,Masculino,Viúvo,2,Médio,3687,Autônomo,3,Cartão,5118,6,Bom,Não,816
+CLI000156,44,Feminino,Viúvo,1,Superior,4517,CLT,21,Consignado,8429,35,Bom,Não,850
+CLI000157,65,Masculino,Solteiro,3,Médio,3129,Autônomo,30,Veículo,36003,31,Ruim,Sim,300
+CLI000158,31,Feminino,Solteiro,1,Pós-graduação,6878,Servidor Público,2,Veículo,68983,29,Bom,Não,850
+CLI000159,34,Feminino,Casado,2,Médio,2631,Servidor Público,7,Pessoal,1688,41,Ruim,Não,525
+CLI000160,65,Masculino,Casado,1,Médio,3353,CLT,30,Pessoal,2952,15,Regular,Não,728
+CLI000161,48,Feminino,Viúvo,0,Médio,1971,Autônomo,14,Pessoal,1664,25,Regular,Não,662
+CLI000162,67,Feminino,Divorciado,3,Pós-graduação,5212,Aposentado,0,Cartão,1348,6,Ruim,Não,520
+CLI000163,18,Feminino,Solteiro,1,Superior,3987,CLT,0,Consignado,3341,15,Regular,Sim,587
+CLI000164,22,Masculino,Solteiro,3,Superior,3961,Autônomo,3,Veículo,44951,44,Regular,Sim,537
+CLI000165,59,Masculino,Divorciado,1,Médio,3151,Servidor Público,15,Pessoal,3101,22,Ruim,Sim,346
+CLI000166,48,Feminino,Viúvo,1,Pós-graduação,7362,Autônomo,11,Cartão,2285,6,Ruim,Não,538
+CLI000167,74,Masculino,Viúvo,3,Superior,3778,Aposentado,0,Consignado,6264,34,Bom,Não,814
+CLI000168,28,Feminino,Solteiro,1,Superior,2507,Autônomo,8,Consignado,3933,15,Bom,Não,806
+CLI000169,35,Feminino,Casado,0,Médio,2343,CLT,10,Cartão,5248,9,Bom,Não,850
+CLI000170,42,Masculino,Divorciado,0,Médio,3074,CLT,9,Cartão,987,7,Bom,Não,841
+CLI000171,23,Feminino,Solteiro,2,Médio,2555,Autônomo,0,Pessoal,7244,30,Regular,Não,675
+CLI000172,54,Masculino,Casado,3,Superior,4701,Autônomo,18,Pessoal,5367,25,Bom,Não,806
+CLI000173,71,Masculino,Casado,2,Fundamental,1467,Aposentado,0,Pessoal,4481,39,Regular,Não,658
+CLI000174,60,Feminino,Divorciado,2,Superior,4052,CLT,15,Consignado,10003,13,Regular,Não,738
+CLI000175,59,Masculino,Casado,1,Pós-graduação,12045,Servidor Público,29,Veículo,20672,45,Ruim,Não,637
+CLI000176,62,Masculino,Divorciado,3,Superior,4205,CLT,30,Veículo,23015,33,Bom,Não,850
+CLI000177,28,Feminino,Solteiro,1,Superior,3449,Autônomo,5,Pessoal,5136,18,Regular,Não,691
+CLI000178,43,Feminino,Casado,2,Pós-graduação,5036,Autônomo,15,Pessoal,6053,35,Regular,Não,776
+CLI000179,31,Masculino,Casado,2,Médio,3081,Autônomo,0,Veículo,67123,32,Bom,Não,816
+CLI000180,35,Feminino,Casado,2,Médio,2937,Servidor Público,10,Pessoal,8498,17,Bom,Não,850
+CLI000181,59,Masculino,Divorciado,1,Superior,6325,Servidor Público,8,Veículo,61544,34,Ruim,Sim,403
+CLI000182,72,Feminino,Divorciado,0,Pós-graduação,5389,Aposentado,0,Cartão,1695,8,Bom,Não,850
+CLI000183,31,Masculino,Casado,2,Médio,2459,Servidor Público,2,Pessoal,7872,34,Ruim,Não,523
+CLI000184,24,Feminino,Solteiro,1,Médio,3468,Servidor Público,5,Veículo,46722,47,Regular,Não,737
+CLI000185,39,Masculino,Casado,1,Superior,4178,Autônomo,2,Cartão,4416,7,Bom,Não,809
+CLI000186,18,Feminino,Casado,1,Superior,3350,Autônomo,0,Consignado,5777,45,Bom,Sim,627
+CLI000187,71,Masculino,Viúvo,3,Médio,1813,Aposentado,0,Cartão,1317,10,Ruim,Não,414
+CLI000188,71,Feminino,Solteiro,3,Médio,1798,Aposentado,0,Veículo,69428,47,Regular,Não,633
+CLI000189,29,Masculino,Solteiro,2,Médio,1878,CLT,10,Cartão,1367,8,Bom,Não,782
+CLI000190,49,Feminino,Viúvo,1,Médio,3693,Servidor Público,19,Consignado,5373,48,Bom,Não,850
+CLI000191,69,Masculino,Solteiro,1,Pós-graduação,5918,Aposentado,0,Pessoal,14647,18,Ruim,Sim,385
+CLI000192,22,Feminino,Casado,3,Médio,3453,Servidor Público,0,Pessoal,2113,19,Regular,Não,734
+CLI000193,69,Masculino,Solteiro,0,Pós-graduação,6359,Aposentado,0,Veículo,50456,47,Regular,Sim,639
+CLI000194,24,Masculino,Casado,2,Médio,2277,CLT,5,Cartão,807,6,Bom,Não,848
+CLI000195,67,Feminino,Viúvo,1,Médio,2109,Aposentado,0,Veículo,50370,41,Bom,Sim,655
+CLI000196,35,Masculino,Casado,0,Médio,2346,Servidor Público,6,Pessoal,7762,29,Bom,Não,850
+CLI000197,28,Masculino,Casado,0,Médio,1995,CLT,7,Pessoal,3748,13,Regular,Não,679
+CLI000198,18,Masculino,Solteiro,3,Superior,5381,Servidor Público,0,Pessoal,5101,23,Bom,Não,850
+CLI000199,38,Feminino,Solteiro,0,Superior,5444,Servidor Público,10,Cartão,2150,9,Bom,Não,850
+CLI000200,72,Masculino,Solteiro,2,Médio,2156,Aposentado,0,Cartão,4384,12,Bom,Não,788
+CLI000201,51,Feminino,Viúvo,2,Fundamental,2145,CLT,6,Veículo,22186,42,Ruim,Sim,349
+CLI000202,42,Masculino,Divorciado,2,Superior,3029,Autônomo,14,Pessoal,2398,15,Regular,Não,711
+CLI000203,67,Masculino,Casado,3,Pós-graduação,5688,Aposentado,0,Consignado,12889,45,Ruim,Não,536
+CLI000204,73,Feminino,Solteiro,3,Médio,2292,Aposentado,0,Pessoal,1545,29,Regular,Não,705
+CLI000205,41,Feminino,Casado,0,Médio,3490,Autônomo,3,Consignado,7065,48,Ruim,Não,443
+CLI000206,37,Masculino,Solteiro,1,Médio,2378,Servidor Público,6,Veículo,64399,24,Regular,Não,768
+CLI000207,58,Masculino,Casado,3,Superior,6416,Autônomo,30,Cartão,4572,12,Ruim,Não,471
+CLI000208,75,Masculino,Viúvo,2,Médio,2361,Aposentado,0,Pessoal,1160,13,Regular,Sim,532
+CLI000209,73,Feminino,Viúvo,3,Superior,3059,Aposentado,0,Veículo,21607,46,Regular,Sim,574
+CLI000210,49,Feminino,Solteiro,0,Pós-graduação,10329,Servidor Público,11,Veículo,24523,48,Ruim,Não,652
+CLI000211,28,Feminino,Casado,0,Superior,2992,Autônomo,3,Veículo,52048,29,Bom,Sim,624
+CLI000212,26,Masculino,Solteiro,3,Médio,2189,Autônomo,4,Cartão,818,6,Bom,Não,762
+CLI000213,67,Masculino,Solteiro,0,Médio,2420,Aposentado,0,Cartão,1613,7,Regular,Sim,549
+CLI000214,35,Feminino,Solteiro,2,Médio,1843,Autônomo,12,Consignado,4513,29,Bom,Não,760
+CLI000215,72,Masculino,Divorciado,3,Superior,4109,Aposentado,0,Cartão,2318,9,Bom,Não,834
+CLI000216,67,Feminino,Divorciado,0,Pós-graduação,5383,Aposentado,0,Cartão,2535,9,Ruim,Não,535
+CLI000217,38,Feminino,Casado,0,Pós-graduação,9048,Servidor Público,15,Pessoal,12941,29,Regular,Não,850
+CLI000218,46,Feminino,Viúvo,0,Médio,3135,CLT,23,Consignado,2035,26,Bom,Não,850
+CLI000219,40,Masculino,Solteiro,1,Superior,4494,Servidor Público,20,Pessoal,1448,37,Regular,Não,801
+CLI000220,25,Masculino,Solteiro,1,Médio,1716,Autônomo,0,Veículo,62322,36,Regular,Sim,483
+CLI000221,33,Masculino,Solteiro,2,Superior,2559,Autônomo,6,Pessoal,2701,41,Ruim,Não,469
+CLI000222,73,Feminino,Solteiro,0,Superior,3707,Aposentado,0,Cartão,4820,8,Ruim,Sim,305
+CLI000223,22,Masculino,Solteiro,1,Médio,2820,Servidor Público,0,Veículo,34298,47,Bom,Sim,683
+CLI000224,57,Feminino,Divorciado,0,Superior,6264,Autônomo,11,Consignado,10281,31,Bom,Sim,685
+CLI000225,50,Masculino,Casado,2,Pós-graduação,8384,CLT,11,Consignado,14155,12,Ruim,Não,581
+CLI000226,50,Masculino,Divorciado,1,Médio,1505,Autônomo,29,Pessoal,3553,19,Regular,Sim,487
+CLI000227,44,Feminino,Divorciado,0,Superior,6652,Autônomo,21,Consignado,11676,38,Bom,Não,842
+CLI000228,63,Masculino,Casado,0,Superior,4574,CLT,30,Veículo,28329,39,Regular,Sim,599
+CLI000229,31,Masculino,Casado,2,Médio,2245,Autônomo,8,Cartão,1635,10,Regular,Não,693
+CLI000230,33,Masculino,Casado,0,Superior,2426,Autônomo,9,Cartão,617,8,Bom,Não,839
+CLI000231,71,Masculino,Viúvo,2,Fundamental,1180,Aposentado,0,Veículo,59861,47,Bom,Não,734
+CLI000232,69,Masculino,Viúvo,1,Pós-graduação,6357,Aposentado,0,Cartão,1126,6,Ruim,Sim,375
+CLI000233,28,Masculino,Casado,0,Médio,2483,Servidor Público,0,Pessoal,6225,32,Bom,Não,837
+CLI000234,37,Masculino,Solteiro,0,Pós-graduação,7263,Autônomo,7,Pessoal,12546,37,Bom,Não,850
+CLI000235,45,Masculino,Casado,1,Pós-graduação,10325,Autônomo,21,Veículo,60485,31,Regular,Sim,656
+CLI000236,63,Masculino,Casado,1,Pós-graduação,8668,Autônomo,3,Pessoal,16748,17,Regular,Sim,597
+CLI000237,43,Feminino,Divorciado,2,Superior,6644,Servidor Público,21,Consignado,14241,14,Bom,Não,850
+CLI000238,68,Masculino,Casado,1,Médio,2357,Aposentado,0,Cartão,2897,11,Ruim,Sim,310
+CLI000239,75,Masculino,Viúvo,1,Fundamental,1176,Aposentado,0,Pessoal,2692,42,Regular,Não,636
+CLI000240,29,Masculino,Solteiro,2,Médio,2487,CLT,0,Cartão,3979,7,Bom,Não,833
+CLI000241,34,Feminino,Solteiro,2,Médio,3261,Autônomo,7,Cartão,1828,8,Bom,Não,783
+CLI000242,37,Masculino,Casado,0,Pós-graduação,9040,Autônomo,13,Cartão,5479,12,Bom,Não,850
+CLI000243,49,Masculino,Viúvo,3,Pós-graduação,7010,CLT,17,Pessoal,3635,25,Regular,Não,826
+CLI000244,48,Feminino,Casado,3,Médio,3377,Servidor Público,14,Cartão,880,7,Bom,Não,850
+CLI000245,28,Feminino,Solteiro,2,Médio,2571,CLT,3,Veículo,38091,41,Ruim,Sim,343
+CLI000246,21,Feminino,Casado,0,Médio,3113,Servidor Público,0,Cartão,1942,7,Ruim,Sim,347
+CLI000247,75,Feminino,Casado,2,Médio,1733,Aposentado,0,Veículo,40087,36,Regular,Sim,514
+CLI000248,72,Masculino,Casado,3,Superior,3856,Aposentado,0,Consignado,6259,18,Regular,Não,703
+CLI000249,41,Masculino,Solteiro,3,Pós-graduação,5842,CLT,12,Veículo,34177,46,Bom,Não,850
+CLI000250,61,Masculino,Solteiro,1,Fundamental,2196,Servidor Público,0,Veículo,21911,38,Bom,Não,833
+CLI000251,64,Feminino,Casado,1,Superior,6769,Servidor Público,30,Pessoal,13183,40,Bom,Não,850
+CLI000252,34,Feminino,Casado,1,Médio,2269,CLT,1,Veículo,30976,36,Regular,Não,741
+CLI000253,61,Feminino,Divorciado,1,Superior,6982,Servidor Público,20,Pessoal,8646,13,Bom,Não,850
+CLI000254,73,Masculino,Viúvo,0,Médio,1713,Aposentado,0,Pessoal,5276,15,Bom,Não,759
+CLI000255,28,Masculino,Solteiro,2,Médio,2225,Autônomo,9,Veículo,29525,45,Bom,Sim,623
+CLI000256,21,Masculino,Solteiro,1,Médio,2474,CLT,2,Pessoal,3163,19,Regular,Não,719
+CLI000257,35,Masculino,Solteiro,2,Médio,2857,Servidor Público,10,Pessoal,7446,18,Bom,Não,850
+CLI000258,37,Feminino,Casado,3,Pós-graduação,6874,Servidor Público,5,Pessoal,7426,23,Regular,Não,844
+CLI000259,65,Masculino,Viúvo,3,Superior,4868,CLT,18,Consignado,10934,31,Bom,Não,832
+CLI000260,21,Feminino,Casado,2,Médio,2692,Autônomo,0,Pessoal,3164,41,Regular,Sim,513
+CLI000261,28,Feminino,Casado,2,Superior,3876,Autônomo,0,Veículo,60163,43,Bom,Sim,626
+CLI000262,35,Feminino,Casado,1,Superior,4274,Servidor Público,10,Pessoal,5587,24,Bom,Não,850
+CLI000263,20,Masculino,Solteiro,0,Superior,3547,CLT,0,Consignado,4359,33,Regular,Não,744
+CLI000264,62,Feminino,Viúvo,3,Médio,4351,Servidor Público,20,Consignado,8492,20,Bom,Não,850
+CLI000265,19,Masculino,Solteiro,2,Superior,4588,Autônomo,0,Pessoal,10428,37,Bom,Não,802
+CLI000266,71,Masculino,Casado,2,Superior,2859,Aposentado,0,Veículo,69246,27,Ruim,Sim,302
+CLI000267,61,Feminino,Viúvo,3,Fundamental,1133,Autônomo,13,Consignado,2152,45,Bom,Não,710
+CLI000268,74,Feminino,Solteiro,0,Pós-graduação,5190,Aposentado,0,Pessoal,2194,37,Regular,Não,784
+CLI000269,41,Feminino,Divorciado,3,Superior,4829,CLT,16,Consignado,5006,34,Bom,Não,850
+CLI000270,26,Feminino,Solteiro,0,Superior,4701,Autônomo,7,Consignado,9188,25,Bom,Sim,632
+CLI000271,44,Feminino,Viúvo,1,Pós-graduação,6071,Autônomo,4,Pessoal,12736,13,Ruim,Não,537
+CLI000272,64,Masculino,Viúvo,3,Superior,7563,Servidor Público,8,Veículo,45015,24,Bom,Não,850
+CLI000273,35,Feminino,Casado,1,Médio,2949,Servidor Público,3,Pessoal,4830,24,Bom,Não,850
+CLI000274,42,Masculino,Viúvo,2,Médio,3429,Servidor Público,10,Veículo,62557,24,Ruim,Não,525
+CLI000275,29,Feminino,Casado,0,Superior,4602,Servidor Público,7,Veículo,58506,39,Bom,Não,850
+CLI000276,39,Feminino,Casado,0,Médio,3040,Servidor Público,3,Cartão,5287,7,Ruim,Não,531
+CLI000277,48,Masculino,Solteiro,2,Pós-graduação,10784,Servidor Público,5,Veículo,60607,26,Regular,Não,850
+CLI000278,65,Feminino,Divorciado,2,Superior,5844,CLT,30,Cartão,4061,10,Regular,Não,801
+CLI000279,44,Feminino,Viúvo,3,Pós-graduação,8753,Autônomo,17,Veículo,23903,40,Regular,Não,789
+CLI000280,45,Masculino,Solteiro,0,Superior,4799,Servidor Público,5,Pessoal,7032,38,Bom,Não,850
+CLI000281,59,Masculino,Viúvo,1,Médio,4292,Servidor Público,22,Veículo,34764,36,Ruim,Sim,370
+CLI000282,21,Feminino,Casado,1,Superior,2239,Autônomo,1,Cartão,1397,9,Bom,Não,781
+CLI000283,32,Feminino,Casado,1,Superior,2748,Autônomo,13,Cartão,2154,7,Regular,Não,704
+CLI000284,24,Feminino,Solteiro,1,Superior,4076,Servidor Público,0,Consignado,6495,24,Bom,Não,850
+CLI000285,25,Masculino,Casado,1,Médio,2560,Servidor Público,2,Cartão,735,12,Bom,Não,839
+CLI000286,74,Masculino,Solteiro,0,Pós-graduação,4647,Aposentado,0,Veículo,45883,33,Ruim,Sim,354
+CLI000287,43,Masculino,Casado,1,Médio,2593,CLT,23,Consignado,7114,33,Bom,Não,846
+CLI000288,37,Feminino,Casado,2,Superior,3095,Autônomo,16,Veículo,23433,34,Regular,Sim,556
+CLI000289,71,Feminino,Casado,2,Médio,1683,Aposentado,0,Veículo,56971,36,Bom,Não,754
+CLI000290,66,Feminino,Viúvo,2,Superior,3998,Aposentado,0,Pessoal,4662,28,Regular,Sim,576
+CLI000291,34,Feminino,Solteiro,2,Pós-graduação,7137,CLT,2,Consignado,11611,25,Regular,Não,830
+CLI000292,68,Masculino,Casado,0,Fundamental,1343,Aposentado,0,Veículo,21065,33,Regular,Sim,503
+CLI000293,22,Feminino,Solteiro,0,Médio,2389,CLT,0,Veículo,26995,48,Bom,Não,821
+CLI000294,51,Feminino,Viúvo,0,Pós-graduação,7263,CLT,25,Pessoal,21784,38,Ruim,Sim,409
+CLI000295,44,Feminino,Casado,1,Superior,5216,Autônomo,5,Consignado,6893,17,Bom,Não,850
+CLI000296,43,Masculino,Solteiro,0,Pós-graduação,7782,CLT,9,Cartão,3317,6,Regular,Não,822
+CLI000297,23,Feminino,Solteiro,1,Superior,5159,Servidor Público,2,Veículo,25970,43,Regular,Não,817
+CLI000298,58,Feminino,Casado,1,Médio,4062,Servidor Público,30,Cartão,4360,12,Regular,Não,752
+CLI000299,59,Masculino,Viúvo,0,Fundamental,1904,CLT,21,Veículo,52544,37,Bom,Sim,621
+CLI000300,37,Masculino,Solteiro,0,Pós-graduação,4465,Autônomo,10,Pessoal,5414,42,Ruim,Sim,352
+CLI000301,22,Masculino,Solteiro,2,Médio,2622,Servidor Público,1,Veículo,38432,46,Bom,Não,843
+CLI000302,54,Masculino,Casado,3,Superior,2513,Autônomo,14,Consignado,6884,43,Regular,Não,691
+CLI000303,25,Masculino,Solteiro,1,Médio,2567,Servidor Público,6,Cartão,5113,6,Bom,Não,846
+CLI000304,45,Masculino,Viúvo,3,Pós-graduação,10403,Servidor Público,25,Cartão,875,10,Regular,Não,850
+CLI000305,32,Masculino,Solteiro,2,Pós-graduação,5299,CLT,11,Pessoal,10226,32,Ruim,Não,601
+CLI000306,29,Feminino,Solteiro,2,Médio,2278,Autônomo,3,Cartão,2998,6,Bom,Não,774
+CLI000307,48,Feminino,Casado,3,Médio,2525,CLT,6,Cartão,5157,11,Regular,Não,772
+CLI000308,31,Feminino,Solteiro,0,Superior,3659,CLT,8,Cartão,5082,10,Bom,Não,850
+CLI000309,32,Masculino,Casado,0,Médio,2286,CLT,6,Cartão,2150,11,Bom,Não,850
+CLI000310,19,Feminino,Solteiro,1,Superior,4462,CLT,0,Cartão,1793,11,Bom,Não,850
+CLI000311,21,Masculino,Solteiro,3,Superior,5615,Servidor Público,1,Consignado,10691,38,Regular,Não,825
+CLI000312,73,Masculino,Solteiro,1,Pós-graduação,6534,Aposentado,0,Veículo,44533,25,Bom,Não,850
+CLI000313,55,Masculino,Casado,0,Médio,3594,Autônomo,9,Cartão,4784,11,Bom,Não,756
+CLI000314,66,Feminino,Solteiro,2,Pós-graduação,5410,Aposentado,0,Consignado,3539,17,Bom,Não,850
+CLI000315,39,Masculino,Casado,0,Médio,2478,CLT,13,Cartão,1544,8,Bom,Não,842
+CLI000316,73,Masculino,Casado,1,Médio,2468,Aposentado,0,Consignado,4486,29,Regular,Não,708
+CLI000317,61,Masculino,Viúvo,2,Superior,4484,Autônomo,3,Cartão,4167,7,Regular,Não,682
+CLI000318,40,Feminino,Divorciado,1,Pós-graduação,9275,Servidor Público,4,Cartão,4289,12,Ruim,Não,615
+CLI000319,18,Feminino,Solteiro,1,Superior,4184,CLT,0,Veículo,64664,38,Bom,Não,850
+CLI000320,22,Masculino,Solteiro,1,Superior,5684,Servidor Público,2,Veículo,68446,31,Bom,Não,850
+CLI000321,66,Feminino,Solteiro,0,Pós-graduação,5917,Aposentado,0,Consignado,7284,31,Ruim,Sim,392
+CLI000322,25,Masculino,Casado,3,Superior,4864,Servidor Público,5,Consignado,9909,26,Regular,Não,773
+CLI000323,50,Masculino,Viúvo,0,Superior,6460,Servidor Público,11,Pessoal,18132,34,Regular,Não,848
+CLI000324,58,Feminino,Viúvo,3,Fundamental,1891,Autônomo,22,Cartão,4616,8,Ruim,Sim,300
+CLI000325,27,Feminino,Solteiro,1,Superior,4594,Servidor Público,8,Pessoal,6679,40,Bom,Não,850
+CLI000326,55,Feminino,Solteiro,1,Superior,3055,Autônomo,30,Consignado,3378,42,Bom,Não,782
+CLI000327,28,Feminino,Solteiro,1,Médio,1252,Autônomo,5,Pessoal,1405,13,Bom,Não,723
+CLI000328,74,Feminino,Casado,1,Fundamental,1280,Aposentado,0,Pessoal,3283,35,Bom,Não,743
+CLI000329,32,Masculino,Solteiro,1,Médio,1855,CLT,11,Cartão,3627,9,Regular,Não,690
+CLI000330,31,Masculino,Casado,2,Pós-graduação,4085,Autônomo,12,Veículo,58649,31,Bom,Não,850
+CLI000331,33,Feminino,Solteiro,1,Médio,2275,Autônomo,1,Cartão,2892,10,Ruim,Sim,300
+CLI000332,50,Feminino,Divorciado,1,Superior,5293,CLT,13,Cartão,805,7,Regular,Não,826
+CLI000333,52,Masculino,Solteiro,1,Médio,3301,Autônomo,3,Cartão,3930,10,Bom,Não,786
+CLI000334,48,Masculino,Viúvo,3,Superior,5330,Servidor Público,27,Consignado,9952,32,Bom,Não,850
+CLI000335,69,Feminino,Divorciado,0,Superior,3403,Aposentado,0,Consignado,6140,43,Ruim,Sim,312
+CLI000336,69,Feminino,Viúvo,3,Superior,2844,Aposentado,0,Cartão,1283,9,Bom,Não,811
+CLI000337,24,Feminino,Casado,3,Médio,1998,CLT,1,Cartão,2582,6,Regular,Não,678
+CLI000338,60,Feminino,Solteiro,3,Fundamental,2075,CLT,0,Veículo,39278,25,Ruim,Sim,332
+CLI000339,58,Feminino,Viúvo,0,Superior,5533,CLT,29,Consignado,2734,13,Regular,Não,781
+CLI000340,53,Masculino,Solteiro,3,Médio,3520,Servidor Público,10,Consignado,6223,46,Ruim,Sim,356
+CLI000341,43,Feminino,Viúvo,0,Médio,2705,Autônomo,9,Cartão,3052,8,Bom,Não,809
+CLI000342,75,Masculino,Divorciado,0,Fundamental,1603,Aposentado,0,Pessoal,5777,31,Bom,Sim,607
+CLI000343,71,Masculino,Solteiro,0,Médio,2013,Aposentado,0,Consignado,5439,42,Regular,Sim,561
+CLI000344,58,Feminino,Casado,2,Pós-graduação,5790,Autônomo,7,Pessoal,10773,20,Bom,Não,846
+CLI000345,63,Feminino,Solteiro,1,Superior,5555,Autônomo,8,Consignado,10947,28,Ruim,Sim,330
+CLI000346,27,Feminino,Solteiro,3,Médio,2399,Servidor Público,7,Veículo,36233,28,Ruim,Sim,331
+CLI000347,37,Masculino,Solteiro,1,Médio,2645,CLT,5,Veículo,51237,34,Bom,Não,850
+CLI000348,20,Feminino,Solteiro,3,Médio,1361,Autônomo,1,Consignado,3010,21,Bom,Sim,565
+CLI000349,46,Masculino,Viúvo,3,Superior,5745,Servidor Público,8,Pessoal,14026,20,Regular,Não,847
+CLI000350,70,Masculino,Divorciado,2,Pós-graduação,6080,Aposentado,0,Cartão,1582,10,Ruim,Sim,367
+CLI000351,50,Feminino,Casado,2,Pós-graduação,6026,CLT,9,Consignado,10897,47,Regular,Não,835
+CLI000352,23,Masculino,Solteiro,3,Médio,2527,CLT,1,Cartão,2955,10,Bom,Não,820
+CLI000353,55,Masculino,Divorciado,2,Superior,5486,Autônomo,0,Pessoal,11540,16,Regular,Sim,582
+CLI000354,47,Feminino,Viúvo,3,Superior,5429,Autônomo,26,Veículo,23265,44,Ruim,Sim,365
+CLI000355,50,Feminino,Viúvo,0,Pós-graduação,4405,Autônomo,22,Pessoal,6215,36,Bom,Não,850
+CLI000356,52,Feminino,Solteiro,0,Médio,2970,Autônomo,2,Pessoal,4147,19,Bom,Não,763
+CLI000357,22,Feminino,Solteiro,1,Médio,2361,CLT,3,Cartão,2546,11,Bom,Não,835
+CLI000358,52,Masculino,Solteiro,3,Fundamental,1687,Autônomo,30,Consignado,5341,38,Ruim,Sim,300
+CLI000359,26,Masculino,Solteiro,0,Médio,3359,Servidor Público,2,Cartão,4390,10,Bom,Não,837
+CLI000360,70,Masculino,Viúvo,3,Superior,3528,Aposentado,0,Consignado,6331,19,Regular,Não,706
+CLI000361,24,Masculino,Solteiro,3,Médio,1308,Autônomo,2,Cartão,2103,12,Regular,Não,619
+CLI000362,50,Masculino,Solteiro,1,Médio,2872,Servidor Público,30,Consignado,5736,14,Bom,Não,850
+CLI000363,34,Feminino,Casado,2,Superior,4358,Servidor Público,7,Cartão,2126,12,Bom,Não,850
+CLI000364,47,Masculino,Solteiro,1,Superior,6429,Autônomo,28,Veículo,67616,40,Bom,Sim,721
+CLI000365,41,Masculino,Solteiro,1,Pós-graduação,9451,Autônomo,9,Pessoal,3802,39,Bom,Não,850
+CLI000366,44,Masculino,Viúvo,3,Médio,3792,Servidor Público,22,Veículo,35247,47,Bom,Não,850
+CLI000367,23,Feminino,Solteiro,3,Superior,4285,CLT,4,Cartão,5049,10,Regular,Sim,593
+CLI000368,75,Masculino,Solteiro,1,Pós-graduação,5887,Aposentado,0,Consignado,10229,27,Regular,Não,761
+CLI000369,34,Feminino,Solteiro,1,Pós-graduação,5663,CLT,13,Veículo,57442,33,Bom,Não,850
+CLI000370,42,Feminino,Viúvo,0,Pós-graduação,5955,Autônomo,23,Cartão,3247,8,Regular,Não,779
+CLI000371,43,Masculino,Casado,1,Superior,3144,Autônomo,24,Pessoal,9763,15,Bom,Não,816
+CLI000372,24,Masculino,Solteiro,3,Médio,2416,Autônomo,1,Consignado,6453,12,Regular,Não,654
+CLI000373,27,Masculino,Solteiro,2,Superior,3619,Autônomo,0,Veículo,43662,38,Bom,Não,806
+CLI000374,37,Masculino,Casado,2,Pós-graduação,6345,CLT,14,Cartão,1352,7,Bom,Não,850
+CLI000375,35,Masculino,Solteiro,0,Médio,2515,Autônomo,8,Cartão,1963,6,Ruim,Sim,300
+CLI000376,40,Feminino,Casado,2,Superior,3902,CLT,0,Veículo,62416,24,Regular,Não,782
+CLI000377,70,Feminino,Casado,3,Superior,3609,Aposentado,0,Consignado,8458,19,Bom,Não,831
+CLI000378,31,Feminino,Solteiro,0,Médio,2632,Servidor Público,8,Consignado,4744,20,Ruim,Sim,366
+CLI000379,35,Masculino,Casado,2,Pós-graduação,9248,Servidor Público,2,Consignado,16943,32,Bom,Não,850
+CLI000380,46,Feminino,Divorciado,0,Pós-graduação,7126,Autônomo,26,Cartão,3921,10,Ruim,Sim,397
+CLI000381,19,Masculino,Solteiro,2,Superior,5521,Servidor Público,0,Pessoal,9713,24,Bom,Não,850
+CLI000382,23,Feminino,Solteiro,3,Médio,2613,Servidor Público,0,Veículo,34297,33,Bom,Não,838
+CLI000383,45,Masculino,Solteiro,0,Médio,1836,Autônomo,14,Veículo,64594,28,Regular,Sim,481
+CLI000384,45,Masculino,Divorciado,1,Superior,3284,Autônomo,21,Consignado,4889,39,Bom,Não,837
+CLI000385,59,Masculino,Solteiro,1,Médio,2540,CLT,12,Cartão,4283,11,Bom,Não,843
+CLI000386,32,Masculino,Casado,0,Pós-graduação,6837,Autônomo,9,Cartão,5077,9,Bom,Não,850
+CLI000387,19,Feminino,Casado,2,Superior,4685,Servidor Público,0,Veículo,25445,34,Regular,Sim,624
+CLI000388,43,Feminino,Viúvo,0,Pós-graduação,7199,CLT,21,Pessoal,11373,39,Bom,Não,850
+CLI000389,20,Feminino,Solteiro,1,Médio,2429,Autônomo,0,Cartão,1381,7,Bom,Sim,637
+CLI000390,27,Masculino,Casado,0,Médio,1956,CLT,4,Consignado,3548,28,Bom,Não,794
+CLI000391,27,Masculino,Casado,1,Médio,2628,Autônomo,5,Cartão,4310,9,Bom,Não,753
+CLI000392,46,Masculino,Solteiro,0,Médio,2782,CLT,4,Cartão,1720,11,Bom,Não,850
+CLI000393,18,Masculino,Casado,3,Médio,2604,Autônomo,0,Consignado,5248,30,Bom,Não,768
+CLI000394,34,Feminino,Casado,1,Superior,4275,Servidor Público,14,Consignado,6198,27,Bom,Não,850
+CLI000395,44,Feminino,Divorciado,0,Superior,5005,CLT,0,Consignado,6035,45,Bom,Não,850
+CLI000396,46,Masculino,Divorciado,3,Superior,5854,Servidor Público,13,Cartão,1540,7,Bom,Não,850
+CLI000397,39,Masculino,Casado,3,Pós-graduação,9023,Servidor Público,14,Pessoal,8587,26,Ruim,Sim,467
+CLI000398,22,Feminino,Solteiro,2,Superior,4059,CLT,2,Pessoal,8054,20,Bom,Não,842
+CLI000399,53,Masculino,Viúvo,1,Médio,4035,Servidor Público,9,Veículo,37852,31,Regular,Sim,607
+CLI000400,65,Masculino,Casado,0,Superior,3157,Autônomo,30,Cartão,4143,6,Bom,Não,777
+CLI000401,53,Feminino,Viúvo,1,Pós-graduação,5801,CLT,4,Veículo,35649,47,Ruim,Sim,427
+CLI000402,30,Feminino,Casado,0,Médio,2089,CLT,11,Cartão,654,12,Ruim,Não,506
+CLI000403,18,Masculino,Solteiro,2,Médio,2707,Servidor Público,0,Cartão,2424,12,Bom,Não,850
+CLI000404,20,Masculino,Solteiro,2,Superior,5230,Servidor Público,0,Cartão,5497,9,Ruim,Sim,391
+CLI000405,42,Feminino,Viúvo,3,Médio,3666,Servidor Público,3,Pessoal,6405,42,Bom,Não,850
+CLI000406,39,Masculino,Casado,1,Médio,2636,CLT,16,Pessoal,1342,38,Bom,Não,850
+CLI000407,52,Feminino,Viúvo,2,Médio,3013,Servidor Público,4,Veículo,49266,47,Regular,Não,731
+CLI000408,23,Feminino,Solteiro,2,Médio,1817,CLT,0,Veículo,20316,24,Regular,Não,674
+CLI000409,70,Feminino,Solteiro,2,Médio,2346,Aposentado,0,Veículo,39286,45,Regular,Não,712
+CLI000410,36,Masculino,Solteiro,2,Médio,2793,Servidor Público,11,Cartão,4089,6,Bom,Não,850
+CLI000411,53,Masculino,Divorciado,3,Médio,2867,Autônomo,22,Consignado,7219,42,Ruim,Não,409
+CLI000412,23,Feminino,Casado,3,Médio,2279,Autônomo,4,Veículo,21305,33,Bom,Sim,607
+CLI000413,30,Feminino,Casado,2,Pós-graduação,3488,Autônomo,2,Veículo,51145,38,Bom,Não,850
+CLI000414,56,Masculino,Viúvo,1,Superior,5820,CLT,0,Cartão,2832,6,Regular,Não,794
+CLI000415,62,Feminino,Solteiro,2,Médio,2458,CLT,26,Pessoal,4800,12,Bom,Não,830
+CLI000416,54,Feminino,Solteiro,2,Superior,5224,Autônomo,14,Cartão,1194,12,Bom,Não,829
+CLI000417,54,Masculino,Solteiro,3,Superior,6951,Servidor Público,29,Veículo,37183,46,Regular,Não,809
+CLI000418,59,Feminino,Casado,2,Pós-graduação,12204,Servidor Público,10,Cartão,4854,12,Bom,Não,850
+CLI000419,69,Feminino,Solteiro,3,Médio,2253,Aposentado,0,Consignado,4910,18,Bom,Não,806
+CLI000420,44,Masculino,Divorciado,2,Médio,2892,Servidor Público,16,Veículo,60741,37,Bom,Não,850
+CLI000421,32,Feminino,Casado,2,Médio,2416,CLT,10,Cartão,869,8,Ruim,Não,529
+CLI000422,42,Masculino,Divorciado,3,Superior,4464,Autônomo,15,Cartão,3108,11,Ruim,Não,453
+CLI000423,30,Masculino,Casado,0,Pós-graduação,6328,CLT,8,Consignado,3346,23,Bom,Não,850
+CLI000424,53,Feminino,Viúvo,3,Superior,4528,CLT,30,Pessoal,13190,34,Ruim,Não,489
+CLI000425,53,Masculino,Divorciado,2,Fundamental,1110,Autônomo,22,Veículo,43446,48,Bom,Sim,573
+CLI000426,50,Masculino,Casado,0,Pós-graduação,6840,CLT,9,Pessoal,2491,17,Bom,Não,850
+CLI000427,63,Feminino,Viúvo,0,Médio,3769,Servidor Público,17,Consignado,3722,12,Bom,Não,836
+CLI000428,47,Masculino,Viúvo,2,Médio,2742,Autônomo,6,Consignado,3708,19,Bom,Não,800
+CLI000429,44,Masculino,Divorciado,3,Superior,3891,Autônomo,4,Cartão,2457,11,Regular,Não,739
+CLI000430,21,Feminino,Casado,0,Superior,3202,CLT,0,Pessoal,10039,12,Bom,Não,847
+CLI000431,45,Feminino,Divorciado,3,Médio,3160,Servidor Público,21,Veículo,53002,30,Regular,Não,785
+CLI000432,32,Feminino,Casado,2,Pós-graduação,8014,Servidor Público,1,Cartão,1508,8,Bom,Não,850
+CLI000433,74,Feminino,Solteiro,2,Fundamental,1560,Aposentado,0,Pessoal,1007,12,Ruim,Não,399
+CLI000434,64,Feminino,Solteiro,0,Superior,6497,Autônomo,30,Cartão,3279,11,Bom,Não,821
+CLI000435,53,Feminino,Viúvo,0,Superior,4634,Autônomo,12,Veículo,57600,31,Bom,Sim,622
+CLI000436,24,Masculino,Solteiro,2,Superior,4812,Servidor Público,0,Pessoal,11332,19,Ruim,Não,517
+CLI000437,57,Feminino,Divorciado,0,Fundamental,1559,Autônomo,1,Consignado,3435,20,Bom,Não,720
+CLI000438,21,Feminino,Casado,2,Superior,4497,Servidor Público,2,Veículo,28780,47,Ruim,Sim,363
+CLI000439,63,Masculino,Divorciado,2,Médio,3421,CLT,18,Cartão,3645,11,Bom,Não,815
+CLI000440,74,Feminino,Viúvo,0,Superior,4104,Aposentado,0,Pessoal,1516,23,Regular,Não,717
+CLI000441,42,Feminino,Divorciado,1,Médio,3327,Autônomo,11,Cartão,2874,12,Ruim,Sim,307
+CLI000442,75,Masculino,Solteiro,0,Superior,3601,Aposentado,0,Pessoal,3215,22,Ruim,Sim,333
+CLI000443,35,Masculino,Solteiro,1,Médio,2093,Autônomo,13,Veículo,37894,32,Bom,Não,786
+CLI000444,59,Feminino,Solteiro,3,Superior,7289,Servidor Público,30,Cartão,4107,12,Regular,Não,809
+CLI000445,51,Masculino,Divorciado,1,Superior,5820,Servidor Público,20,Cartão,4112,6,Bom,Não,850
+CLI000446,50,Masculino,Divorciado,3,Médio,3182,Servidor Público,18,Veículo,33531,29,Ruim,Sim,386
+CLI000447,29,Feminino,Casado,1,Médio,2489,Autônomo,0,Consignado,6313,30,Ruim,Sim,300
+CLI000448,32,Masculino,Casado,3,Pós-graduação,5955,Autônomo,10,Consignado,10237,42,Bom,Não,850
+CLI000449,42,Masculino,Solteiro,3,Médio,1692,Autônomo,23,Veículo,41564,24,Regular,Sim,484
+CLI000450,56,Feminino,Casado,2,Fundamental,2630,Servidor Público,2,Consignado,2875,33,Bom,Não,850
+CLI000451,65,Masculino,Divorciado,2,Fundamental,1569,Autônomo,19,Veículo,34569,41,Bom,Não,733
+CLI000452,23,Masculino,Solteiro,2,Superior,3694,Autônomo,4,Veículo,53835,27,Bom,Sim,653
+CLI000453,54,Feminino,Casado,0,Pós-graduação,7392,CLT,2,Consignado,11208,29,Bom,Não,850
+CLI000454,19,Feminino,Solteiro,3,Médio,2476,Servidor Público,0,Veículo,61955,40,Regular,Sim,583
+CLI000455,46,Feminino,Casado,0,Médio,3426,Servidor Público,4,Cartão,1404,7,Regular,Não,778
+CLI000456,64,Masculino,Casado,2,Pós-graduação,5525,Autônomo,30,Cartão,2141,6,Bom,Não,850
+CLI000457,45,Masculino,Casado,1,Pós-graduação,7015,CLT,13,Pessoal,16302,12,Ruim,Não,595
+CLI000458,72,Feminino,Casado,0,Pós-graduação,5073,Aposentado,0,Pessoal,1438,41,Bom,Não,850
+CLI000459,48,Masculino,Divorciado,0,Superior,6039,Servidor Público,9,Veículo,59159,41,Bom,Não,850
+CLI000460,29,Masculino,Casado,0,Médio,2457,Servidor Público,8,Cartão,4792,11,Bom,Não,850
+CLI000461,54,Masculino,Casado,0,Fundamental,2134,Servidor Público,12,Veículo,57135,28,Ruim,Sim,339
+CLI000462,72,Masculino,Divorciado,0,Pós-graduação,6144,Aposentado,0,Consignado,6753,32,Regular,Não,774
+CLI000463,67,Feminino,Casado,3,Fundamental,1370,Aposentado,0,Pessoal,2771,19,Regular,Sim,506
+CLI000464,28,Feminino,Casado,0,Médio,1807,CLT,6,Veículo,55445,31,Regular,Não,697
+CLI000465,19,Masculino,Solteiro,2,Médio,1603,Autônomo,0,Pessoal,2178,12,Ruim,Não,388
+CLI000466,43,Masculino,Solteiro,3,Pós-graduação,10863,Servidor Público,16,Veículo,26825,24,Bom,Não,850
+CLI000467,41,Masculino,Divorciado,3,Médio,2887,Servidor Público,2,Veículo,66569,37,Ruim,Sim,372
+CLI000468,31,Feminino,Casado,0,Pós-graduação,5588,CLT,1,Consignado,11256,23,Ruim,Não,599
+CLI000469,24,Feminino,Solteiro,3,Superior,4785,Servidor Público,4,Cartão,592,11,Bom,Não,850
+CLI000470,31,Masculino,Casado,2,Médio,2403,Servidor Público,12,Cartão,4378,9,Bom,Não,850
+CLI000471,35,Masculino,Casado,2,Pós-graduação,8123,Autônomo,7,Veículo,28535,40,Bom,Não,850
+CLI000472,69,Masculino,Divorciado,2,Superior,3197,Aposentado,0,Cartão,4639,12,Regular,Não,711
+CLI000473,48,Feminino,Divorciado,3,Superior,3701,Autônomo,21,Pessoal,8605,15,Bom,Não,831
+CLI000474,73,Masculino,Viúvo,1,Superior,2842,Aposentado,0,Pessoal,8260,20,Bom,Não,818
+CLI000475,71,Feminino,Solteiro,0,Médio,1681,Aposentado,0,Consignado,3851,18,Regular,Sim,505
+CLI000476,20,Masculino,Casado,0,Médio,1482,Autônomo,1,Pessoal,5377,16,Bom,Sim,557
+CLI000477,54,Masculino,Viúvo,3,Pós-graduação,9875,Servidor Público,17,Veículo,31753,35,Bom,Não,850
+CLI000478,31,Masculino,Casado,2,Médio,1995,CLT,8,Cartão,3136,10,Regular,Não,692
+CLI000479,59,Feminino,Viúvo,3,Médio,3922,Servidor Público,4,Pessoal,2870,39,Bom,Não,850
+CLI000480,61,Feminino,Divorciado,1,Pós-graduação,12088,Servidor Público,21,Veículo,28623,48,Regular,Não,850
+CLI000481,42,Feminino,Divorciado,0,Pós-graduação,5299,Autônomo,19,Cartão,752,10,Bom,Não,850
+CLI000482,46,Masculino,Viúvo,0,Superior,3794,CLT,8,Consignado,6316,27,Bom,Não,850
+CLI000483,47,Masculino,Casado,3,Pós-graduação,11092,Autônomo,25,Cartão,2862,12,Regular,Sim,663
+CLI000484,38,Feminino,Solteiro,0,Médio,2633,Servidor Público,0,Veículo,56087,45,Bom,Não,850
+CLI000485,23,Feminino,Solteiro,1,Médio,1799,Autônomo,0,Pessoal,2800,20,Bom,Sim,573
+CLI000486,55,Masculino,Viúvo,0,Superior,5475,Servidor Público,6,Consignado,5670,39,Regular,Não,817
+CLI000487,60,Masculino,Viúvo,3,Superior,4102,CLT,26,Consignado,7252,41,Bom,Não,850
+CLI000488,27,Feminino,Solteiro,2,Médio,2929,Servidor Público,7,Veículo,31492,43,Ruim,Sim,365
+CLI000489,35,Masculino,Casado,1,Pós-graduação,7118,Autônomo,16,Consignado,6437,44,Bom,Não,850
+CLI000490,46,Feminino,Divorciado,0,Médio,2933,Autônomo,12,Consignado,2536,13,Bom,Não,819
+CLI000491,52,Feminino,Divorciado,3,Pós-graduação,5453,Autônomo,24,Pessoal,10976,37,Bom,Não,839
+CLI000492,32,Masculino,Casado,3,Superior,3581,Autônomo,2,Veículo,64462,46,Bom,Não,840
+CLI000493,74,Feminino,Solteiro,0,Superior,4094,Aposentado,0,Veículo,34828,33,Regular,Não,713
+CLI000494,56,Masculino,Divorciado,0,Pós-graduação,6484,Autônomo,7,Pessoal,3924,27,Bom,Não,850
+CLI000495,72,Feminino,Viúvo,2,Fundamental,1640,Aposentado,0,Cartão,2296,11,Bom,Não,763
+CLI000496,53,Feminino,Divorciado,3,Pós-graduação,7429,CLT,21,Veículo,44220,29,Regular,Sim,649
+CLI000497,19,Feminino,Solteiro,2,Médio,1612,Autônomo,0,Pessoal,1008,34,Bom,Não,721
+CLI000498,28,Masculino,Solteiro,1,Médio,2545,Servidor Público,1,Veículo,21616,25,Regular,Não,734
+CLI000499,62,Masculino,Solteiro,1,Pós-graduação,12503,Autônomo,8,Pessoal,13739,30,Regular,Sim,622
+CLI000500,34,Feminino,Solteiro,0,Médio,1649,Autônomo,10,Pessoal,1571,12,Bom,Não,742
+CLI000501,55,Feminino,Solteiro,1,Superior,6709,Servidor Público,20,Veículo,49137,31,Bom,Não,850
+CLI000502,32,Masculino,Solteiro,0,Médio,1632,Autônomo,5,Consignado,3643,35,Ruim,Não,411
+CLI000503,53,Masculino,Casado,3,Fundamental,2242,Servidor Público,7,Consignado,4251,38,Regular,Não,743
+CLI000504,40,Feminino,Solteiro,3,Pós-graduação,3888,Autônomo,3,Consignado,8623,37,Ruim,Não,479
+CLI000505,25,Feminino,Solteiro,2,Superior,4452,CLT,0,Veículo,20329,43,Ruim,Sim,342
+CLI000506,30,Feminino,Casado,0,Superior,3320,Autônomo,11,Consignado,6204,33,Regular,Sim,555
+CLI000507,45,Feminino,Solteiro,2,Médio,2788,CLT,26,Consignado,2712,30,Regular,Não,774
+CLI000508,27,Masculino,Solteiro,3,Superior,5551,Servidor Público,3,Cartão,4553,7,Bom,Não,850
+CLI000509,53,Masculino,Casado,0,Pós-graduação,8060,Servidor Público,22,Consignado,8891,31,Bom,Não,850
+CLI000510,42,Feminino,Solteiro,0,Pós-graduação,9971,Servidor Público,17,Pessoal,29412,42,Bom,Não,850
+CLI000511,60,Feminino,Viúvo,0,Pós-graduação,7909,CLT,30,Veículo,66333,34,Regular,Não,819
+CLI000512,35,Masculino,Solteiro,0,Pós-graduação,9027,Servidor Público,16,Consignado,5263,47,Regular,Não,850
+CLI000513,21,Masculino,Solteiro,2,Médio,1969,Autônomo,2,Consignado,5539,16,Regular,Não,633
+CLI000514,65,Feminino,Viúvo,3,Pós-graduação,8294,CLT,30,Veículo,41247,39,Bom,Não,850
+CLI000515,58,Feminino,Viúvo,2,Pós-graduação,10183,Autônomo,20,Veículo,21255,40,Regular,Sim,627
+CLI000516,34,Masculino,Solteiro,3,Médio,2260,CLT,4,Consignado,4597,48,Bom,Não,850
+CLI000517,37,Masculino,Casado,0,Pós-graduação,6744,Servidor Público,18,Pessoal,16091,30,Ruim,Não,606
+CLI000518,57,Feminino,Viúvo,3,Pós-graduação,4990,Autônomo,24,Cartão,3902,10,Regular,Não,725
+CLI000519,55,Feminino,Divorciado,3,Pós-graduação,9819,Servidor Público,22,Consignado,19867,16,Bom,Não,850
+CLI000520,63,Masculino,Casado,1,Médio,3762,Servidor Público,23,Consignado,6796,43,Ruim,Não,509
+CLI000521,23,Masculino,Casado,3,Médio,2455,Autônomo,2,Pessoal,4257,14,Regular,Sim,501
+CLI000522,53,Masculino,Solteiro,0,Médio,3193,Autônomo,26,Pessoal,1570,14,Bom,Não,752
+CLI000523,29,Masculino,Solteiro,1,Médio,2582,CLT,2,Cartão,2436,8,Regular,Não,737
+CLI000524,47,Masculino,Solteiro,1,Superior,5705,Servidor Público,6,Pessoal,16013,36,Regular,Sim,685
+CLI000525,34,Masculino,Casado,3,Superior,3023,CLT,10,Cartão,2022,8,Regular,Não,788
+CLI000526,72,Masculino,Solteiro,3,Médio,1683,Aposentado,0,Consignado,2843,40,Regular,Não,641
+CLI000527,63,Masculino,Casado,3,Pós-graduação,6984,CLT,5,Cartão,1570,11,Bom,Não,850
+CLI000528,35,Masculino,Solteiro,3,Médio,3023,Servidor Público,9,Veículo,63248,39,Bom,Não,850
+CLI000529,28,Feminino,Casado,0,Superior,3458,CLT,9,Pessoal,9980,25,Ruim,Sim,337
+CLI000530,63,Masculino,Viúvo,3,Superior,7371,Autônomo,30,Veículo,48144,37,Bom,Não,814
+CLI000531,61,Masculino,Viúvo,0,Fundamental,2570,Servidor Público,30,Pessoal,5927,25,Bom,Não,845
+CLI000532,51,Masculino,Viúvo,2,Fundamental,1514,CLT,10,Pessoal,2234,33,Bom,Não,768
+CLI000533,59,Masculino,Viúvo,0,Pós-graduação,9407,CLT,23,Consignado,13499,36,Regular,Não,817
+CLI000534,36,Masculino,Casado,1,Médio,3145,Servidor Público,3,Veículo,36937,30,Bom,Não,850
+CLI000535,56,Masculino,Solteiro,2,Pós-graduação,7855,Autônomo,23,Veículo,40804,43,Bom,Não,850
+CLI000536,74,Feminino,Divorciado,3,Superior,2801,Aposentado,0,Pessoal,6842,39,Bom,Não,837
+CLI000537,39,Feminino,Casado,2,Superior,5135,Autônomo,6,Consignado,7764,40,Bom,Não,850
+CLI000538,35,Feminino,Solteiro,2,Pós-graduação,7273,Servidor Público,13,Cartão,4896,6,Bom,Não,850
+CLI000539,63,Feminino,Divorciado,3,Médio,4067,Servidor Público,30,Consignado,7910,18,Ruim,Sim,356
+CLI000540,31,Feminino,Solteiro,3,Pós-graduação,6610,CLT,9,Cartão,1521,9,Bom,Não,850
+CLI000541,54,Masculino,Viúvo,3,Médio,1981,Autônomo,12,Veículo,47491,27,Regular,Sim,451
+CLI000542,68,Feminino,Viúvo,1,Fundamental,1549,Aposentado,0,Pessoal,1483,17,Ruim,Sim,300
+CLI000543,40,Feminino,Casado,1,Médio,2339,Autônomo,12,Veículo,67034,29,Bom,Sim,633
+CLI000544,53,Feminino,Solteiro,2,Pós-graduação,4889,Autônomo,16,Veículo,66330,29,Regular,Sim,555
+CLI000545,30,Masculino,Solteiro,1,Médio,2939,Servidor Público,6,Consignado,3751,47,Bom,Não,850
+CLI000546,24,Feminino,Casado,0,Superior,4948,Servidor Público,5,Consignado,10270,45,Bom,Sim,714
+CLI000547,40,Masculino,Casado,2,Pós-graduação,7813,Servidor Público,18,Veículo,46543,42,Bom,Não,850
+CLI000548,67,Feminino,Viúvo,0,Superior,3985,Aposentado,0,Veículo,33132,34,Ruim,Sim,302
+CLI000549,49,Masculino,Viúvo,0,Médio,2415,Autônomo,21,Pessoal,7539,25,Bom,Não,806
+CLI000550,23,Feminino,Casado,0,Médio,1941,CLT,0,Pessoal,5982,19,Bom,Não,764
+CLI000551,62,Masculino,Viúvo,2,Fundamental,2390,Servidor Público,30,Pessoal,6630,34,Bom,Não,850
+CLI000552,28,Masculino,Solteiro,1,Superior,4224,Servidor Público,6,Pessoal,13306,22,Bom,Não,850
+CLI000553,21,Masculino,Casado,2,Médio,2098,CLT,2,Cartão,872,11,Ruim,Sim,349
+CLI000554,29,Feminino,Casado,2,Médio,3411,Servidor Público,6,Consignado,5238,41,Bom,Não,836
+CLI000555,27,Feminino,Casado,2,Superior,3228,CLT,4,Pessoal,9935,13,Bom,Não,850
+CLI000556,28,Feminino,Casado,3,Médio,2215,CLT,1,Veículo,21003,47,Bom,Sim,694
+CLI000557,29,Masculino,Casado,1,Superior,5768,Servidor Público,1,Consignado,2375,41,Ruim,Não,563
+CLI000558,32,Masculino,Solteiro,2,Pós-graduação,9214,Servidor Público,6,Cartão,3898,11,Ruim,Não,592
+CLI000559,59,Feminino,Casado,0,Superior,5918,CLT,10,Veículo,57460,48,Bom,Não,850
+CLI000560,72,Feminino,Casado,0,Pós-graduação,4737,Aposentado,0,Pessoal,9724,30,Regular,Não,722
+CLI000561,29,Masculino,Solteiro,2,Médio,1822,CLT,10,Cartão,2411,12,Bom,Não,798
+CLI000562,40,Feminino,Viúvo,2,Superior,4111,CLT,15,Veículo,65433,40,Regular,Não,768
+CLI000563,35,Masculino,Casado,0,Médio,1941,CLT,1,Cartão,3331,9,Regular,Não,691
+CLI000564,27,Feminino,Casado,1,Superior,3868,Autônomo,2,Pessoal,12358,28,Bom,Sim,636
+CLI000565,19,Feminino,Solteiro,1,Superior,3679,CLT,0,Veículo,49322,36,Bom,Não,847
+CLI000566,74,Feminino,Divorciado,2,Fundamental,1220,Aposentado,0,Consignado,3613,12,Regular,Não,642
+CLI000567,63,Feminino,Solteiro,0,Médio,4601,Servidor Público,5,Veículo,34771,40,Bom,Não,850
+CLI000568,18,Masculino,Casado,3,Médio,2956,Autônomo,0,Cartão,5495,7,Regular,Sim,527
+CLI000569,21,Feminino,Casado,0,Médio,2873,Autônomo,0,Cartão,4691,12,Ruim,Sim,300
+CLI000570,46,Masculino,Casado,2,Pós-graduação,11220,Servidor Público,0,Veículo,34723,31,Regular,Não,850
+CLI000571,19,Masculino,Casado,3,Superior,2264,Autônomo,0,Pessoal,4374,23,Regular,Sim,527
+CLI000572,35,Feminino,Casado,1,Pós-graduação,4835,CLT,15,Pessoal,7097,23,Regular,Não,804
+CLI000573,72,Masculino,Solteiro,0,Superior,3336,Aposentado,0,Pessoal,4288,41,Bom,Não,827
+CLI000574,28,Feminino,Casado,3,Superior,3201,Autônomo,7,Consignado,3472,44,Ruim,Não,453
+CLI000575,41,Masculino,Solteiro,2,Superior,5918,Servidor Público,2,Cartão,5066,7,Bom,Não,850
+CLI000576,33,Masculino,Solteiro,2,Superior,5133,Servidor Público,6,Consignado,8115,29,Regular,Não,839
+CLI000577,32,Masculino,Casado,0,Superior,4705,Autônomo,13,Pessoal,6218,14,Bom,Não,821
+CLI000578,20,Masculino,Casado,3,Médio,2301,CLT,0,Consignado,5964,44,Bom,Não,834
+CLI000579,43,Masculino,Divorciado,2,Médio,3854,Servidor Público,9,Pessoal,1201,29,Bom,Não,850
+CLI000580,21,Feminino,Casado,3,Superior,4144,Servidor Público,0,Cartão,5465,7,Regular,Não,786
+CLI000581,42,Masculino,Casado,2,Médio,2710,Autônomo,19,Veículo,30137,35,Bom,Não,789
+CLI000582,23,Feminino,Solteiro,1,Médio,2439,CLT,1,Consignado,6012,41,Bom,Não,817
+CLI000583,66,Masculino,Casado,3,Fundamental,1417,Aposentado,0,Veículo,21652,47,Bom,Não,760
+CLI000584,37,Masculino,Casado,2,Pós-graduação,5298,Autônomo,16,Veículo,27697,27,Bom,Não,850
+CLI000585,35,Masculino,Casado,1,Médio,1810,CLT,9,Pessoal,5625,38,Ruim,Sim,314
+CLI000586,36,Masculino,Casado,0,Médio,2430,CLT,10,Veículo,49048,45,Ruim,Sim,365
+CLI000587,42,Masculino,Solteiro,1,Médio,3808,Servidor Público,4,Veículo,56224,29,Ruim,Sim,384
+CLI000588,45,Feminino,Casado,3,Médio,2833,Autônomo,20,Consignado,4226,21,Bom,Não,818
+CLI000589,67,Feminino,Viúvo,3,Médio,1880,Aposentado,0,Pessoal,6350,31,Ruim,Sim,300
+CLI000590,62,Masculino,Viúvo,0,Médio,3329,Servidor Público,11,Consignado,3013,14,Bom,Não,842
+CLI000591,28,Masculino,Solteiro,3,Superior,4300,CLT,2,Consignado,6606,25,Bom,Não,850
+CLI000592,53,Masculino,Divorciado,2,Superior,5174,Autônomo,30,Pessoal,12573,23,Bom,Não,846
+CLI000593,39,Masculino,Casado,1,Pós-graduação,8292,Servidor Público,17,Veículo,48532,34,Bom,Não,850
+CLI000594,67,Feminino,Casado,1,Médio,2284,Aposentado,0,Veículo,45711,31,Bom,Sim,631
+CLI000595,48,Feminino,Viúvo,2,Médio,2821,CLT,20,Consignado,3255,45,Ruim,Não,518
+CLI000596,44,Masculino,Casado,3,Pós-graduação,8098,Servidor Público,4,Cartão,2866,11,Ruim,Não,607
+CLI000597,28,Masculino,Solteiro,0,Superior,3753,CLT,3,Pessoal,3485,14,Ruim,Não,489
+CLI000598,47,Masculino,Viúvo,0,Superior,5431,Servidor Público,13,Veículo,55532,31,Bom,Não,850
+CLI000599,35,Feminino,Casado,3,Médio,3226,Autônomo,7,Cartão,2863,6,Bom,Não,792
+CLI000600,40,Feminino,Casado,0,Pós-graduação,6571,CLT,2,Veículo,43766,28,Regular,Sim,710
+CLI000601,42,Feminino,Casado,1,Superior,5243,Servidor Público,14,Veículo,40859,24,Regular,Não,849
+CLI000602,62,Feminino,Divorciado,2,Superior,5790,Autônomo,2,Pessoal,11158,29,Ruim,Sim,339
+CLI000603,51,Masculino,Casado,2,Superior,4091,CLT,29,Veículo,64975,26,Bom,Não,836
+CLI000604,38,Feminino,Casado,3,Médio,3116,Servidor Público,17,Veículo,52360,34,Regular,Não,767
+CLI000605,22,Feminino,Casado,2,Médio,2453,Autônomo,0,Cartão,4124,6,Bom,Não,776
+CLI000606,67,Masculino,Casado,3,Fundamental,1171,Aposentado,0,Consignado,2509,32,Bom,Não,768
+CLI000607,30,Feminino,Solteiro,1,Pós-graduação,8925,Servidor Público,11,Veículo,39595,45,Bom,Não,850
+CLI000608,29,Masculino,Solteiro,1,Superior,4745,Autônomo,1,Consignado,5815,19,Regular,Sim,539
+CLI000609,73,Feminino,Solteiro,3,Superior,3549,Aposentado,0,Consignado,4825,16,Ruim,Não,466
+CLI000610,59,Feminino,Divorciado,1,Superior,5272,Servidor Público,30,Veículo,40738,27,Regular,Sim,679
+CLI000611,68,Masculino,Solteiro,0,Médio,2050,Aposentado,0,Consignado,4242,13,Ruim,Sim,310
+CLI000612,34,Feminino,Casado,1,Médio,2284,CLT,14,Pessoal,2491,12,Regular,Não,768
+CLI000613,50,Masculino,Solteiro,0,Superior,4872,CLT,22,Veículo,51902,29,Regular,Não,772
+CLI000614,46,Masculino,Divorciado,1,Médio,3363,Servidor Público,19,Cartão,2169,9,Ruim,Não,530
+CLI000615,47,Masculino,Casado,3,Pós-graduação,9873,Servidor Público,12,Pessoal,24203,41,Bom,Não,850
+CLI000616,63,Feminino,Divorciado,0,Superior,4027,CLT,30,Pessoal,1097,16,Ruim,Não,517
+CLI000617,73,Feminino,Viúvo,3,Pós-graduação,5542,Aposentado,0,Veículo,39036,45,Bom,Sim,738
+CLI000618,39,Masculino,Solteiro,1,Superior,5604,Servidor Público,10,Cartão,1355,9,Bom,Não,850
+CLI000619,28,Feminino,Solteiro,3,Superior,4466,CLT,1,Cartão,4770,11,Ruim,Não,497
+CLI000620,56,Masculino,Viúvo,0,Médio,2301,Autônomo,17,Pessoal,2463,20,Bom,Não,788
+CLI000621,59,Feminino,Solteiro,3,Superior,3977,Autônomo,17,Veículo,59702,42,Ruim,Sim,300
+CLI000622,37,Feminino,Casado,1,Pós-graduação,8294,Servidor Público,7,Pessoal,2903,19,Ruim,Não,628
+CLI000623,75,Feminino,Viúvo,2,Pós-graduação,4437,Aposentado,0,Consignado,9176,48,Ruim,Não,509
+CLI000624,18,Feminino,Solteiro,0,Médio,2258,Autônomo,0,Pessoal,4578,37,Ruim,Sim,300
+CLI000625,31,Feminino,Solteiro,1,Médio,2665,CLT,9,Veículo,25513,44,Bom,Não,850
+CLI000626,45,Feminino,Casado,1,Médio,3129,CLT,20,Veículo,44956,38,Regular,Sim,622
+CLI000627,54,Feminino,Viúvo,3,Superior,5629,Servidor Público,6,Cartão,3909,12,Bom,Não,850
+CLI000628,26,Masculino,Casado,1,Superior,4152,CLT,0,Pessoal,5003,25,Ruim,Não,490
+CLI000629,35,Feminino,Solteiro,1,Médio,2381,Autônomo,8,Veículo,47301,27,Bom,Sim,632
+CLI000630,27,Feminino,Solteiro,2,Superior,4820,Autônomo,2,Consignado,3658,41,Ruim,Sim,302
+CLI000631,41,Masculino,Casado,1,Médio,1632,Autônomo,15,Pessoal,3984,35,Bom,Sim,588
+CLI000632,32,Masculino,Casado,0,Médio,2318,CLT,8,Pessoal,4170,21,Regular,Não,778
+CLI000633,28,Masculino,Casado,2,Médio,2218,CLT,4,Cartão,4436,11,Bom,Não,817
+CLI000634,65,Masculino,Casado,0,Superior,7179,Servidor Público,18,Pessoal,19986,19,Regular,Não,793
+CLI000635,45,Masculino,Solteiro,2,Médio,3106,Servidor Público,15,Cartão,3373,9,Regular,Não,782
+CLI000636,56,Masculino,Solteiro,1,Médio,2801,CLT,19,Veículo,59818,24,Bom,Não,827
+CLI000637,48,Masculino,Viúvo,0,Pós-graduação,10385,Autônomo,10,Cartão,4123,7,Regular,Não,808
+CLI000638,62,Feminino,Viúvo,0,Médio,2797,CLT,30,Consignado,5368,19,Bom,Não,810
+CLI000639,46,Masculino,Casado,2,Pós-graduação,8969,Servidor Público,14,Cartão,3580,6,Regular,Não,841
+CLI000640,61,Feminino,Viúvo,0,Fundamental,2420,Servidor Público,28,Cartão,947,7,Bom,Não,850
+CLI000641,41,Masculino,Divorciado,0,Superior,4950,Servidor Público,15,Veículo,34580,44,Bom,Não,850
+CLI000642,75,Feminino,Divorciado,0,Pós-graduação,5209,Aposentado,0,Pessoal,4499,15,Regular,Não,775
+CLI000643,30,Masculino,Solteiro,0,Pós-graduação,8618,Servidor Público,7,Pessoal,4419,19,Regular,Não,850
+CLI000644,54,Feminino,Casado,3,Médio,2992,CLT,22,Pessoal,9682,23,Bom,Não,829
+CLI000645,71,Masculino,Viúvo,3,Superior,4104,Aposentado,0,Cartão,2372,7,Bom,Não,839
+CLI000646,56,Masculino,Solteiro,0,Médio,2675,CLT,8,Cartão,3461,11,Ruim,Não,467
+CLI000647,35,Masculino,Solteiro,1,Médio,2814,Servidor Público,15,Consignado,3490,14,Bom,Não,850
+CLI000648,26,Feminino,Casado,0,Médio,1377,Autônomo,5,Consignado,2851,48,Bom,Não,711
+CLI000649,40,Masculino,Divorciado,2,Superior,4821,Autônomo,10,Veículo,62722,48,Bom,Sim,672
+CLI000650,31,Feminino,Casado,0,Médio,2613,CLT,5,Pessoal,2388,16,Bom,Não,846
+CLI000651,55,Feminino,Solteiro,1,Superior,4066,CLT,15,Consignado,3283,17,Bom,Não,850
+CLI000652,21,Feminino,Solteiro,0,Superior,3962,Servidor Público,0,Veículo,45019,28,Regular,Sim,638
+CLI000653,20,Feminino,Casado,0,Superior,3674,CLT,0,Veículo,49681,30,Regular,Sim,599
+CLI000654,41,Masculino,Casado,3,Médio,2959,Autônomo,8,Pessoal,6342,24,Ruim,Sim,300
+CLI000655,26,Masculino,Solteiro,1,Superior,5755,Servidor Público,7,Cartão,2316,9,Bom,Não,850
+CLI000656,63,Feminino,Casado,2,Pós-graduação,7900,CLT,21,Pessoal,11829,33,Bom,Não,850
+CLI000657,22,Feminino,Casado,2,Médio,2249,CLT,2,Veículo,41092,44,Regular,Sim,578
+CLI000658,36,Masculino,Casado,2,Médio,3413,Servidor Público,13,Pessoal,4616,22,Regular,Não,773
+CLI000659,19,Masculino,Solteiro,0,Superior,4099,CLT,0,Veículo,56136,31,Bom,Não,849
+CLI000660,49,Feminino,Viúvo,3,Pós-graduação,7022,CLT,22,Cartão,4321,8,Regular,Não,824
+CLI000661,45,Feminino,Solteiro,1,Pós-graduação,5592,Autônomo,7,Cartão,2357,8,Regular,Não,766
+CLI000662,45,Masculino,Viúvo,1,Pós-graduação,7325,CLT,23,Veículo,25732,24,Bom,Não,850
+CLI000663,53,Feminino,Divorciado,3,Fundamental,2142,CLT,25,Cartão,4151,9,Ruim,Sim,326
+CLI000664,72,Feminino,Solteiro,1,Médio,2367,Aposentado,0,Consignado,6282,45,Bom,Não,791
+CLI000665,18,Masculino,Solteiro,0,Médio,2741,Servidor Público,0,Consignado,3112,25,Regular,Não,741
+CLI000666,33,Feminino,Casado,0,Superior,3996,CLT,2,Pessoal,10450,36,Bom,Não,850
+CLI000667,38,Feminino,Casado,3,Médio,1505,Autônomo,13,Pessoal,3847,32,Regular,Não,644
+CLI000668,44,Feminino,Divorciado,3,Médio,2296,Autônomo,10,Consignado,3545,35,Regular,Sim,550
+CLI000669,24,Masculino,Solteiro,1,Superior,3508,Autônomo,5,Cartão,3471,12,Ruim,Sim,300
+CLI000670,59,Masculino,Viúvo,0,Fundamental,2337,Servidor Público,4,Cartão,5258,10,Bom,Não,850
+CLI000671,71,Feminino,Solteiro,2,Pós-graduação,4994,Aposentado,0,Veículo,67417,47,Regular,Não,745
+CLI000672,64,Feminino,Casado,3,Superior,6149,Servidor Público,27,Pessoal,4805,42,Bom,Não,850
+CLI000673,37,Feminino,Solteiro,1,Superior,4329,CLT,16,Veículo,63161,36,Bom,Não,850
+CLI000674,73,Feminino,Casado,2,Médio,1853,Aposentado,0,Veículo,21283,28,Bom,Não,736
+CLI000675,71,Feminino,Casado,0,Fundamental,1157,Aposentado,0,Consignado,2239,14,Ruim,Sim,300
+CLI000676,33,Masculino,Solteiro,3,Superior,2704,Autônomo,12,Pessoal,8583,30,Bom,Sim,669
+CLI000677,41,Masculino,Casado,2,Médio,3789,Servidor Público,16,Veículo,21513,28,Bom,Não,850
+CLI000678,54,Feminino,Casado,2,Médio,2336,Autônomo,28,Pessoal,3788,33,Bom,Não,781
+CLI000679,23,Masculino,Solteiro,2,Superior,3609,Autônomo,4,Consignado,4143,16,Bom,Sim,657
+CLI000680,65,Feminino,Divorciado,1,Superior,5827,Autônomo,21,Cartão,5336,6,Ruim,Não,473
+CLI000681,60,Masculino,Divorciado,0,Fundamental,1599,CLT,2,Veículo,59759,39,Regular,Não,665
+CLI000682,43,Masculino,Viúvo,1,Superior,5656,Servidor Público,12,Consignado,2219,36,Ruim,Não,602
+CLI000683,63,Feminino,Solteiro,2,Superior,6629,Servidor Público,12,Cartão,690,6,Regular,Não,806
+CLI000684,31,Masculino,Solteiro,0,Superior,4052,Autônomo,12,Consignado,4938,48,Bom,Não,835
+CLI000685,75,Feminino,Casado,3,Pós-graduação,4665,Aposentado,0,Consignado,4170,22,Regular,Sim,571
+CLI000686,51,Feminino,Divorciado,2,Fundamental,2460,Servidor Público,30,Veículo,60784,31,Ruim,Sim,357
+CLI000687,75,Feminino,Solteiro,3,Fundamental,1492,Aposentado,0,Pessoal,3890,17,Regular,Sim,507
+CLI000688,67,Feminino,Divorciado,0,Fundamental,1255,Aposentado,0,Veículo,26284,25,Regular,Não,642
+CLI000689,57,Masculino,Divorciado,2,Superior,4012,CLT,21,Veículo,55701,39,Bom,Não,850
+CLI000690,27,Feminino,Solteiro,2,Médio,2762,Servidor Público,6,Cartão,1746,10,Ruim,Não,508
+CLI000691,21,Masculino,Solteiro,3,Médio,2031,CLT,0,Pessoal,1852,38,Bom,Não,837
+CLI000692,70,Masculino,Divorciado,3,Superior,3574,Aposentado,0,Pessoal,11180,20,Regular,Não,737
+CLI000693,29,Masculino,Casado,0,Superior,3038,CLT,0,Cartão,4512,8,Regular,Não,760
+CLI000694,63,Feminino,Viúvo,0,Pós-graduação,10214,Servidor Público,25,Pessoal,22735,38,Bom,Não,850
+CLI000695,22,Masculino,Casado,0,Superior,4025,Servidor Público,1,Pessoal,1625,32,Bom,Não,850
+CLI000696,27,Feminino,Casado,3,Superior,4258,Autônomo,1,Veículo,52710,48,Regular,Sim,541
+CLI000697,36,Masculino,Casado,2,Médio,2197,CLT,1,Cartão,3612,6,Regular,Não,772
+CLI000698,55,Feminino,Casado,3,Pós-graduação,8805,Autônomo,27,Veículo,57710,45,Ruim,Sim,332
+CLI000699,60,Feminino,Casado,0,Superior,4206,CLT,14,Pessoal,8010,19,Regular,Não,740
+CLI000700,74,Feminino,Solteiro,1,Pós-graduação,4542,Aposentado,0,Pessoal,3181,35,Ruim,Não,492
+CLI000701,75,Masculino,Solteiro,1,Superior,3433,Aposentado,0,Veículo,60782,31,Bom,Não,814
+CLI000702,51,Feminino,Casado,0,Fundamental,1930,CLT,5,Cartão,3634,7,Regular,Não,674
+CLI000703,49,Masculino,Casado,2,Médio,2525,Autônomo,2,Cartão,3761,10,Bom,Não,810
+CLI000704,52,Masculino,Solteiro,0,Fundamental,2721,Autônomo,28,Consignado,5363,28,Bom,Não,781
+CLI000705,74,Masculino,Viúvo,2,Pós-graduação,5196,Aposentado,0,Consignado,12052,45,Regular,Não,792
+CLI000706,48,Feminino,Solteiro,1,Médio,3145,CLT,12,Pessoal,7872,37,Bom,Não,850
+CLI000707,55,Feminino,Divorciado,0,Médio,2314,CLT,9,Cartão,3585,7,Bom,Não,847
+CLI000708,39,Feminino,Casado,3,Superior,3371,Autônomo,11,Pessoal,9098,29,Regular,Não,720
+CLI000709,69,Masculino,Casado,2,Pós-graduação,5100,Aposentado,0,Cartão,1882,8,Ruim,Não,514
+CLI000710,28,Masculino,Casado,3,Superior,3246,Autônomo,9,Pessoal,3147,36,Bom,Não,780
+CLI000711,33,Masculino,Solteiro,1,Médio,3441,Servidor Público,1,Veículo,52398,37,Regular,Sim,642
+CLI000712,64,Masculino,Divorciado,1,Pós-graduação,9836,Servidor Público,2,Cartão,1119,7,Regular,Não,811
+CLI000713,48,Masculino,Divorciado,2,Médio,3470,Servidor Público,10,Veículo,67503,25,Ruim,Sim,373
+CLI000714,41,Feminino,Divorciado,0,Médio,2342,CLT,20,Veículo,23619,32,Ruim,Sim,369
+CLI000715,40,Feminino,Solteiro,2,Pós-graduação,7718,Servidor Público,17,Consignado,13272,42,Bom,Não,850
+CLI000716,31,Masculino,Solteiro,3,Médio,3018,Autônomo,5,Veículo,22870,27,Regular,Não,698
+CLI000717,70,Masculino,Divorciado,2,Fundamental,1281,Aposentado,0,Consignado,3010,37,Regular,Sim,494
+CLI000718,66,Feminino,Divorciado,2,Pós-graduação,6511,Aposentado,0,Pessoal,8215,42,Bom,Não,850
+CLI000719,36,Feminino,Casado,1,Superior,5177,Servidor Público,9,Veículo,22491,33,Bom,Não,850
+CLI000720,28,Masculino,Casado,2,Médio,1261,Autônomo,2,Consignado,4140,13,Bom,Sim,554
+CLI000721,33,Masculino,Solteiro,1,Pós-graduação,5567,Autônomo,11,Cartão,3838,6,Bom,Não,850
+CLI000722,47,Masculino,Viúvo,1,Médio,3574,Autônomo,1,Pessoal,4936,17,Bom,Não,807
+CLI000723,68,Feminino,Divorciado,1,Superior,3683,Aposentado,0,Pessoal,7333,24,Bom,Não,812
+CLI000724,21,Feminino,Casado,0,Médio,1905,CLT,1,Pessoal,5057,29,Bom,Não,762
+CLI000725,73,Masculino,Viúvo,0,Médio,2113,Aposentado,0,Pessoal,4959,34,Bom,Não,796
+CLI000726,72,Feminino,Solteiro,0,Médio,1930,Aposentado,0,Consignado,3109,45,Bom,Não,759
+CLI000727,73,Feminino,Casado,3,Pós-graduação,4894,Aposentado,0,Consignado,9739,33,Regular,Não,754
+CLI000728,25,Masculino,Casado,3,Médio,3335,Autônomo,2,Consignado,7951,21,Bom,Não,763
+CLI000729,65,Masculino,Solteiro,0,Médio,2539,CLT,18,Pessoal,4400,38,Bom,Não,842
+CLI000730,48,Feminino,Viúvo,1,Médio,3446,Servidor Público,25,Veículo,30350,40,Bom,Não,850
+CLI000731,36,Feminino,Solteiro,2,Médio,1900,Autônomo,9,Veículo,39361,30,Ruim,Sim,300
+CLI000732,47,Masculino,Casado,2,Superior,4812,Autônomo,25,Consignado,3406,19,Bom,Não,815
+CLI000733,34,Feminino,Casado,3,Pós-graduação,8350,Autônomo,0,Consignado,2925,31,Ruim,Não,511
+CLI000734,34,Masculino,Casado,2,Médio,3180,Servidor Público,5,Pessoal,10409,39,Bom,Não,850
+CLI000735,64,Feminino,Solteiro,2,Superior,7190,Servidor Público,14,Pessoal,20315,12,Regular,Não,802
+CLI000736,18,Feminino,Solteiro,1,Superior,3379,CLT,0,Cartão,551,8,Ruim,Sim,340
+CLI000737,36,Masculino,Solteiro,0,Médio,2906,Servidor Público,0,Veículo,67260,43,Regular,Não,760
+CLI000738,38,Feminino,Solteiro,2,Superior,4528,Autônomo,15,Veículo,24555,40,Bom,Sim,684
+CLI000739,71,Masculino,Solteiro,3,Superior,3081,Aposentado,0,Cartão,3090,6,Regular,Não,706
+CLI000740,48,Masculino,Divorciado,0,Superior,5083,Servidor Público,21,Consignado,8926,31,Regular,Não,848
+CLI000741,21,Feminino,Solteiro,2,Médio,2308,CLT,0,Cartão,3903,10,Regular,Sim,596
+CLI000742,47,Feminino,Solteiro,3,Superior,4128,CLT,7,Pessoal,2518,35,Ruim,Não,526
+CLI000743,75,Feminino,Casado,3,Pós-graduação,5566,Aposentado,0,Cartão,673,9,Bom,Não,850
+CLI000744,49,Masculino,Solteiro,3,Superior,3830,CLT,7,Consignado,5983,28,Bom,Não,850
+CLI000745,35,Feminino,Solteiro,2,Superior,3915,Servidor Público,2,Veículo,63572,41,Bom,Não,850
+CLI000746,51,Feminino,Casado,2,Superior,3833,Autônomo,9,Consignado,9447,24,Regular,Sim,523
+CLI000747,67,Masculino,Casado,1,Fundamental,1459,Aposentado,0,Cartão,1477,8,Regular,Sim,520
+CLI000748,38,Masculino,Solteiro,3,Pós-graduação,5822,CLT,12,Veículo,24202,27,Regular,Não,834
+CLI000749,32,Feminino,Solteiro,3,Pós-graduação,7517,Servidor Público,5,Cartão,3999,10,Regular,Não,850
+CLI000750,44,Feminino,Viúvo,2,Médio,3099,Servidor Público,12,Pessoal,8759,41,Ruim,Não,544
+CLI000751,67,Feminino,Viúvo,3,Pós-graduação,4492,Aposentado,0,Consignado,2720,47,Regular,Não,755
+CLI000752,24,Masculino,Solteiro,2,Superior,3525,Autônomo,3,Cartão,1018,10,Regular,Não,708
+CLI000753,66,Feminino,Viúvo,1,Pós-graduação,5700,Aposentado,0,Cartão,2441,7,Bom,Não,850
+CLI000754,27,Feminino,Casado,3,Superior,3572,CLT,5,Pessoal,5541,16,Regular,Não,768
+CLI000755,40,Masculino,Solteiro,1,Pós-graduação,8704,Servidor Público,15,Consignado,5952,19,Regular,Não,848
+CLI000756,52,Masculino,Divorciado,2,Superior,4592,CLT,30,Cartão,1859,8,Regular,Não,763
+CLI000757,58,Feminino,Divorciado,1,Pós-graduação,8335,Autônomo,1,Consignado,8350,19,Bom,Não,840
+CLI000758,21,Feminino,Solteiro,0,Superior,3221,CLT,0,Veículo,41864,44,Bom,Sim,708
+CLI000759,69,Masculino,Divorciado,2,Pós-graduação,6358,Aposentado,0,Cartão,5303,12,Ruim,Sim,380
+CLI000760,66,Masculino,Viúvo,3,Médio,2027,Aposentado,0,Cartão,971,7,Ruim,Sim,300
+CLI000761,73,Feminino,Solteiro,1,Médio,1675,Aposentado,0,Veículo,58910,39,Regular,Sim,493
+CLI000762,60,Masculino,Solteiro,0,Fundamental,1913,CLT,3,Consignado,3720,40,Ruim,Sim,300
+CLI000763,31,Feminino,Casado,0,Superior,4051,CLT,4,Veículo,26742,38,Bom,Não,850
+CLI000764,31,Feminino,Solteiro,1,Médio,2401,Servidor Público,9,Veículo,33979,37,Regular,Não,797
+CLI000765,54,Masculino,Casado,2,Médio,2931,Servidor Público,16,Consignado,3492,20,Bom,Não,850
+CLI000766,32,Masculino,Solteiro,2,Médio,2475,CLT,12,Cartão,811,6,Ruim,Não,514
+CLI000767,72,Feminino,Viúvo,3,Superior,4033,Aposentado,0,Pessoal,2408,27,Bom,Sim,678
+CLI000768,33,Feminino,Solteiro,0,Superior,4126,Autônomo,10,Pessoal,7303,21,Ruim,Não,463
+CLI000769,19,Masculino,Solteiro,1,Médio,1858,CLT,0,Pessoal,1389,16,Ruim,Não,427
+CLI000770,58,Masculino,Divorciado,1,Superior,5541,Servidor Público,30,Cartão,3738,7,Regular,Não,817
+CLI000771,53,Feminino,Casado,1,Médio,2281,CLT,26,Cartão,3201,8,Ruim,Não,468
+CLI000772,62,Feminino,Viúvo,2,Fundamental,2840,Servidor Público,23,Cartão,2625,12,Regular,Não,765
+CLI000773,24,Feminino,Solteiro,1,Médio,2609,Servidor Público,0,Pessoal,6383,39,Bom,Não,832
+CLI000774,42,Feminino,Divorciado,0,Médio,2358,CLT,3,Pessoal,5657,37,Ruim,Sim,348
+CLI000775,74,Masculino,Casado,0,Pós-graduação,6146,Aposentado,0,Veículo,62876,25,Bom,Não,850
+CLI000776,31,Masculino,Solteiro,3,Superior,5824,Servidor Público,7,Pessoal,11422,15,Bom,Não,850
+CLI000777,30,Feminino,Solteiro,2,Pós-graduação,6638,Autônomo,2,Cartão,1870,12,Ruim,Não,543
+CLI000778,56,Masculino,Solteiro,2,Pós-graduação,5545,Autônomo,5,Consignado,8818,27,Regular,Não,766
+CLI000779,35,Masculino,Solteiro,3,Médio,2420,CLT,9,Cartão,3640,9,Bom,Não,850
+CLI000780,61,Feminino,Divorciado,2,Pós-graduação,5471,Autônomo,30,Veículo,58696,33,Bom,Sim,712
+CLI000781,30,Feminino,Solteiro,2,Médio,2426,Autônomo,10,Veículo,49426,47,Bom,Não,785
+CLI000782,45,Feminino,Divorciado,2,Pós-graduação,6080,Autônomo,26,Cartão,5167,8,Bom,Não,850
+CLI000783,53,Masculino,Solteiro,2,Médio,2308,Autônomo,3,Cartão,1835,11,Ruim,Sim,300
+CLI000784,51,Feminino,Solteiro,1,Superior,3708,CLT,13,Pessoal,7590,28,Ruim,Não,513
+CLI000785,66,Masculino,Divorciado,2,Médio,1803,Aposentado,0,Pessoal,4720,28,Bom,Não,755
+CLI000786,29,Masculino,Casado,1,Superior,4280,Servidor Público,3,Cartão,2751,8,Regular,Não,768
+CLI000787,72,Masculino,Solteiro,3,Superior,3891,Aposentado,0,Cartão,4941,8,Bom,Não,801
+CLI000788,69,Masculino,Solteiro,1,Pós-graduação,4733,Aposentado,0,Cartão,1430,7,Regular,Sim,571
+CLI000789,34,Feminino,Solteiro,3,Superior,4735,Autônomo,10,Consignado,6102,22,Bom,Não,817
+CLI000790,68,Masculino,Casado,2,Fundamental,1504,Aposentado,0,Consignado,3818,24,Bom,Não,765
+CLI000791,44,Feminino,Divorciado,1,Superior,4836,Servidor Público,7,Veículo,29524,45,Ruim,Sim,399
+CLI000792,19,Masculino,Solteiro,0,Médio,2526,Servidor Público,0,Pessoal,6898,16,Bom,Não,848
+CLI000793,32,Masculino,Casado,1,Médio,2931,Autônomo,6,Consignado,6660,25,Bom,Não,799
+CLI000794,39,Masculino,Solteiro,1,Superior,3984,Servidor Público,16,Pessoal,1853,25,Regular,Não,819
+CLI000795,64,Feminino,Viúvo,2,Médio,3391,CLT,30,Veículo,37413,31,Bom,Não,826
+CLI000796,22,Feminino,Solteiro,0,Médio,1859,Autônomo,3,Pessoal,2647,23,Bom,Não,701
+CLI000797,46,Masculino,Casado,3,Pós-graduação,10509,Servidor Público,0,Consignado,17337,16,Bom,Não,850
+CLI000798,42,Masculino,Divorciado,1,Médio,3978,Autônomo,14,Veículo,65897,26,Ruim,Sim,300
+CLI000799,49,Feminino,Viúvo,0,Médio,3715,Autônomo,13,Pessoal,6878,30,Ruim,Sim,300
+CLI000800,36,Masculino,Casado,3,Médio,1856,CLT,16,Cartão,1935,10,Ruim,Não,462
+CLI000801,33,Masculino,Solteiro,2,Superior,5136,Servidor Público,12,Veículo,32844,39,Bom,Não,850
+CLI000802,73,Feminino,Viúvo,1,Superior,3491,Aposentado,0,Consignado,3614,42,Bom,Não,818
+CLI000803,59,Feminino,Divorciado,1,Pós-graduação,9114,Autônomo,30,Pessoal,9926,34,Bom,Não,837
+CLI000804,56,Feminino,Solteiro,0,Pós-graduação,8372,CLT,21,Veículo,30594,40,Bom,Não,850
+CLI000805,40,Masculino,Divorciado,0,Superior,4403,Autônomo,3,Veículo,50542,42,Bom,Não,832
+CLI000806,57,Feminino,Casado,1,Fundamental,1531,Autônomo,22,Cartão,1832,6,Regular,Não,638
+CLI000807,34,Masculino,Solteiro,2,Superior,5569,Servidor Público,12,Pessoal,14046,32,Bom,Não,850
+CLI000808,28,Masculino,Solteiro,2,Superior,4400,CLT,9,Consignado,6532,19,Regular,Não,763
+CLI000809,27,Masculino,Casado,3,Superior,3955,CLT,1,Cartão,2969,8,Ruim,Não,508
+CLI000810,34,Feminino,Solteiro,2,Superior,4389,Servidor Público,13,Veículo,54046,26,Regular,Não,793
+CLI000811,66,Feminino,Solteiro,1,Superior,3674,Aposentado,0,Veículo,49919,47,Regular,Sim,559
+CLI000812,23,Feminino,Casado,2,Superior,2823,Autônomo,3,Cartão,2973,9,Bom,Não,771
+CLI000813,49,Feminino,Viúvo,0,Médio,3870,Servidor Público,11,Pessoal,6356,15,Bom,Não,850
+CLI000814,34,Masculino,Casado,2,Pós-graduação,5793,CLT,6,Pessoal,5234,23,Ruim,Sim,436
+CLI000815,30,Feminino,Solteiro,3,Superior,3789,CLT,0,Veículo,26622,25,Bom,Não,850
+CLI000816,35,Masculino,Casado,1,Superior,4942,Servidor Público,9,Consignado,8656,34,Bom,Não,850
+CLI000817,29,Masculino,Solteiro,2,Médio,2295,Autônomo,5,Veículo,52294,37,Regular,Sim,510
+CLI000818,20,Masculino,Solteiro,0,Superior,3854,CLT,1,Consignado,2108,39,Bom,Não,850
+CLI000819,66,Masculino,Divorciado,0,Fundamental,1194,Aposentado,0,Pessoal,4021,36,Bom,Sim,604
+CLI000820,75,Feminino,Viúvo,3,Superior,3628,Aposentado,0,Cartão,794,12,Bom,Sim,663
+CLI000821,59,Feminino,Divorciado,1,Fundamental,1984,CLT,30,Cartão,2545,12,Regular,Não,672
+CLI000822,21,Masculino,Solteiro,0,Superior,3223,CLT,2,Veículo,20015,30,Bom,Sim,707
+CLI000823,75,Feminino,Casado,3,Fundamental,1274,Aposentado,0,Veículo,61019,43,Ruim,Sim,300
+CLI000824,45,Masculino,Casado,0,Superior,4632,Autônomo,19,Pessoal,3169,28,Bom,Não,821
+CLI000825,19,Feminino,Casado,3,Médio,2677,CLT,0,Veículo,23855,36,Bom,Sim,680
+CLI000826,30,Masculino,Solteiro,1,Médio,1722,Autônomo,0,Consignado,4146,21,Regular,Não,638
+CLI000827,49,Feminino,Solteiro,0,Superior,6692,Servidor Público,20,Consignado,6935,40,Ruim,Sim,429
+CLI000828,71,Feminino,Casado,3,Pós-graduação,6329,Aposentado,0,Cartão,5060,7,Bom,Não,850
+CLI000829,42,Feminino,Solteiro,3,Superior,4185,CLT,0,Consignado,2566,43,Bom,Não,850
+CLI000830,39,Masculino,Casado,0,Superior,3727,Autônomo,6,Veículo,48337,31,Bom,Não,808
+CLI000831,33,Feminino,Casado,1,Superior,2775,Autônomo,0,Consignado,7298,42,Bom,Não,829
+CLI000832,57,Masculino,Casado,2,Médio,2567,Autônomo,6,Pessoal,3192,12,Bom,Não,751
+CLI000833,74,Feminino,Solteiro,3,Superior,3979,Aposentado,0,Veículo,66067,30,Bom,Não,840
+CLI000834,62,Masculino,Casado,2,Médio,3864,Servidor Público,27,Consignado,2403,13,Bom,Não,850
+CLI000835,75,Feminino,Solteiro,2,Médio,2013,Aposentado,0,Veículo,54470,26,Ruim,Sim,313
+CLI000836,57,Masculino,Solteiro,3,Médio,3754,Autônomo,29,Cartão,586,9,Bom,Não,767
+CLI000837,24,Masculino,Casado,2,Médio,2428,CLT,4,Pessoal,4117,17,Bom,Não,840
+CLI000838,18,Feminino,Casado,1,Médio,1667,Autônomo,0,Veículo,65614,43,Bom,Sim,556
+CLI000839,31,Feminino,Solteiro,1,Superior,4627,Autônomo,11,Veículo,37099,38,Ruim,Sim,315
+CLI000840,62,Feminino,Casado,1,Fundamental,2253,Servidor Público,9,Consignado,5941,31,Regular,Não,733
+CLI000841,38,Feminino,Solteiro,0,Médio,1875,CLT,12,Consignado,4393,25,Regular,Não,711
+CLI000842,18,Masculino,Solteiro,1,Superior,4199,Autônomo,0,Cartão,1287,11,Ruim,Sim,300
+CLI000843,39,Masculino,Casado,1,Médio,2698,Servidor Público,0,Pessoal,6790,29,Bom,Não,850
+CLI000844,50,Feminino,Divorciado,3,Pós-graduação,9089,Servidor Público,27,Consignado,16881,18,Bom,Não,850
+CLI000845,64,Feminino,Solteiro,2,Médio,2628,Autônomo,30,Cartão,3521,11,Ruim,Sim,300
+CLI000846,22,Masculino,Solteiro,1,Superior,5588,Servidor Público,1,Veículo,34855,25,Ruim,Sim,415
+CLI000847,28,Masculino,Casado,3,Médio,2430,Autônomo,8,Veículo,65134,24,Bom,Não,773
+CLI000848,40,Masculino,Solteiro,2,Pós-graduação,5883,CLT,19,Veículo,39971,42,Regular,Não,845
+CLI000849,45,Masculino,Casado,1,Médio,3092,CLT,13,Veículo,68381,24,Bom,Não,850
+CLI000850,35,Masculino,Casado,3,Médio,2787,Servidor Público,9,Veículo,51663,28,Regular,Não,796
+CLI000851,41,Feminino,Divorciado,2,Médio,2561,Autônomo,0,Cartão,1207,9,Ruim,Não,461
+CLI000852,68,Feminino,Casado,3,Pós-graduação,6475,Aposentado,0,Consignado,13218,40,Bom,Não,850
+CLI000853,71,Feminino,Solteiro,1,Fundamental,1506,Aposentado,0,Cartão,1782,12,Bom,Não,739
+CLI000854,37,Feminino,Solteiro,0,Superior,3520,CLT,11,Consignado,8540,14,Regular,Não,786
+CLI000855,33,Masculino,Solteiro,1,Superior,3332,CLT,2,Pessoal,6527,32,Bom,Não,850
+CLI000856,66,Masculino,Solteiro,0,Pós-graduação,5175,Aposentado,0,Cartão,5254,6,Regular,Não,793
+CLI000857,56,Masculino,Casado,0,Médio,2564,Autônomo,26,Veículo,59848,43,Bom,Não,755
+CLI000858,73,Feminino,Solteiro,0,Pós-graduação,6564,Aposentado,0,Veículo,43276,33,Bom,Não,850
+CLI000859,69,Feminino,Divorciado,2,Médio,1700,Aposentado,0,Cartão,2261,12,Ruim,Sim,300
+CLI000860,30,Masculino,Solteiro,2,Médio,3238,Servidor Público,9,Consignado,2244,14,Regular,Não,772
+CLI000861,21,Feminino,Solteiro,0,Superior,2709,Autônomo,1,Cartão,5387,6,Regular,Não,671
+CLI000862,28,Feminino,Casado,2,Superior,5672,Servidor Público,8,Consignado,5003,26,Regular,Não,812
+CLI000863,65,Feminino,Solteiro,1,Médio,2284,Autônomo,25,Cartão,1535,12,Ruim,Não,435
+CLI000864,40,Feminino,Viúvo,1,Médio,2911,Autônomo,11,Veículo,63642,40,Regular,Sim,564
+CLI000865,26,Masculino,Solteiro,0,Médio,3161,Autônomo,7,Cartão,3540,12,Regular,Sim,502
+CLI000866,63,Masculino,Divorciado,3,Médio,3626,Servidor Público,30,Consignado,2528,27,Regular,Não,768
+CLI000867,27,Feminino,Solteiro,1,Médio,3058,Servidor Público,2,Veículo,26287,44,Ruim,Não,509
+CLI000868,29,Feminino,Casado,3,Médio,1378,Autônomo,3,Pessoal,5071,22,Bom,Não,717
+CLI000869,51,Masculino,Casado,2,Superior,3682,CLT,21,Cartão,2352,7,Bom,Não,834
+CLI000870,28,Feminino,Solteiro,3,Médio,1627,Autônomo,7,Pessoal,3183,33,Bom,Não,706
+CLI000871,45,Feminino,Viúvo,1,Superior,4391,CLT,22,Cartão,5248,12,Regular,Não,795
+CLI000872,31,Feminino,Solteiro,2,Médio,1691,Autônomo,3,Veículo,51473,40,Bom,Não,763
+CLI000873,29,Masculino,Solteiro,0,Superior,2728,Autônomo,2,Pessoal,6903,12,Bom,Não,788
+CLI000874,36,Masculino,Solteiro,2,Pós-graduação,7667,Servidor Público,5,Pessoal,4101,34,Bom,Não,850
+CLI000875,38,Feminino,Casado,3,Médio,2366,Servidor Público,8,Pessoal,2275,23,Bom,Não,850
+CLI000876,37,Feminino,Casado,0,Superior,4036,CLT,11,Cartão,2398,6,Bom,Não,850
+CLI000877,42,Feminino,Viúvo,1,Pós-graduação,7935,CLT,4,Cartão,3193,12,Ruim,Não,601
+CLI000878,58,Feminino,Solteiro,3,Fundamental,1821,CLT,4,Cartão,5425,7,Ruim,Sim,300
+CLI000879,63,Masculino,Solteiro,2,Pós-graduação,9510,Servidor Público,21,Pessoal,9380,34,Regular,Não,828
+CLI000880,28,Feminino,Casado,3,Superior,3182,Autônomo,7,Veículo,33747,37,Bom,Não,786
+CLI000881,18,Feminino,Casado,2,Superior,5204,Servidor Público,0,Pessoal,7251,27,Regular,Não,817
+CLI000882,65,Feminino,Viúvo,0,Pós-graduação,7533,CLT,5,Consignado,15197,48,Bom,Não,850
+CLI000883,49,Feminino,Casado,1,Superior,4188,CLT,3,Consignado,5000,15,Bom,Não,850
+CLI000884,38,Feminino,Solteiro,1,Pós-graduação,7187,CLT,5,Cartão,2372,9,Bom,Não,850
+CLI000885,44,Feminino,Casado,0,Pós-graduação,8138,CLT,4,Cartão,2951,6,Ruim,Não,601
+CLI000886,38,Masculino,Solteiro,1,Superior,4464,CLT,5,Pessoal,13993,34,Bom,Não,850
+CLI000887,26,Masculino,Solteiro,2,Médio,2729,Servidor Público,1,Pessoal,7747,18,Regular,Não,744
+CLI000888,64,Masculino,Casado,1,Superior,5856,CLT,11,Veículo,47442,37,Regular,Sim,638
+CLI000889,50,Masculino,Casado,2,Superior,4144,Autônomo,11,Veículo,25384,27,Regular,Sim,557
+CLI000890,43,Masculino,Solteiro,1,Superior,4837,CLT,19,Pessoal,9264,33,Bom,Não,850
+CLI000891,18,Feminino,Solteiro,2,Superior,3687,CLT,0,Pessoal,3367,17,Bom,Não,845
+CLI000892,53,Feminino,Casado,3,Médio,3902,Servidor Público,28,Pessoal,11112,18,Regular,Não,731
+CLI000893,58,Masculino,Divorciado,0,Médio,4425,Servidor Público,24,Cartão,3646,10,Bom,Não,850
+CLI000894,21,Masculino,Solteiro,3,Superior,3949,CLT,1,Pessoal,8745,27,Ruim,Sim,347
+CLI000895,73,Masculino,Casado,3,Fundamental,1248,Aposentado,0,Consignado,4440,22,Regular,Sim,502
+CLI000896,66,Masculino,Divorciado,3,Superior,4049,Aposentado,0,Consignado,9018,17,Ruim,Sim,317
+CLI000897,69,Masculino,Casado,0,Fundamental,1633,Aposentado,0,Veículo,52957,33,Regular,Sim,514
+CLI000898,48,Feminino,Divorciado,1,Superior,5744,Servidor Público,27,Veículo,30159,43,Bom,Sim,788
+CLI000899,23,Feminino,Solteiro,3,Médio,2366,Servidor Público,1,Cartão,3344,12,Ruim,Sim,356
+CLI000900,29,Masculino,Solteiro,3,Médio,2483,Servidor Público,8,Cartão,3391,10,Ruim,Não,500
+CLI000901,48,Feminino,Casado,3,Médio,2644,Autônomo,21,Pessoal,6520,18,Regular,Sim,545
+CLI000902,58,Masculino,Solteiro,1,Fundamental,1777,CLT,27,Pessoal,1261,38,Bom,Não,772
+CLI000903,31,Feminino,Casado,0,Pós-graduação,6218,Autônomo,12,Veículo,20528,47,Regular,Não,766
+CLI000904,19,Masculino,Solteiro,2,Médio,2404,Autônomo,0,Consignado,5254,13,Ruim,Sim,300
+CLI000905,37,Feminino,Solteiro,2,Superior,5193,Servidor Público,0,Consignado,10111,36,Bom,Não,850
+CLI000906,38,Masculino,Solteiro,3,Superior,4406,Servidor Público,4,Cartão,695,8,Regular,Não,813
+CLI000907,29,Masculino,Solteiro,1,Superior,3030,Autônomo,9,Veículo,49033,33,Regular,Sim,555
+CLI000908,40,Masculino,Divorciado,1,Médio,1871,CLT,16,Consignado,4625,27,Bom,Não,824
+CLI000909,22,Masculino,Casado,1,Superior,4722,Autônomo,1,Consignado,4445,48,Bom,Sim,634
+CLI000910,28,Feminino,Casado,3,Superior,3063,Autônomo,2,Cartão,2326,11,Bom,Não,782
+CLI000911,59,Feminino,Casado,2,Superior,4632,CLT,8,Veículo,25728,35,Regular,Sim,604
+CLI000912,33,Masculino,Solteiro,0,Médio,2674,CLT,12,Pessoal,2559,20,Ruim,Não,523
+CLI000913,37,Masculino,Solteiro,1,Pós-graduação,5210,CLT,5,Cartão,1670,7,Bom,Não,850
+CLI000914,62,Masculino,Viúvo,1,Pós-graduação,6597,CLT,30,Cartão,5253,8,Regular,Não,790
+CLI000915,51,Feminino,Divorciado,3,Pós-graduação,7790,CLT,5,Consignado,2593,41,Bom,Não,850
+CLI000916,28,Feminino,Casado,1,Superior,2331,Autônomo,8,Consignado,3760,39,Ruim,Não,420
+CLI000917,62,Masculino,Divorciado,1,Pós-graduação,8648,Autônomo,14,Pessoal,8891,17,Regular,Sim,609
+CLI000918,53,Feminino,Solteiro,1,Superior,3790,Autônomo,28,Pessoal,2638,36,Bom,Não,796
+CLI000919,58,Feminino,Casado,3,Fundamental,2266,CLT,30,Pessoal,5331,14,Bom,Não,849
+CLI000920,44,Masculino,Casado,2,Médio,2187,CLT,24,Consignado,5422,14,Regular,Não,752
+CLI000921,48,Feminino,Solteiro,0,Pós-graduação,8240,CLT,29,Consignado,2395,15,Bom,Não,850
+CLI000922,63,Feminino,Viúvo,0,Fundamental,2924,Servidor Público,11,Cartão,4801,6,Regular,Não,752
+CLI000923,40,Feminino,Casado,2,Médio,1924,CLT,8,Pessoal,5751,24,Regular,Sim,577
+CLI000924,53,Masculino,Casado,3,Fundamental,1996,Servidor Público,23,Veículo,29972,24,Bom,Sim,645
+CLI000925,45,Feminino,Solteiro,3,Pós-graduação,6228,CLT,23,Consignado,11694,19,Bom,Não,850
+CLI000926,56,Masculino,Solteiro,1,Fundamental,2136,CLT,13,Consignado,4758,20,Ruim,Não,465
+CLI000927,33,Feminino,Solteiro,2,Superior,4543,Autônomo,8,Cartão,4390,7,Bom,Não,816
+CLI000928,52,Feminino,Casado,0,Médio,3401,Autônomo,12,Cartão,1485,7,Bom,Não,780
+CLI000929,63,Feminino,Solteiro,0,Pós-graduação,8935,CLT,28,Cartão,1464,8,Ruim,Não,567
+CLI000930,74,Masculino,Casado,1,Pós-graduação,6053,Aposentado,0,Pessoal,16270,16,Bom,Não,850
+CLI000931,39,Feminino,Casado,3,Superior,3261,CLT,3,Cartão,1106,10,Bom,Não,850
+CLI000932,64,Masculino,Divorciado,1,Médio,3305,CLT,18,Veículo,25465,42,Regular,Não,711
+CLI000933,55,Masculino,Casado,2,Superior,5429,Servidor Público,30,Veículo,66426,34,Bom,Sim,761
+CLI000934,66,Feminino,Divorciado,1,Médio,2244,Aposentado,0,Cartão,3161,10,Bom,Não,781
+CLI000935,51,Masculino,Viúvo,2,Superior,6066,Autônomo,7,Veículo,42417,47,Ruim,Sim,339
+CLI000936,38,Feminino,Solteiro,3,Superior,3091,CLT,10,Cartão,4222,10,Ruim,Não,541
+CLI000937,40,Feminino,Divorciado,0,Superior,5463,Autônomo,11,Veículo,37831,25,Bom,Sim,729
+CLI000938,22,Masculino,Casado,0,Superior,4416,Servidor Público,0,Pessoal,3443,25,Ruim,Não,526
+CLI000939,48,Masculino,Viúvo,3,Médio,3402,Servidor Público,22,Cartão,1403,11,Ruim,Não,523
+CLI000940,25,Masculino,Solteiro,0,Médio,2916,Servidor Público,2,Veículo,29757,41,Bom,Não,850
+CLI000941,67,Feminino,Casado,2,Médio,1883,Aposentado,0,Veículo,35299,27,Regular,Sim,520
+CLI000942,30,Feminino,Solteiro,3,Médio,2002,Autônomo,8,Veículo,60593,40,Bom,Não,787
+CLI000943,49,Feminino,Viúvo,3,Superior,3607,CLT,18,Cartão,3282,10,Bom,Não,850
+CLI000944,38,Masculino,Solteiro,1,Pós-graduação,8125,Servidor Público,3,Pessoal,11149,18,Ruim,Não,617
+CLI000945,71,Masculino,Viúvo,2,Pós-graduação,5137,Aposentado,0,Veículo,26822,39,Regular,Sim,639
+CLI000946,28,Masculino,Solteiro,2,Superior,4257,Servidor Público,9,Pessoal,11071,42,Regular,Não,753
+CLI000947,43,Feminino,Divorciado,3,Pós-graduação,5427,Autônomo,4,Consignado,6295,17,Ruim,Não,513
+CLI000948,51,Masculino,Viúvo,1,Fundamental,2197,Servidor Público,19,Cartão,1214,9,Regular,Não,758
+CLI000949,70,Feminino,Casado,1,Fundamental,1512,Aposentado,0,Consignado,3517,19,Regular,Sim,492
+CLI000950,60,Masculino,Viúvo,1,Pós-graduação,9109,CLT,3,Veículo,49247,46,Ruim,Sim,406
+CLI000951,42,Masculino,Solteiro,3,Médio,2578,CLT,7,Cartão,4194,6,Bom,Não,850
+CLI000952,60,Feminino,Viúvo,0,Pós-graduação,10728,Servidor Público,10,Cartão,2754,12,Regular,Não,850
+CLI000953,27,Feminino,Solteiro,0,Médio,3143,Servidor Público,6,Cartão,4749,10,Ruim,Não,482
+CLI000954,73,Masculino,Casado,1,Superior,2975,Aposentado,0,Cartão,4631,8,Bom,Não,820
+CLI000955,33,Masculino,Solteiro,3,Pós-graduação,5415,CLT,8,Pessoal,12396,41,Bom,Não,850
+CLI000956,20,Masculino,Solteiro,2,Médio,1611,Autônomo,0,Cartão,4625,10,Bom,Não,708
+CLI000957,70,Feminino,Solteiro,0,Pós-graduação,6220,Aposentado,0,Consignado,4692,17,Regular,Não,779
+CLI000958,31,Feminino,Solteiro,2,Superior,4671,Servidor Público,6,Cartão,5077,10,Ruim,Não,539
+CLI000959,54,Masculino,Divorciado,1,Pós-graduação,7197,Autônomo,28,Pessoal,9235,16,Ruim,Não,506
+CLI000960,75,Masculino,Solteiro,2,Superior,3621,Aposentado,0,Veículo,65248,37,Ruim,Sim,302
+CLI000961,40,Masculino,Casado,3,Médio,1926,CLT,21,Veículo,49761,37,Bom,Não,818
+CLI000962,54,Feminino,Casado,1,Fundamental,1810,Autônomo,5,Veículo,29091,42,Regular,Sim,480
+CLI000963,39,Masculino,Casado,2,Superior,3109,CLT,19,Veículo,41071,42,Bom,Sim,747
+CLI000964,51,Feminino,Casado,0,Fundamental,1764,CLT,17,Consignado,5411,47,Ruim,Sim,300
+CLI000965,60,Masculino,Divorciado,3,Superior,5629,CLT,2,Cartão,4879,11,Bom,Não,850
+CLI000966,38,Feminino,Casado,0,Pós-graduação,6851,CLT,19,Pessoal,20649,36,Bom,Não,850
+CLI000967,25,Masculino,Solteiro,1,Superior,4583,Autônomo,2,Pessoal,1294,23,Regular,Não,705
+CLI000968,66,Feminino,Divorciado,1,Pós-graduação,6563,Aposentado,0,Cartão,2215,7,Regular,Não,773
+CLI000969,61,Masculino,Divorciado,0,Fundamental,2465,Servidor Público,25,Consignado,2039,23,Bom,Não,850
+CLI000970,23,Masculino,Solteiro,2,Médio,2515,Servidor Público,4,Veículo,23811,32,Regular,Sim,605
+CLI000971,36,Feminino,Casado,2,Superior,3681,Autônomo,6,Pessoal,4002,36,Ruim,Não,473
+CLI000972,46,Masculino,Divorciado,3,Superior,2370,Autônomo,8,Pessoal,7447,30,Bom,Sim,659
+CLI000973,69,Feminino,Solteiro,1,Pós-graduação,6040,Aposentado,0,Consignado,7022,18,Bom,Não,850
+CLI000974,60,Masculino,Viúvo,2,Pós-graduação,6248,Autônomo,28,Veículo,35694,47,Ruim,Não,489
+CLI000975,49,Feminino,Casado,3,Médio,4210,Servidor Público,14,Cartão,5124,10,Bom,Não,850
+CLI000976,74,Feminino,Casado,2,Médio,1758,Aposentado,0,Cartão,3246,11,Regular,Sim,500
+CLI000977,26,Feminino,Casado,0,Superior,3178,Autônomo,5,Cartão,2747,12,Ruim,Não,445
+CLI000978,47,Feminino,Viúvo,2,Médio,3713,Servidor Público,13,Veículo,52002,30,Ruim,Não,519
+CLI000979,47,Feminino,Viúvo,3,Pós-graduação,9874,Autônomo,28,Pessoal,24372,22,Ruim,Não,524
+CLI000980,32,Feminino,Solteiro,2,Médio,2334,Autônomo,7,Cartão,3911,7,Regular,Não,717
+CLI000981,19,Masculino,Solteiro,0,Superior,4430,Servidor Público,0,Veículo,43493,27,Bom,Não,850
+CLI000982,36,Feminino,Casado,1,Superior,5348,Servidor Público,13,Pessoal,6020,13,Bom,Não,850
+CLI000983,73,Masculino,Divorciado,0,Médio,1992,Aposentado,0,Cartão,4083,10,Bom,Não,737
+CLI000984,18,Masculino,Casado,1,Superior,5839,Servidor Público,0,Cartão,1687,6,Regular,Não,808
+CLI000985,74,Masculino,Solteiro,2,Médio,2066,Aposentado,0,Consignado,4346,23,Regular,Não,688
+CLI000986,33,Feminino,Casado,3,Superior,3584,CLT,12,Pessoal,9643,32,Bom,Não,850
+CLI000987,34,Masculino,Casado,3,Superior,5524,Servidor Público,7,Veículo,68537,34,Bom,Não,850
+CLI000988,68,Feminino,Casado,1,Médio,2271,Aposentado,0,Consignado,5757,38,Bom,Não,814
+CLI000989,32,Masculino,Solteiro,1,Superior,3066,CLT,13,Consignado,7612,46,Regular,Não,774
+CLI000990,64,Masculino,Casado,2,Pós-graduação,8212,Autônomo,30,Pessoal,11809,42,Bom,Não,850
+CLI000991,28,Masculino,Casado,3,Médio,3450,Servidor Público,6,Veículo,46407,34,Ruim,Não,520
+CLI000992,51,Masculino,Divorciado,0,Pós-graduação,10501,Servidor Público,0,Veículo,59352,35,Regular,Não,850
+CLI000993,62,Feminino,Viúvo,3,Fundamental,2092,Autônomo,14,Consignado,4006,36,Bom,Não,759
+CLI000994,35,Feminino,Casado,1,Médio,3460,Autônomo,13,Pessoal,1887,40,Ruim,Não,432
+CLI000995,68,Feminino,Casado,3,Superior,3280,Aposentado,0,Veículo,54556,48,Regular,Sim,587
+CLI000996,55,Feminino,Divorciado,2,Superior,4742,Servidor Público,7,Veículo,46373,25,Regular,Não,774
+CLI000997,44,Feminino,Divorciado,2,Superior,4826,CLT,17,Consignado,4889,17,Regular,Não,782
+CLI000998,24,Masculino,Solteiro,1,Médio,1627,Autônomo,4,Consignado,4167,18,Bom,Sim,558
+CLI000999,53,Masculino,Viúvo,3,Médio,2781,Autônomo,26,Cartão,2149,6,Regular,Sim,536
+CLI001000,40,Masculino,Casado,2,Superior,4576,Servidor Público,16,Veículo,51596,33,Bom,Não,850
+CLI001001,73,Masculino,Casado,3,Pós-graduação,5973,Aposentado,0,Veículo,30437,41,Bom,Não,850
+CLI001002,51,Masculino,Viúvo,0,Fundamental,1841,Autônomo,19,Consignado,5255,38,Ruim,Sim,300
+CLI001003,20,Masculino,Solteiro,3,Médio,1797,Autônomo,0,Pessoal,1207,36,Ruim,Sim,300
+CLI001004,18,Masculino,Solteiro,3,Médio,2517,CLT,0,Veículo,60682,37,Bom,Não,811
+CLI001005,74,Masculino,Divorciado,0,Médio,1675,Aposentado,0,Pessoal,4307,20,Bom,Não,763
+CLI001006,48,Feminino,Divorciado,1,Pós-graduação,10651,Servidor Público,3,Veículo,44862,45,Bom,Não,850
+CLI001007,73,Masculino,Viúvo,0,Médio,2337,Aposentado,0,Pessoal,7957,30,Bom,Não,801
+CLI001008,53,Masculino,Viúvo,1,Superior,4712,Servidor Público,15,Consignado,6216,18,Bom,Não,850
+CLI001009,39,Feminino,Solteiro,1,Médio,2608,Servidor Público,15,Pessoal,1583,13,Regular,Não,781
+CLI001010,32,Feminino,Casado,0,Pós-graduação,7268,Autônomo,8,Consignado,4943,30,Ruim,Sim,360
+CLI001011,72,Feminino,Divorciado,2,Fundamental,1398,Aposentado,0,Pessoal,3874,40,Ruim,Sim,300
+CLI001012,36,Feminino,Casado,1,Superior,3975,Autônomo,15,Veículo,42013,43,Bom,Sim,654
+CLI001013,26,Masculino,Casado,0,Médio,2107,CLT,2,Consignado,2412,36,Bom,Não,838
+CLI001014,74,Masculino,Solteiro,2,Pós-graduação,4665,Aposentado,0,Pessoal,6132,38,Bom,Não,850
+CLI001015,45,Feminino,Divorciado,1,Médio,2828,Servidor Público,20,Consignado,3955,25,Bom,Não,850
+CLI001016,67,Feminino,Solteiro,3,Fundamental,1552,Aposentado,0,Consignado,2051,22,Bom,Não,754
+CLI001017,70,Masculino,Divorciado,3,Pós-graduação,6575,Aposentado,0,Pessoal,9484,37,Regular,Sim,621
+CLI001018,33,Masculino,Solteiro,3,Pós-graduação,6169,CLT,5,Veículo,27096,24,Regular,Não,849
+CLI001019,75,Masculino,Solteiro,2,Pós-graduação,5271,Aposentado,0,Veículo,66762,43,Bom,Não,850
+CLI001020,20,Masculino,Casado,2,Médio,3159,Autônomo,0,Pessoal,3338,37,Bom,Não,778
+CLI001021,28,Feminino,Solteiro,2,Superior,4693,Autônomo,4,Consignado,8277,39,Ruim,Não,440
+CLI001022,43,Masculino,Solteiro,2,Médio,3905,Servidor Público,11,Pessoal,3691,42,Ruim,Não,531
+CLI001023,34,Feminino,Solteiro,3,Médio,2984,Autônomo,14,Consignado,5898,37,Bom,Não,808
+CLI001024,69,Feminino,Divorciado,1,Superior,3758,Aposentado,0,Veículo,67290,41,Regular,Sim,567
+CLI001025,41,Masculino,Solteiro,2,Pós-graduação,9071,Servidor Público,14,Veículo,36610,40,Bom,Não,850
+CLI001026,36,Feminino,Casado,0,Superior,5549,Servidor Público,5,Veículo,28401,47,Bom,Não,850
+CLI001027,32,Masculino,Solteiro,0,Pós-graduação,7823,Autônomo,7,Consignado,9092,14,Bom,Não,850
+CLI001028,61,Feminino,Casado,0,Fundamental,2224,CLT,7,Cartão,3370,12,Bom,Não,838
+CLI001029,27,Masculino,Casado,0,Superior,4221,Autônomo,2,Veículo,57789,44,Bom,Sim,637
+CLI001030,43,Feminino,Solteiro,0,Médio,1514,Autônomo,8,Consignado,3501,43,Regular,Não,656
+CLI001031,72,Masculino,Divorciado,2,Pós-graduação,5350,Aposentado,0,Veículo,36573,47,Bom,Sim,717
+CLI001032,33,Feminino,Casado,1,Pós-graduação,8470,Servidor Público,4,Veículo,23609,29,Bom,Não,850
+CLI001033,37,Masculino,Solteiro,1,Médio,3466,Servidor Público,18,Consignado,5922,39,Ruim,Não,526
+CLI001034,66,Masculino,Divorciado,0,Fundamental,1158,Aposentado,0,Cartão,5304,12,Bom,Sim,608
+CLI001035,33,Feminino,Solteiro,1,Médio,2636,CLT,8,Cartão,3520,11,Bom,Não,850
+CLI001036,40,Masculino,Divorciado,3,Pós-graduação,5210,Autônomo,4,Cartão,2634,10,Bom,Não,850
+CLI001037,69,Feminino,Divorciado,1,Superior,3750,Aposentado,0,Cartão,4444,6,Regular,Não,733
+CLI001038,25,Masculino,Solteiro,0,Médio,2203,CLT,1,Cartão,1751,9,Bom,Não,825
+CLI001039,74,Masculino,Solteiro,0,Fundamental,1154,Aposentado,0,Veículo,51727,33,Bom,Sim,602
+CLI001040,70,Feminino,Casado,0,Médio,2189,Aposentado,0,Cartão,3145,10,Regular,Não,702
+CLI001041,68,Masculino,Solteiro,1,Fundamental,1638,Aposentado,0,Veículo,66172,25,Regular,Sim,516
+CLI001042,64,Feminino,Divorciado,2,Pós-graduação,8361,Autônomo,29,Cartão,3864,7,Bom,Não,850
+CLI001043,61,Masculino,Solteiro,0,Médio,4052,Servidor Público,14,Cartão,4334,6,Regular,Não,733
+CLI001044,38,Masculino,Solteiro,0,Médio,3016,Servidor Público,17,Cartão,4427,11,Bom,Não,850
+CLI001045,20,Masculino,Solteiro,0,Médio,2991,Servidor Público,1,Veículo,36318,37,Ruim,Sim,365
+CLI001046,42,Masculino,Viúvo,3,Superior,4521,CLT,3,Pessoal,10541,17,Ruim,Sim,385
+CLI001047,46,Masculino,Viúvo,1,Superior,3513,Autônomo,22,Consignado,3850,19,Ruim,Sim,328
+CLI001048,48,Feminino,Divorciado,0,Pós-graduação,7506,CLT,12,Cartão,4538,9,Bom,Não,850
+CLI001049,28,Masculino,Casado,3,Médio,2689,CLT,7,Consignado,2078,44,Bom,Não,836
+CLI001050,30,Masculino,Solteiro,1,Médio,2981,Servidor Público,10,Veículo,24119,26,Ruim,Sim,393
+CLI001051,50,Feminino,Solteiro,0,Fundamental,2445,Autônomo,18,Pessoal,2258,24,Bom,Não,818
+CLI001052,55,Feminino,Divorciado,3,Médio,2847,Servidor Público,30,Consignado,6261,48,Bom,Não,832
+CLI001053,48,Masculino,Solteiro,0,Médio,1744,Autônomo,2,Veículo,25941,30,Bom,Não,739
+CLI001054,26,Masculino,Casado,1,Médio,3095,Autônomo,0,Veículo,33369,42,Regular,Sim,529
+CLI001055,32,Masculino,Casado,0,Pós-graduação,6459,CLT,0,Cartão,5092,7,Bom,Não,850
+CLI001056,23,Feminino,Casado,0,Superior,2993,Autônomo,3,Veículo,45844,24,Ruim,Sim,300
+CLI001057,65,Feminino,Solteiro,0,Médio,2671,Autônomo,30,Veículo,47546,34,Ruim,Sim,300
+CLI001058,35,Feminino,Casado,3,Pós-graduação,8598,Autônomo,3,Consignado,10816,25,Bom,Não,850
+CLI001059,30,Masculino,Solteiro,1,Superior,2473,Autônomo,11,Pessoal,6257,28,Ruim,Sim,310
+CLI001060,72,Feminino,Viúvo,0,Pós-graduação,4625,Aposentado,0,Veículo,55503,41,Bom,Não,850
+CLI001061,52,Feminino,Solteiro,3,Médio,4001,Servidor Público,22,Veículo,25240,43,Bom,Sim,714
+CLI001062,24,Masculino,Casado,0,Superior,5145,Servidor Público,1,Consignado,5966,38,Regular,Não,827
+CLI001063,37,Feminino,Casado,1,Médio,2446,Servidor Público,11,Veículo,40841,32,Bom,Não,850
+CLI001064,23,Masculino,Casado,3,Médio,2353,Autônomo,3,Cartão,3900,8,Regular,Sim,537
+CLI001065,46,Feminino,Viúvo,2,Médio,4170,Servidor Público,0,Veículo,26014,31,Ruim,Sim,381
+CLI001066,69,Feminino,Viúvo,1,Superior,3169,Aposentado,0,Cartão,4837,8,Bom,Não,836
+CLI001067,51,Masculino,Viúvo,2,Superior,5179,CLT,30,Consignado,3671,21,Regular,Não,774
+CLI001068,22,Masculino,Casado,2,Médio,2268,CLT,1,Cartão,2832,12,Ruim,Sim,340
+CLI001069,22,Masculino,Casado,3,Superior,5305,Autônomo,1,Veículo,36167,32,Regular,Sim,588
+CLI001070,54,Feminino,Divorciado,3,Médio,2685,Autônomo,26,Cartão,1566,10,Regular,Sim,515
+CLI001071,27,Feminino,Solteiro,1,Médio,2620,CLT,1,Veículo,29720,36,Bom,Não,810
+CLI001072,56,Masculino,Divorciado,3,Pós-graduação,8495,CLT,7,Consignado,16964,39,Bom,Não,850
+CLI001073,43,Feminino,Casado,0,Superior,4703,Servidor Público,9,Consignado,8529,46,Regular,Não,786
+CLI001074,66,Masculino,Solteiro,3,Fundamental,1206,Aposentado,0,Consignado,4322,32,Ruim,Não,393
+CLI001075,74,Masculino,Solteiro,2,Médio,2137,Aposentado,0,Cartão,4491,9,Bom,Não,801
+CLI001076,40,Masculino,Casado,3,Pós-graduação,7829,Servidor Público,12,Cartão,1850,10,Ruim,Sim,452
+CLI001077,31,Masculino,Casado,0,Médio,1146,Autônomo,0,Pessoal,2738,32,Regular,Não,665
+CLI001078,19,Masculino,Solteiro,2,Superior,2609,Autônomo,0,Consignado,3476,33,Regular,Não,691
+CLI001079,24,Feminino,Solteiro,0,Superior,2701,Autônomo,1,Veículo,60463,25,Bom,Sim,644
+CLI001080,52,Feminino,Casado,2,Superior,4874,CLT,26,Consignado,5484,41,Bom,Não,850
+CLI001081,70,Feminino,Casado,2,Fundamental,1162,Aposentado,0,Pessoal,1824,39,Bom,Sim,594
+CLI001082,55,Masculino,Casado,2,Pós-graduação,8493,Servidor Público,5,Veículo,28315,38,Regular,Não,825
+CLI001083,68,Feminino,Solteiro,0,Fundamental,1557,Aposentado,0,Consignado,3385,34,Ruim,Não,391
+CLI001084,71,Feminino,Solteiro,3,Fundamental,1625,Aposentado,0,Pessoal,5241,38,Bom,Não,737
+CLI001085,69,Feminino,Casado,1,Superior,4050,Aposentado,0,Pessoal,9568,14,Regular,Sim,554
+CLI001086,30,Feminino,Casado,0,Médio,2796,Servidor Público,10,Consignado,3740,13,Bom,Não,850
+CLI001087,41,Masculino,Solteiro,0,Médio,2277,CLT,11,Consignado,6384,32,Regular,Não,773
+CLI001088,54,Masculino,Divorciado,3,Médio,2539,CLT,6,Veículo,66206,39,Ruim,Sim,336
+CLI001089,34,Feminino,Solteiro,1,Médio,2436,Autônomo,1,Cartão,1687,11,Bom,Não,789
+CLI001090,68,Feminino,Casado,2,Médio,2329,Aposentado,0,Consignado,2654,43,Regular,Não,694
+CLI001091,42,Masculino,Viúvo,3,Médio,3017,Servidor Público,18,Pessoal,5939,23,Ruim,Não,520
+CLI001092,75,Feminino,Divorciado,0,Superior,3092,Aposentado,0,Cartão,1512,10,Bom,Não,831
+CLI001093,29,Feminino,Casado,2,Superior,4408,Servidor Público,4,Veículo,29840,24,Bom,Sim,715
+CLI001094,65,Masculino,Solteiro,1,Superior,5714,CLT,30,Consignado,7066,19,Bom,Não,850
+CLI001095,51,Feminino,Solteiro,1,Médio,2531,CLT,24,Consignado,4399,12,Bom,Não,849
+CLI001096,49,Masculino,Casado,1,Médio,2428,CLT,26,Veículo,65693,47,Bom,Não,850
+CLI001097,60,Feminino,Casado,3,Fundamental,3051,Autônomo,10,Veículo,33495,44,Bom,Não,766
+CLI001098,26,Feminino,Solteiro,0,Superior,4459,CLT,7,Pessoal,11663,33,Bom,Não,846
+CLI001099,40,Feminino,Viúvo,0,Médio,1864,CLT,13,Consignado,4380,20,Bom,Não,791
+CLI001100,38,Masculino,Solteiro,0,Médio,2007,Autônomo,12,Cartão,4657,7,Bom,Não,792
+CLI001101,18,Feminino,Solteiro,3,Médio,2897,Servidor Público,0,Pessoal,3218,24,Ruim,Sim,368
+CLI001102,26,Feminino,Solteiro,1,Médio,2635,CLT,2,Veículo,26793,32,Regular,Não,727
+CLI001103,35,Masculino,Casado,1,Pós-graduação,6445,CLT,6,Cartão,1759,9,Bom,Não,850
+CLI001104,56,Feminino,Viúvo,2,Médio,4629,Servidor Público,18,Pessoal,9949,22,Ruim,Não,514
+CLI001105,41,Masculino,Viúvo,0,Superior,5371,Servidor Público,16,Pessoal,7663,37,Bom,Não,850
+CLI001106,52,Masculino,Casado,3,Pós-graduação,11250,Autônomo,21,Cartão,535,9,Ruim,Não,530
+CLI001107,22,Feminino,Solteiro,2,Médio,2611,Autônomo,3,Cartão,2685,8,Bom,Sim,629
+CLI001108,33,Masculino,Casado,3,Pós-graduação,6083,CLT,1,Cartão,5021,8,Bom,Não,850
+CLI001109,49,Feminino,Divorciado,2,Superior,5392,CLT,26,Cartão,4376,8,Bom,Não,850
+CLI001110,25,Masculino,Casado,2,Superior,4245,Servidor Público,0,Pessoal,10859,21,Regular,Não,762
+CLI001111,33,Masculino,Solteiro,1,Superior,3334,CLT,7,Veículo,58850,40,Regular,Não,769
+CLI001112,31,Masculino,Solteiro,2,Pós-graduação,5218,CLT,12,Consignado,2598,14,Regular,Não,844
+CLI001113,69,Masculino,Divorciado,1,Médio,2280,Aposentado,0,Consignado,3034,42,Ruim,Não,455
+CLI001114,71,Feminino,Viúvo,1,Fundamental,1127,Aposentado,0,Pessoal,1572,29,Regular,Sim,507
+CLI001115,20,Masculino,Solteiro,3,Superior,3335,CLT,0,Veículo,65706,40,Bom,Não,850
+CLI001116,37,Feminino,Casado,2,Pós-graduação,4569,Autônomo,18,Cartão,718,9,Bom,Não,843
+CLI001117,75,Masculino,Casado,2,Pós-graduação,5534,Aposentado,0,Consignado,3160,26,Bom,Não,850
+CLI001118,27,Feminino,Solteiro,0,Médio,1962,Autônomo,2,Consignado,4818,47,Bom,Não,736
+CLI001119,26,Masculino,Solteiro,0,Médio,2944,Autônomo,0,Cartão,2682,7,Bom,Sim,635
+CLI001120,62,Feminino,Solteiro,3,Médio,3359,CLT,27,Cartão,4747,11,Ruim,Não,478
+CLI001121,21,Feminino,Solteiro,0,Superior,4443,CLT,0,Veículo,29645,27,Regular,Sim,595
+CLI001122,32,Masculino,Solteiro,2,Médio,3097,Servidor Público,1,Cartão,1608,10,Regular,Não,773
+CLI001123,41,Masculino,Divorciado,2,Médio,3311,Autônomo,0,Consignado,8289,25,Regular,Sim,536
+CLI001124,58,Feminino,Solteiro,3,Superior,5232,Servidor Público,1,Cartão,2765,6,Bom,Não,850
+CLI001125,58,Masculino,Viúvo,3,Fundamental,2735,Servidor Público,30,Pessoal,8323,42,Bom,Não,850
+CLI001126,36,Feminino,Solteiro,2,Superior,3113,CLT,2,Cartão,4240,10,Bom,Não,850
+CLI001127,27,Masculino,Casado,3,Superior,3359,CLT,1,Cartão,1428,11,Regular,Não,741
+CLI001128,56,Feminino,Viúvo,0,Fundamental,2321,CLT,17,Consignado,6299,34,Ruim,Sim,326
+CLI001129,65,Masculino,Divorciado,0,Fundamental,2422,Servidor Público,24,Pessoal,2974,13,Ruim,Não,508
+CLI001130,44,Feminino,Casado,0,Pós-graduação,10762,Servidor Público,9,Veículo,41501,45,Bom,Não,850
+CLI001131,64,Feminino,Divorciado,0,Médio,3015,Autônomo,23,Pessoal,1808,19,Regular,Não,683
+CLI001132,59,Masculino,Divorciado,0,Fundamental,2629,Autônomo,16,Consignado,3607,15,Ruim,Não,401
+CLI001133,30,Feminino,Solteiro,1,Superior,4708,Servidor Público,0,Veículo,55859,29,Bom,Sim,751
+CLI001134,71,Masculino,Viúvo,2,Pós-graduação,5706,Aposentado,0,Cartão,5160,9,Regular,Não,767
+CLI001135,71,Feminino,Viúvo,3,Superior,3073,Aposentado,0,Consignado,3616,31,Regular,Não,739
+CLI001136,58,Masculino,Viúvo,2,Médio,4042,Servidor Público,22,Consignado,2299,34,Regular,Não,765
+CLI001137,48,Masculino,Casado,0,Superior,3656,Autônomo,19,Pessoal,7814,19,Regular,Não,730
+CLI001138,49,Feminino,Casado,1,Médio,3030,CLT,3,Pessoal,3288,13,Ruim,Não,496
+CLI001139,51,Masculino,Casado,3,Pós-graduação,6129,CLT,11,Consignado,6719,16,Regular,Não,809
+CLI001140,54,Masculino,Casado,1,Pós-graduação,10076,Servidor Público,6,Pessoal,14677,42,Regular,Não,850
+CLI001141,19,Feminino,Solteiro,3,Superior,5082,Autônomo,0,Consignado,10043,19,Regular,Não,711
+CLI001142,49,Masculino,Casado,3,Superior,4830,Servidor Público,8,Cartão,792,7,Ruim,Não,555
+CLI001143,23,Feminino,Solteiro,2,Superior,4741,Autônomo,4,Veículo,22336,28,Regular,Sim,536
+CLI001144,63,Feminino,Divorciado,0,Fundamental,2232,Servidor Público,30,Cartão,4906,8,Regular,Sim,598
+CLI001145,30,Feminino,Casado,0,Médio,2303,Autônomo,8,Consignado,4217,32,Regular,Não,692
+CLI001146,34,Masculino,Casado,3,Superior,5328,Servidor Público,3,Cartão,4451,11,Bom,Não,850
+CLI001147,52,Masculino,Divorciado,2,Médio,2893,Servidor Público,27,Consignado,7304,32,Bom,Não,850
+CLI001148,41,Feminino,Casado,1,Pós-graduação,9640,Servidor Público,20,Cartão,999,9,Bom,Não,850
+CLI001149,37,Masculino,Solteiro,1,Médio,2448,Autônomo,3,Pessoal,7000,32,Regular,Não,707
+CLI001150,18,Masculino,Solteiro,3,Médio,2495,Servidor Público,0,Consignado,5800,48,Ruim,Sim,335
+CLI001151,36,Masculino,Casado,2,Superior,4177,Servidor Público,17,Consignado,8312,32,Bom,Não,850
+CLI001152,18,Masculino,Solteiro,0,Médio,2795,Autônomo,0,Veículo,38518,31,Bom,Não,774
+CLI001153,30,Feminino,Solteiro,2,Superior,2060,Autônomo,6,Cartão,5087,11,Regular,Não,707
+CLI001154,55,Masculino,Solteiro,0,Fundamental,2599,Servidor Público,7,Cartão,4767,7,Ruim,Não,494
+CLI001155,39,Masculino,Solteiro,0,Superior,3478,CLT,12,Cartão,1281,12,Regular,Não,763
+CLI001156,34,Masculino,Casado,2,Médio,2863,Servidor Público,5,Veículo,20894,38,Ruim,Não,521
+CLI001157,62,Masculino,Divorciado,0,Médio,3453,CLT,30,Consignado,3952,47,Bom,Não,817
+CLI001158,20,Feminino,Casado,3,Superior,2883,Autônomo,0,Pessoal,5675,40,Bom,Não,784
+CLI001159,51,Feminino,Divorciado,3,Fundamental,1535,CLT,30,Veículo,25408,33,Regular,Sim,519
+CLI001160,29,Feminino,Solteiro,2,Superior,5782,Servidor Público,7,Consignado,12012,25,Regular,Não,790
+CLI001161,45,Feminino,Divorciado,0,Médio,2841,Autônomo,14,Veículo,25720,35,Bom,Sim,631
+CLI001162,49,Masculino,Viúvo,1,Pós-graduação,5894,Autônomo,22,Cartão,4848,8,Ruim,Não,531
+CLI001163,18,Masculino,Solteiro,1,Médio,2947,Servidor Público,0,Cartão,1376,12,Bom,Não,837
+CLI001164,73,Feminino,Casado,0,Superior,4096,Aposentado,0,Pessoal,1640,25,Bom,Não,822
+CLI001165,47,Feminino,Solteiro,3,Médio,2208,CLT,8,Cartão,790,12,Bom,Não,841
+CLI001166,36,Masculino,Solteiro,0,Superior,3514,CLT,17,Consignado,8195,22,Ruim,Não,545
+CLI001167,36,Masculino,Casado,1,Pós-graduação,5607,CLT,11,Consignado,8092,18,Ruim,Não,609
+CLI001168,57,Feminino,Viúvo,3,Médio,4472,Servidor Público,2,Veículo,51657,42,Regular,Não,758
+CLI001169,41,Masculino,Solteiro,1,Médio,2183,CLT,15,Pessoal,6653,15,Regular,Não,750
+CLI001170,32,Masculino,Casado,3,Superior,4878,Autônomo,8,Cartão,3366,10,Regular,Não,732
+CLI001171,28,Feminino,Casado,2,Médio,1828,Autônomo,4,Cartão,3816,7,Bom,Não,735
+CLI001172,74,Masculino,Divorciado,0,Pós-graduação,6430,Aposentado,0,Consignado,7104,23,Bom,Não,850
+CLI001173,54,Feminino,Viúvo,1,Fundamental,1868,Autônomo,28,Veículo,28024,30,Regular,Sim,489
+CLI001174,71,Feminino,Divorciado,3,Pós-graduação,6332,Aposentado,0,Consignado,11067,33,Regular,Não,793
+CLI001175,39,Feminino,Solteiro,2,Pós-graduação,6847,CLT,12,Consignado,6006,37,Bom,Não,850
+CLI001176,68,Feminino,Solteiro,1,Fundamental,1574,Aposentado,0,Cartão,1975,6,Ruim,Não,417
+CLI001177,33,Masculino,Casado,3,Pós-graduação,6889,Servidor Público,13,Veículo,60443,47,Regular,Não,850
+CLI001178,48,Masculino,Solteiro,3,Pós-graduação,5798,Autônomo,13,Consignado,12506,26,Ruim,Sim,395
+CLI001179,64,Feminino,Solteiro,2,Médio,3339,Servidor Público,23,Consignado,5008,22,Bom,Não,850
+CLI001180,58,Feminino,Divorciado,2,Superior,4675,Autônomo,15,Cartão,2214,9,Regular,Não,691
+CLI001181,30,Feminino,Casado,2,Médio,2621,CLT,2,Consignado,5809,46,Regular,Não,770
+CLI001182,41,Masculino,Divorciado,0,Pós-graduação,10205,Servidor Público,20,Veículo,49691,42,Bom,Não,850
+CLI001183,53,Feminino,Divorciado,3,Pós-graduação,4753,Autônomo,29,Consignado,4438,24,Regular,Não,713
+CLI001184,49,Feminino,Viúvo,3,Médio,2795,Autônomo,27,Cartão,3066,12,Bom,Não,791
+CLI001185,31,Masculino,Casado,3,Médio,2339,CLT,11,Cartão,1412,9,Bom,Não,850
+CLI001186,48,Feminino,Casado,2,Pós-graduação,7178,CLT,23,Veículo,31650,29,Regular,Sim,670
+CLI001187,60,Masculino,Casado,1,Fundamental,1054,Autônomo,12,Pessoal,2521,21,Regular,Não,638
+CLI001188,74,Masculino,Viúvo,3,Médio,2160,Aposentado,0,Consignado,4928,12,Ruim,Sim,300
+CLI001189,57,Masculino,Divorciado,0,Pós-graduação,12218,Servidor Público,28,Veículo,29054,35,Ruim,Não,604
+CLI001190,39,Masculino,Solteiro,2,Superior,3528,CLT,11,Cartão,925,7,Bom,Não,850
+CLI001191,29,Masculino,Casado,0,Médio,2245,Autônomo,0,Cartão,5039,8,Ruim,Sim,300
+CLI001192,40,Masculino,Viúvo,0,Pós-graduação,7380,Servidor Público,20,Consignado,5959,32,Regular,Não,850
+CLI001193,49,Feminino,Casado,1,Pós-graduação,6257,Autônomo,14,Consignado,8319,37,Ruim,Não,541
+CLI001194,68,Masculino,Solteiro,3,Superior,3868,Aposentado,0,Veículo,24125,30,Bom,Sim,689
+CLI001195,40,Feminino,Solteiro,1,Pós-graduação,5458,CLT,15,Pessoal,4218,17,Bom,Não,850
+CLI001196,31,Masculino,Casado,2,Pós-graduação,6052,CLT,5,Cartão,3469,12,Regular,Não,847
+CLI001197,28,Feminino,Casado,0,Médio,2608,CLT,6,Veículo,50242,29,Bom,Não,818
+CLI001198,30,Masculino,Solteiro,0,Médio,3092,Servidor Público,5,Veículo,34981,47,Ruim,Não,515
+CLI001199,35,Feminino,Casado,2,Superior,3610,CLT,6,Veículo,69132,26,Ruim,Sim,400
+CLI001200,42,Masculino,Viúvo,1,Pós-graduação,8080,Servidor Público,4,Pessoal,22838,18,Bom,Não,850
+CLI001201,24,Feminino,Solteiro,3,Superior,4428,Servidor Público,1,Veículo,23292,29,Regular,Não,764
+CLI001202,53,Masculino,Solteiro,3,Médio,4022,Servidor Público,23,Cartão,3215,9,Bom,Não,850
+CLI001203,61,Feminino,Solteiro,1,Superior,5162,Autônomo,30,Cartão,3108,10,Regular,Não,729
+CLI001204,55,Masculino,Solteiro,2,Médio,2171,CLT,0,Pessoal,5900,22,Ruim,Não,491
+CLI001205,19,Masculino,Casado,3,Superior,4791,Servidor Público,0,Cartão,1383,12,Bom,Não,850
+CLI001206,75,Feminino,Casado,0,Superior,3432,Aposentado,0,Cartão,1429,8,Ruim,Sim,300
+CLI001207,24,Masculino,Solteiro,1,Médio,1219,Autônomo,1,Pessoal,2562,23,Ruim,Sim,300
+CLI001208,26,Masculino,Solteiro,1,Médio,2588,Servidor Público,7,Consignado,4660,15,Ruim,Não,490
+CLI001209,37,Masculino,Casado,0,Pós-graduação,6083,Autônomo,7,Veículo,68261,29,Regular,Não,767
+CLI001210,63,Feminino,Solteiro,1,Superior,7693,Servidor Público,30,Pessoal,17904,20,Regular,Não,801
+CLI001211,35,Masculino,Solteiro,2,Pós-graduação,5048,CLT,3,Consignado,8858,39,Bom,Não,850
+CLI001212,40,Feminino,Casado,0,Superior,4074,Servidor Público,16,Consignado,6334,24,Regular,Não,796
+CLI001213,44,Masculino,Solteiro,1,Médio,3728,Servidor Público,18,Pessoal,6575,31,Bom,Não,850
+CLI001214,74,Masculino,Viúvo,0,Pós-graduação,5503,Aposentado,0,Consignado,11308,36,Bom,Não,850
+CLI001215,61,Masculino,Divorciado,3,Superior,7711,Servidor Público,18,Pessoal,17809,17,Ruim,Não,566
+CLI001216,64,Feminino,Solteiro,2,Superior,5752,CLT,30,Pessoal,13319,18,Bom,Não,850
+CLI001217,52,Feminino,Solteiro,0,Superior,5009,CLT,24,Veículo,56775,38,Bom,Não,850
+CLI001218,46,Feminino,Viúvo,1,Superior,3854,Autônomo,14,Pessoal,1914,26,Bom,Não,818
+CLI001219,44,Masculino,Casado,3,Médio,3810,Servidor Público,23,Veículo,23590,27,Bom,Não,850
+CLI001220,66,Masculino,Solteiro,2,Pós-graduação,5604,Aposentado,0,Cartão,5375,11,Ruim,Sim,396
+CLI001221,71,Masculino,Viúvo,1,Superior,3887,Aposentado,0,Cartão,1135,10,Bom,Não,811
+CLI001222,64,Feminino,Solteiro,0,Fundamental,2186,CLT,30,Pessoal,1203,35,Ruim,Sim,332
+CLI001223,69,Masculino,Solteiro,2,Pós-graduação,6422,Aposentado,0,Consignado,4237,27,Bom,Não,850
+CLI001224,70,Feminino,Divorciado,3,Médio,2139,Aposentado,0,Pessoal,3967,17,Ruim,Sim,306
+CLI001225,68,Feminino,Casado,3,Superior,3272,Aposentado,0,Consignado,4192,44,Bom,Não,836
+CLI001226,47,Feminino,Solteiro,3,Pós-graduação,7585,CLT,16,Veículo,41340,41,Bom,Sim,805
+CLI001227,65,Masculino,Casado,3,Médio,2588,CLT,17,Pessoal,8338,42,Bom,Não,850
+CLI001228,71,Masculino,Viúvo,2,Médio,2281,Aposentado,0,Consignado,4175,26,Regular,Sim,538
+CLI001229,63,Feminino,Casado,2,Médio,3271,CLT,30,Cartão,912,6,Regular,Não,712
+CLI001230,70,Feminino,Solteiro,0,Fundamental,1610,Aposentado,0,Veículo,27057,43,Bom,Sim,586
+CLI001231,60,Feminino,Viúvo,2,Médio,2389,CLT,11,Pessoal,4445,28,Bom,Não,841
+CLI001232,43,Feminino,Viúvo,3,Pós-graduação,9540,Autônomo,2,Cartão,3997,12,Bom,Não,850
+CLI001233,22,Masculino,Solteiro,1,Superior,3331,CLT,1,Cartão,5029,8,Ruim,Não,503
+CLI001234,59,Masculino,Solteiro,1,Fundamental,2638,Servidor Público,30,Cartão,5035,7,Ruim,Não,498
+CLI001235,65,Feminino,Casado,1,Superior,5644,CLT,2,Pessoal,6675,40,Bom,Não,850
+CLI001236,43,Feminino,Divorciado,1,Médio,2596,Autônomo,19,Pessoal,3949,28,Bom,Não,802
+CLI001237,28,Masculino,Solteiro,0,Médio,1872,Autônomo,8,Veículo,61743,48,Ruim,Sim,300
+CLI001238,25,Feminino,Casado,0,Médio,2441,Autônomo,4,Cartão,4807,8,Bom,Não,775
+CLI001239,65,Feminino,Solteiro,2,Fundamental,2534,Servidor Público,30,Consignado,4563,38,Bom,Não,850
+CLI001240,55,Masculino,Viúvo,1,Superior,5610,Servidor Público,3,Consignado,4450,24,Bom,Não,850
+CLI001241,66,Masculino,Divorciado,2,Fundamental,1257,Aposentado,0,Cartão,1132,11,Bom,Não,755
+CLI001242,46,Masculino,Viúvo,0,Médio,2825,CLT,7,Consignado,3981,24,Bom,Não,850
+CLI001243,69,Feminino,Viúvo,2,Superior,3587,Aposentado,0,Veículo,39614,47,Bom,Sim,652
+CLI001244,70,Masculino,Casado,1,Fundamental,1585,Aposentado,0,Consignado,2012,25,Bom,Não,757
+CLI001245,72,Feminino,Viúvo,3,Pós-graduação,4441,Aposentado,0,Cartão,3503,7,Bom,Não,848
+CLI001246,75,Masculino,Solteiro,0,Superior,3854,Aposentado,0,Consignado,3271,23,Regular,Sim,573
+CLI001247,70,Masculino,Casado,0,Fundamental,1233,Aposentado,0,Cartão,3982,6,Regular,Sim,515
+CLI001248,49,Feminino,Divorciado,2,Pós-graduação,8155,CLT,16,Veículo,44020,29,Bom,Sim,788
+CLI001249,68,Feminino,Viúvo,2,Superior,2951,Aposentado,0,Consignado,6338,39,Bom,Não,807
+CLI001250,39,Masculino,Casado,0,Superior,3791,Autônomo,1,Pessoal,1751,14,Bom,Não,825
+CLI001251,73,Masculino,Casado,1,Fundamental,1652,Aposentado,0,Consignado,4073,13,Bom,Não,750
+CLI001252,28,Feminino,Casado,2,Superior,3047,CLT,0,Consignado,4332,21,Bom,Não,840
+CLI001253,56,Feminino,Solteiro,0,Pós-graduação,7350,Autônomo,6,Cartão,1873,7,Bom,Não,850
+CLI001254,60,Feminino,Viúvo,0,Fundamental,3057,Servidor Público,30,Consignado,5745,22,Bom,Não,846
+CLI001255,36,Feminino,Solteiro,3,Pós-graduação,5903,Autônomo,3,Consignado,3171,48,Bom,Não,850
+CLI001256,27,Masculino,Casado,2,Superior,4403,CLT,8,Pessoal,8902,15,Regular,Sim,608
+CLI001257,29,Feminino,Solteiro,0,Superior,4187,Servidor Público,0,Pessoal,4155,23,Regular,Não,758
+CLI001258,40,Feminino,Solteiro,1,Médio,1621,Autônomo,14,Consignado,2154,12,Bom,Não,755
+CLI001259,50,Feminino,Viúvo,0,Superior,4857,CLT,10,Veículo,30117,30,Bom,Não,850
+CLI001260,57,Feminino,Divorciado,3,Médio,3658,Servidor Público,30,Pessoal,6646,30,Bom,Não,831
+CLI001261,71,Masculino,Casado,0,Fundamental,1517,Aposentado,0,Cartão,1804,9,Bom,Não,737
+CLI001262,65,Feminino,Solteiro,1,Pós-graduação,6430,CLT,30,Pessoal,20196,27,Bom,Não,850
+CLI001263,18,Feminino,Casado,2,Médio,1842,CLT,0,Cartão,1102,8,Bom,Não,784
+CLI001264,58,Feminino,Solteiro,1,Superior,6376,Servidor Público,9,Cartão,2406,6,Ruim,Não,576
+CLI001265,31,Feminino,Casado,0,Superior,4119,CLT,1,Consignado,5674,34,Bom,Não,850
+CLI001266,41,Masculino,Solteiro,2,Médio,2934,Servidor Público,12,Cartão,1486,11,Bom,Não,850
+CLI001267,44,Masculino,Divorciado,3,Pós-graduação,10514,Servidor Público,8,Consignado,5069,20,Ruim,Não,646
+CLI001268,68,Masculino,Divorciado,0,Pós-graduação,5055,Aposentado,0,Veículo,53225,44,Bom,Não,850
+CLI001269,41,Masculino,Divorciado,3,Pós-graduação,6523,CLT,18,Veículo,20337,28,Ruim,Sim,459
+CLI001270,21,Feminino,Solteiro,2,Médio,2088,CLT,1,Cartão,3778,10,Regular,Sim,580
+CLI001271,69,Masculino,Divorciado,2,Pós-graduação,5568,Aposentado,0,Pessoal,5466,14,Regular,Não,763
+CLI001272,70,Feminino,Viúvo,3,Pós-graduação,6165,Aposentado,0,Consignado,6297,36,Bom,Não,850
+CLI001273,62,Masculino,Casado,0,Superior,5173,Autônomo,7,Veículo,57932,26,Bom,Sim,698
+CLI001274,23,Masculino,Solteiro,3,Superior,3749,Autônomo,0,Cartão,3154,7,Bom,Sim,655
+CLI001275,39,Masculino,Casado,0,Superior,4164,Servidor Público,2,Cartão,4455,9,Bom,Não,850
+CLI001276,26,Masculino,Casado,0,Médio,1832,CLT,7,Pessoal,5269,41,Ruim,Não,442
+CLI001277,66,Masculino,Solteiro,3,Superior,3579,Aposentado,0,Cartão,2438,12,Bom,Não,808
+CLI001278,22,Feminino,Solteiro,2,Superior,4035,Autônomo,2,Veículo,44956,32,Bom,Sim,625
+CLI001279,27,Feminino,Casado,3,Superior,2452,Autônomo,4,Consignado,3575,35,Bom,Não,789
+CLI001280,60,Feminino,Solteiro,3,Superior,4312,CLT,30,Pessoal,11372,38,Ruim,Sim,337
+CLI001281,64,Masculino,Viúvo,1,Superior,5405,Autônomo,23,Veículo,26961,39,Ruim,Sim,334
+CLI001282,29,Feminino,Casado,1,Médio,2080,CLT,2,Veículo,41483,41,Regular,Sim,598
+CLI001283,39,Masculino,Casado,0,Pós-graduação,8903,Servidor Público,7,Consignado,4428,30,Ruim,Não,620
+CLI001284,23,Feminino,Solteiro,1,Superior,5013,Servidor Público,2,Pessoal,14358,42,Bom,Sim,744
+CLI001285,32,Masculino,Casado,2,Médio,3125,Servidor Público,10,Veículo,45971,28,Regular,Não,764
+CLI001286,37,Masculino,Solteiro,2,Médio,2658,CLT,1,Veículo,21281,34,Regular,Não,766
+CLI001287,35,Feminino,Solteiro,0,Médio,2341,CLT,1,Pessoal,7491,28,Bom,Não,850
+CLI001288,47,Masculino,Viúvo,2,Médio,3893,Autônomo,20,Consignado,7520,26,Regular,Não,681
+CLI001289,30,Feminino,Casado,2,Superior,3245,CLT,2,Veículo,40057,34,Bom,Não,850
+CLI001290,25,Masculino,Solteiro,2,Médio,3180,Servidor Público,3,Consignado,7094,21,Bom,Não,850
+CLI001291,75,Feminino,Divorciado,0,Pós-graduação,4711,Aposentado,0,Cartão,5234,8,Regular,Sim,584
+CLI001292,72,Feminino,Divorciado,3,Superior,3266,Aposentado,0,Cartão,3810,11,Bom,Não,818
+CLI001293,46,Feminino,Casado,0,Pós-graduação,8029,CLT,11,Cartão,549,6,Bom,Não,850
+CLI001294,28,Masculino,Casado,3,Médio,2319,CLT,9,Veículo,51188,32,Bom,Não,819
+CLI001295,43,Feminino,Casado,0,Médio,3376,Servidor Público,1,Veículo,64579,40,Ruim,Sim,375
+CLI001296,56,Feminino,Solteiro,0,Médio,2584,CLT,9,Pessoal,5656,12,Bom,Não,833
+CLI001297,51,Feminino,Solteiro,0,Superior,4995,CLT,18,Cartão,1103,9,Regular,Não,735
+CLI001298,71,Feminino,Divorciado,2,Médio,2474,Aposentado,0,Consignado,3689,14,Bom,Não,791
+CLI001299,43,Feminino,Divorciado,2,Superior,3785,CLT,22,Cartão,3589,8,Bom,Não,850
+CLI001300,31,Masculino,Solteiro,1,Superior,3832,Autônomo,6,Cartão,4693,8,Ruim,Não,455
+CLI001301,63,Feminino,Divorciado,0,Superior,5283,Autônomo,30,Pessoal,5960,39,Regular,Sim,581
+CLI001302,56,Feminino,Solteiro,1,Médio,4102,Servidor Público,27,Consignado,3619,19,Bom,Não,850
+CLI001303,70,Masculino,Solteiro,1,Pós-graduação,6566,Aposentado,0,Veículo,37139,24,Bom,Não,850
+CLI001304,28,Feminino,Solteiro,1,Superior,3368,CLT,8,Pessoal,9600,12,Bom,Não,850
+CLI001305,22,Masculino,Solteiro,3,Médio,2464,Autônomo,2,Consignado,2221,40,Regular,Sim,529
+CLI001306,41,Feminino,Casado,3,Superior,6985,Servidor Público,14,Pessoal,5854,41,Bom,Não,850
+CLI001307,29,Feminino,Solteiro,3,Superior,3370,CLT,1,Veículo,55575,42,Regular,Sim,605
+CLI001308,25,Masculino,Casado,3,Superior,3026,CLT,1,Veículo,62840,45,Bom,Não,848
+CLI001309,55,Feminino,Divorciado,2,Pós-graduação,7321,CLT,8,Veículo,54222,36,Regular,Sim,645
+CLI001310,61,Masculino,Divorciado,2,Pós-graduação,10753,Autônomo,30,Pessoal,3105,27,Ruim,Sim,392
+CLI001311,35,Masculino,Solteiro,0,Superior,3205,CLT,13,Pessoal,8324,41,Bom,Não,850
+CLI001312,50,Masculino,Viúvo,0,Superior,5075,Servidor Público,6,Consignado,6023,47,Ruim,Não,596
+CLI001313,30,Feminino,Casado,1,Médio,2413,CLT,8,Consignado,4442,24,Bom,Não,850
+CLI001314,54,Masculino,Divorciado,0,Superior,4041,CLT,7,Veículo,55739,43,Bom,Sim,689
+CLI001315,32,Feminino,Casado,1,Médio,2245,CLT,11,Pessoal,3162,20,Regular,Não,755
+CLI001316,59,Masculino,Solteiro,2,Fundamental,2194,Servidor Público,14,Veículo,65412,41,Bom,Não,831
+CLI001317,51,Feminino,Solteiro,1,Médio,3995,Servidor Público,18,Cartão,2491,6,Regular,Não,736
+CLI001318,64,Feminino,Divorciado,2,Fundamental,2792,Servidor Público,15,Pessoal,4629,30,Bom,Não,840
+CLI001319,68,Feminino,Solteiro,0,Fundamental,1492,Aposentado,0,Pessoal,1954,12,Bom,Não,738
+CLI001320,67,Feminino,Casado,0,Superior,3999,Aposentado,0,Consignado,7316,48,Ruim,Não,473
+CLI001321,33,Feminino,Solteiro,0,Pós-graduação,9126,Servidor Público,8,Consignado,13317,31,Bom,Não,850
+CLI001322,27,Masculino,Solteiro,3,Médio,1977,Autônomo,4,Consignado,5840,13,Regular,Não,614
+CLI001323,30,Feminino,Solteiro,2,Médio,2370,CLT,1,Veículo,49662,30,Bom,Não,850
+CLI001324,63,Masculino,Divorciado,2,Pós-graduação,10835,Servidor Público,30,Pessoal,33232,37,Bom,Não,850
+CLI001325,64,Masculino,Casado,0,Pós-graduação,8934,CLT,26,Pessoal,6796,14,Bom,Não,850
+CLI001326,24,Masculino,Solteiro,2,Superior,3617,CLT,3,Pessoal,10046,36,Ruim,Sim,352
+CLI001327,45,Feminino,Solteiro,2,Médio,2911,CLT,21,Consignado,5772,44,Bom,Não,850
+CLI001328,43,Masculino,Casado,3,Pós-graduação,8240,Autônomo,24,Cartão,1667,8,Bom,Não,850
+CLI001329,54,Masculino,Casado,0,Superior,6088,Autônomo,18,Consignado,4800,16,Regular,Sim,581
+CLI001330,49,Feminino,Divorciado,3,Médio,2917,CLT,26,Cartão,1014,6,Bom,Não,844
+CLI001331,29,Feminino,Casado,3,Médio,3129,Servidor Público,0,Cartão,4888,7,Bom,Não,850
+CLI001332,62,Feminino,Solteiro,0,Pós-graduação,9260,Autônomo,5,Veículo,32637,35,Regular,Sim,615
+CLI001333,49,Feminino,Divorciado,3,Médio,2445,CLT,7,Pessoal,6696,30,Regular,Não,750
+CLI001334,49,Feminino,Divorciado,3,Pós-graduação,3980,Autônomo,30,Veículo,31959,46,Bom,Não,838
+CLI001335,20,Feminino,Solteiro,0,Superior,5144,Servidor Público,0,Consignado,7194,21,Bom,Não,850
+CLI001336,28,Masculino,Casado,3,Superior,4931,Servidor Público,2,Pessoal,6833,18,Regular,Não,777
+CLI001337,56,Masculino,Solteiro,0,Superior,5649,CLT,19,Cartão,957,12,Regular,Não,803
+CLI001338,48,Feminino,Viúvo,3,Pós-graduação,5116,Autônomo,11,Pessoal,4336,12,Regular,Não,786
+CLI001339,27,Masculino,Casado,1,Superior,3831,CLT,7,Veículo,50256,44,Bom,Não,844
+CLI001340,58,Masculino,Casado,2,Superior,5039,CLT,30,Cartão,1526,7,Regular,Não,798
+CLI001341,32,Feminino,Casado,0,Pós-graduação,5742,Autônomo,6,Consignado,10663,48,Ruim,Sim,395
+CLI001342,71,Masculino,Viúvo,3,Pós-graduação,4747,Aposentado,0,Pessoal,9068,20,Ruim,Não,482
+CLI001343,52,Masculino,Divorciado,0,Pós-graduação,11116,Autônomo,22,Veículo,46675,25,Bom,Sim,737
+CLI001344,53,Masculino,Solteiro,1,Médio,3769,Servidor Público,16,Pessoal,1591,38,Bom,Não,843
+CLI001345,53,Feminino,Solteiro,0,Médio,2281,CLT,0,Consignado,4100,44,Regular,Não,724
+CLI001346,61,Masculino,Casado,3,Médio,1739,Autônomo,3,Pessoal,3864,37,Regular,Não,634
+CLI001347,61,Feminino,Solteiro,3,Médio,2422,Autônomo,24,Veículo,32018,45,Regular,Não,685
+CLI001348,34,Masculino,Solteiro,2,Pós-graduação,8285,Servidor Público,3,Pessoal,15724,26,Regular,Não,850
+CLI001349,74,Feminino,Viúvo,2,Médio,1760,Aposentado,0,Veículo,60518,25,Bom,Sim,594
+CLI001350,73,Feminino,Solteiro,2,Médio,2055,Aposentado,0,Veículo,32357,37,Bom,Não,801
+CLI001351,43,Feminino,Solteiro,3,Pós-graduação,7770,CLT,18,Consignado,10362,15,Regular,Não,826
+CLI001352,31,Feminino,Solteiro,0,Médio,1440,Autônomo,2,Consignado,3456,17,Ruim,Sim,300
+CLI001353,33,Masculino,Casado,1,Pós-graduação,5886,Autônomo,5,Cartão,4681,12,Regular,Não,783
+CLI001354,24,Masculino,Casado,0,Superior,3368,CLT,2,Cartão,4850,8,Bom,Sim,704
+CLI001355,66,Masculino,Casado,3,Pós-graduação,6379,Aposentado,0,Veículo,48531,32,Bom,Sim,734
+CLI001356,29,Masculino,Casado,1,Médio,1987,CLT,8,Consignado,3763,46,Regular,Sim,523
+CLI001357,45,Feminino,Casado,3,Médio,2773,CLT,12,Cartão,3197,7,Bom,Não,850
+CLI001358,41,Masculino,Solteiro,3,Médio,3762,Servidor Público,20,Consignado,8365,14,Ruim,Sim,365
+CLI001359,67,Masculino,Viúvo,3,Médio,1858,Aposentado,0,Cartão,2997,12,Regular,Não,652
+CLI001360,36,Feminino,Solteiro,1,Superior,3036,Autônomo,1,Cartão,858,6,Bom,Não,827
+CLI001361,29,Feminino,Solteiro,1,Superior,5135,Servidor Público,6,Consignado,9773,29,Bom,Não,850
+CLI001362,65,Masculino,Casado,3,Superior,4241,Autônomo,30,Cartão,5477,12,Bom,Sim,630
+CLI001363,23,Feminino,Casado,0,Superior,3655,Autônomo,4,Veículo,26618,41,Regular,Sim,529
+CLI001364,58,Masculino,Solteiro,1,Pós-graduação,12330,Servidor Público,30,Cartão,4814,10,Regular,Não,850
+CLI001365,43,Masculino,Solteiro,2,Médio,2715,CLT,8,Cartão,2819,6,Regular,Não,765
+CLI001366,69,Masculino,Viúvo,2,Pós-graduação,5710,Aposentado,0,Cartão,4534,7,Regular,Não,794
+CLI001367,46,Masculino,Divorciado,3,Superior,6720,Servidor Público,9,Consignado,7007,43,Ruim,Não,605
+CLI001368,40,Feminino,Viúvo,3,Médio,2452,CLT,16,Veículo,67291,46,Regular,Não,757
+CLI001369,32,Masculino,Casado,3,Superior,5572,Autônomo,6,Veículo,50577,41,Ruim,Sim,368
+CLI001370,66,Masculino,Casado,2,Pós-graduação,5183,Aposentado,0,Veículo,39782,40,Bom,Não,850
+CLI001371,70,Masculino,Divorciado,0,Fundamental,1437,Aposentado,0,Consignado,2984,19,Regular,Sim,499
+CLI001372,19,Feminino,Solteiro,1,Médio,2083,Autônomo,0,Cartão,3786,12,Regular,Sim,531
+CLI001373,63,Masculino,Divorciado,1,Superior,4155,CLT,25,Consignado,7243,40,Bom,Não,847
+CLI001374,59,Masculino,Divorciado,2,Médio,3984,Servidor Público,10,Consignado,3721,33,Regular,Não,751
+CLI001375,49,Masculino,Viúvo,3,Superior,4783,CLT,17,Cartão,5231,7,Bom,Não,850
+CLI001376,64,Feminino,Viúvo,0,Fundamental,1189,Autônomo,6,Veículo,20666,43,Bom,Não,737
+CLI001377,53,Feminino,Divorciado,2,Superior,4591,Autônomo,0,Veículo,28699,34,Ruim,Sim,300
+CLI001378,36,Feminino,Solteiro,2,Médio,2345,Servidor Público,7,Veículo,38453,39,Ruim,Sim,396
+CLI001379,69,Feminino,Divorciado,1,Pós-graduação,5515,Aposentado,0,Cartão,1373,8,Bom,Não,850
+CLI001380,60,Feminino,Casado,3,Fundamental,1624,Autônomo,22,Consignado,2702,19,Ruim,Sim,300
+CLI001381,28,Masculino,Solteiro,2,Superior,5493,Servidor Público,2,Consignado,3619,16,Bom,Não,850
+CLI001382,75,Masculino,Solteiro,1,Fundamental,1238,Aposentado,0,Cartão,4110,7,Bom,Não,739
+CLI001383,62,Feminino,Solteiro,3,Superior,4789,CLT,14,Cartão,4891,9,Bom,Não,850
+CLI001384,39,Masculino,Solteiro,2,Superior,3355,Autônomo,11,Veículo,59105,38,Regular,Sim,567
+CLI001385,30,Feminino,Casado,1,Médio,3240,Autônomo,1,Consignado,5522,17,Ruim,Não,456
+CLI001386,64,Feminino,Viúvo,2,Fundamental,1946,Autônomo,30,Cartão,4839,12,Ruim,Sim,300
+CLI001387,62,Masculino,Divorciado,0,Pós-graduação,5916,Autônomo,20,Cartão,879,8,Bom,Não,850
+CLI001388,43,Feminino,Casado,3,Médio,3364,Autônomo,22,Veículo,41770,39,Bom,Sim,669
+CLI001389,62,Feminino,Viúvo,3,Médio,3775,Autônomo,13,Cartão,4596,7,Bom,Não,778
+CLI001390,30,Feminino,Solteiro,3,Superior,5723,Servidor Público,10,Consignado,9824,29,Bom,Não,850
+CLI001391,63,Masculino,Casado,2,Superior,5502,Servidor Público,0,Pessoal,1341,33,Bom,Não,850
+CLI001392,73,Feminino,Solteiro,1,Superior,3500,Aposentado,0,Cartão,4404,12,Regular,Não,708
+CLI001393,36,Masculino,Solteiro,3,Superior,5431,Servidor Público,4,Veículo,63752,36,Bom,Não,850
+CLI001394,64,Feminino,Viúvo,0,Superior,6674,Autônomo,3,Veículo,58420,27,Regular,Sim,585
+CLI001395,56,Masculino,Solteiro,0,Fundamental,1921,CLT,11,Cartão,779,10,Bom,Não,791
+CLI001396,70,Masculino,Divorciado,1,Pós-graduação,4666,Aposentado,0,Veículo,58860,28,Bom,Não,850
+CLI001397,57,Feminino,Casado,2,Fundamental,1837,CLT,12,Pessoal,1401,37,Bom,Não,778
+CLI001398,54,Masculino,Divorciado,3,Médio,3068,Autônomo,30,Cartão,4337,10,Bom,Não,766
+CLI001399,19,Masculino,Solteiro,3,Médio,1828,CLT,0,Cartão,5397,11,Bom,Sim,616
+CLI001400,34,Feminino,Casado,2,Superior,5829,Servidor Público,2,Pessoal,18146,26,Regular,Não,828
+CLI001401,39,Masculino,Solteiro,2,Médio,2600,Servidor Público,13,Consignado,3724,37,Ruim,Não,544
+CLI001402,35,Masculino,Solteiro,3,Pós-graduação,7197,CLT,9,Veículo,51050,26,Bom,Não,850
+CLI001403,75,Feminino,Viúvo,2,Fundamental,1327,Aposentado,0,Pessoal,2984,12,Regular,Sim,482
+CLI001404,38,Masculino,Casado,0,Médio,1775,Autônomo,18,Consignado,5130,30,Bom,Sim,587
+CLI001405,35,Masculino,Solteiro,1,Médio,2057,CLT,9,Cartão,4117,6,Bom,Não,850
+CLI001406,63,Masculino,Casado,1,Pós-graduação,11300,Servidor Público,30,Veículo,51047,35,Bom,Não,850
+CLI001407,34,Feminino,Casado,0,Superior,4156,Servidor Público,1,Cartão,4096,9,Bom,Não,850
+CLI001408,25,Masculino,Casado,0,Superior,4162,CLT,6,Consignado,2352,47,Bom,Não,850
+CLI001409,61,Feminino,Divorciado,0,Fundamental,2104,CLT,30,Pessoal,6054,27,Bom,Não,822
+CLI001410,50,Feminino,Divorciado,1,Médio,2874,CLT,0,Consignado,4002,13,Bom,Não,850
+CLI001411,35,Masculino,Casado,1,Superior,4911,Servidor Público,6,Veículo,35515,25,Regular,Sim,638
+CLI001412,31,Masculino,Solteiro,1,Médio,1836,CLT,5,Consignado,5410,47,Bom,Não,803
+CLI001413,65,Masculino,Casado,3,Fundamental,2986,Servidor Público,30,Cartão,568,11,Bom,Não,842
+CLI001414,28,Feminino,Casado,0,Médio,2727,Autônomo,9,Veículo,60058,28,Regular,Sim,533
+CLI001415,18,Feminino,Solteiro,3,Médio,2227,CLT,0,Veículo,36686,29,Ruim,Sim,345
+CLI001416,31,Masculino,Solteiro,0,Superior,5438,Servidor Público,11,Cartão,2378,11,Bom,Não,850
+CLI001417,70,Feminino,Divorciado,2,Médio,2103,Aposentado,0,Cartão,1338,8,Regular,Sim,558
+CLI001418,53,Feminino,Casado,0,Pós-graduação,8631,Servidor Público,28,Pessoal,8040,29,Bom,Não,850
+CLI001419,75,Feminino,Divorciado,2,Médio,2161,Aposentado,0,Veículo,49061,45,Bom,Sim,657
+CLI001420,41,Masculino,Casado,2,Pós-graduação,6529,CLT,8,Veículo,61564,41,Regular,Não,850
+CLI001421,34,Masculino,Solteiro,2,Pós-graduação,9013,Autônomo,3,Veículo,23851,26,Bom,Não,850
+CLI001422,27,Masculino,Solteiro,1,Médio,1813,Autônomo,8,Veículo,59160,32,Ruim,Sim,300
+CLI001423,67,Masculino,Solteiro,3,Fundamental,1319,Aposentado,0,Veículo,43903,28,Ruim,Sim,300
+CLI001424,25,Feminino,Casado,0,Superior,4256,Autônomo,4,Consignado,3812,38,Ruim,Sim,307
+CLI001425,74,Masculino,Divorciado,0,Fundamental,1619,Aposentado,0,Veículo,51477,48,Bom,Não,744
+CLI001426,25,Masculino,Solteiro,3,Médio,1875,CLT,6,Cartão,2784,12,Ruim,Não,427
+CLI001427,65,Masculino,Viúvo,2,Fundamental,1608,Autônomo,22,Pessoal,2764,21,Bom,Não,706
+CLI001428,25,Masculino,Solteiro,2,Médio,1819,CLT,5,Veículo,48470,32,Bom,Não,796
+CLI001429,43,Masculino,Viúvo,1,Pós-graduação,8085,CLT,5,Veículo,21302,35,Regular,Não,850
+CLI001430,52,Masculino,Casado,0,Médio,2295,CLT,8,Pessoal,4748,41,Ruim,Não,488
+CLI001431,75,Masculino,Viúvo,3,Superior,4095,Aposentado,0,Consignado,3481,40,Bom,Não,804
+CLI001432,28,Masculino,Casado,0,Médio,2839,Autônomo,2,Cartão,4193,9,Ruim,Sim,300
+CLI001433,65,Feminino,Casado,1,Superior,5123,Autônomo,30,Veículo,54341,32,Ruim,Sim,337
+CLI001434,39,Feminino,Solteiro,3,Pós-graduação,6574,CLT,10,Veículo,39593,32,Ruim,Não,574
+CLI001435,64,Masculino,Divorciado,0,Médio,2584,Autônomo,9,Pessoal,7258,14,Regular,Sim,508
+CLI001436,72,Masculino,Solteiro,3,Fundamental,1147,Aposentado,0,Pessoal,1515,31,Bom,Não,760
+CLI001437,45,Feminino,Divorciado,0,Médio,2861,CLT,22,Cartão,4752,9,Bom,Não,850
+CLI001438,44,Masculino,Casado,3,Superior,4412,Autônomo,17,Veículo,50936,25,Bom,Não,832
+CLI001439,73,Masculino,Casado,0,Fundamental,1348,Aposentado,0,Veículo,20825,40,Bom,Sim,599
+CLI001440,46,Masculino,Divorciado,2,Médio,2895,CLT,2,Pessoal,6073,19,Bom,Não,850
+CLI001441,60,Masculino,Viúvo,1,Superior,6597,Autônomo,14,Consignado,4840,31,Ruim,Não,479
+CLI001442,42,Feminino,Casado,2,Médio,2482,Autônomo,12,Veículo,65709,45,Bom,Não,782
+CLI001443,70,Feminino,Solteiro,0,Superior,2791,Aposentado,0,Veículo,64317,48,Bom,Sim,659
+CLI001444,25,Masculino,Casado,0,Superior,3807,Autônomo,1,Pessoal,10943,24,Bom,Não,790
+CLI001445,47,Masculino,Solteiro,2,Pós-graduação,4296,Autônomo,15,Veículo,36206,31,Ruim,Não,498
+CLI001446,55,Feminino,Viúvo,3,Médio,2831,Autônomo,27,Veículo,43965,29,Bom,Sim,615
+CLI001447,67,Feminino,Divorciado,3,Fundamental,1327,Aposentado,0,Pessoal,4689,32,Regular,Sim,508
+CLI001448,74,Feminino,Casado,2,Pós-graduação,5306,Aposentado,0,Cartão,1784,7,Bom,Não,850
+CLI001449,42,Masculino,Solteiro,1,Superior,4712,CLT,8,Veículo,59081,25,Ruim,Sim,398
+CLI001450,31,Masculino,Solteiro,3,Médio,2516,CLT,3,Consignado,2065,36,Ruim,Sim,380
+CLI001451,38,Masculino,Casado,2,Médio,1936,CLT,1,Consignado,5602,39,Regular,Não,697
+CLI001452,41,Feminino,Casado,0,Médio,2153,Autônomo,7,Pessoal,1974,21,Bom,Não,795
+CLI001453,24,Feminino,Casado,1,Médio,2487,CLT,3,Cartão,804,8,Regular,Não,729
+CLI001454,24,Feminino,Solteiro,1,Superior,4324,CLT,1,Veículo,67891,34,Bom,Não,847
+CLI001455,38,Masculino,Casado,0,Médio,1570,Autônomo,6,Veículo,27934,48,Bom,Sim,580
+CLI001456,61,Feminino,Solteiro,2,Superior,7484,Autônomo,27,Cartão,1060,9,Regular,Sim,565
+CLI001457,19,Masculino,Solteiro,0,Médio,2225,CLT,0,Pessoal,7533,14,Regular,Não,743
+CLI001458,20,Masculino,Casado,0,Superior,4492,CLT,1,Pessoal,8701,31,Ruim,Sim,369
+CLI001459,73,Masculino,Solteiro,0,Médio,2088,Aposentado,0,Consignado,3190,19,Bom,Não,787
+CLI001460,19,Masculino,Solteiro,0,Superior,3950,Servidor Público,0,Consignado,5070,33,Regular,Não,777
+CLI001461,46,Feminino,Casado,1,Médio,4085,Autônomo,12,Consignado,6877,42,Ruim,Sim,317
+CLI001462,32,Feminino,Solteiro,3,Médio,2056,CLT,13,Veículo,46510,43,Bom,Não,850
+CLI001463,30,Masculino,Solteiro,3,Superior,3901,Servidor Público,6,Consignado,6427,26,Regular,Não,802
+CLI001464,57,Feminino,Casado,1,Fundamental,2124,CLT,25,Pessoal,1682,18,Regular,Sim,598
+CLI001465,70,Masculino,Casado,2,Fundamental,1230,Aposentado,0,Consignado,4232,30,Ruim,Sim,300
+CLI001466,41,Masculino,Casado,2,Pós-graduação,7712,CLT,11,Cartão,5243,7,Regular,Não,850
+CLI001467,63,Feminino,Solteiro,2,Superior,6729,Servidor Público,30,Pessoal,9481,37,Ruim,Não,551
+CLI001468,39,Masculino,Solteiro,1,Superior,4010,CLT,10,Veículo,52427,32,Bom,Não,850
+CLI001469,23,Masculino,Solteiro,0,Superior,5671,Autônomo,3,Pessoal,14951,40,Bom,Não,814
+CLI001470,27,Masculino,Solteiro,1,Superior,5062,Servidor Público,4,Cartão,3870,6,Regular,Não,797
+CLI001471,70,Masculino,Divorciado,0,Médio,2119,Aposentado,0,Veículo,45715,40,Bom,Sim,663
+CLI001472,32,Feminino,Casado,1,Superior,3579,CLT,11,Pessoal,6779,15,Bom,Não,850
+CLI001473,55,Masculino,Viúvo,2,Superior,6743,Servidor Público,21,Consignado,4349,42,Ruim,Não,542
+CLI001474,26,Feminino,Casado,1,Médio,2687,Autônomo,1,Veículo,36861,38,Bom,Não,777
+CLI001475,60,Masculino,Solteiro,1,Médio,4425,Servidor Público,28,Cartão,5281,12,Bom,Não,850
+CLI001476,18,Feminino,Casado,2,Médio,2533,Autônomo,0,Pessoal,5875,23,Bom,Não,771
+CLI001477,24,Masculino,Solteiro,2,Superior,3861,Autônomo,2,Veículo,38622,30,Ruim,Sim,300
+CLI001478,63,Feminino,Solteiro,0,Médio,3082,Autônomo,13,Cartão,4902,10,Bom,Não,779
+CLI001479,71,Masculino,Solteiro,0,Fundamental,1364,Aposentado,0,Cartão,4814,7,Regular,Sim,507
+CLI001480,52,Feminino,Casado,3,Fundamental,1840,CLT,14,Consignado,5405,25,Regular,Não,696
+CLI001481,33,Masculino,Casado,0,Superior,5026,Servidor Público,2,Pessoal,14884,27,Ruim,Não,583
+CLI001482,50,Feminino,Divorciado,3,Pós-graduação,8151,CLT,3,Consignado,16324,20,Regular,Não,846
+CLI001483,26,Masculino,Solteiro,2,Médio,2209,Autônomo,0,Veículo,56910,40,Regular,Sim,536
+CLI001484,44,Feminino,Solteiro,0,Pós-graduação,5730,Autônomo,1,Consignado,6931,41,Bom,Não,850
+CLI001485,39,Feminino,Solteiro,2,Pós-graduação,6882,Servidor Público,9,Veículo,46063,34,Ruim,Não,597
+CLI001486,52,Feminino,Divorciado,0,Superior,6219,Servidor Público,17,Consignado,9780,32,Bom,Não,850
+CLI001487,22,Feminino,Solteiro,3,Médio,1947,CLT,2,Veículo,27937,47,Bom,Sim,611
+CLI001488,27,Feminino,Solteiro,1,Médio,2458,Servidor Público,8,Consignado,2755,13,Bom,Não,850
+CLI001489,23,Feminino,Solteiro,1,Médio,2358,Autônomo,1,Consignado,5579,20,Regular,Não,687
+CLI001490,43,Masculino,Divorciado,1,Médio,2804,CLT,13,Veículo,53086,43,Regular,Sim,601
+CLI001491,42,Feminino,Casado,1,Médio,1519,Autônomo,3,Veículo,63236,31,Bom,Não,769
+CLI001492,74,Masculino,Divorciado,3,Pós-graduação,5613,Aposentado,0,Consignado,11437,20,Bom,Não,850
+CLI001493,57,Masculino,Solteiro,3,Fundamental,1938,CLT,17,Veículo,52562,36,Regular,Sim,536
+CLI001494,19,Masculino,Solteiro,1,Médio,2634,Servidor Público,0,Pessoal,3052,41,Regular,Não,766
+CLI001495,31,Feminino,Casado,3,Superior,3755,Autônomo,12,Cartão,5376,11,Bom,Não,804
+CLI001496,59,Feminino,Viúvo,1,Médio,3908,Autônomo,26,Consignado,2488,34,Regular,Não,665
+CLI001497,73,Feminino,Solteiro,1,Fundamental,1114,Aposentado,0,Veículo,54683,32,Bom,Não,731
+CLI001498,40,Masculino,Casado,2,Superior,3393,CLT,12,Veículo,27820,33,Bom,Não,850
+CLI001499,23,Masculino,Solteiro,0,Médio,2525,CLT,0,Veículo,62064,40,Bom,Sim,685
+CLI001500,20,Masculino,Casado,0,Superior,4339,Servidor Público,1,Veículo,27404,24,Regular,Não,751
+CLI001501,29,Feminino,Casado,3,Médio,1995,Autônomo,2,Veículo,47040,40,Ruim,Sim,300
+CLI001502,35,Masculino,Solteiro,0,Pós-graduação,5617,Autônomo,8,Pessoal,10773,40,Bom,Não,850
+CLI001503,53,Masculino,Casado,1,Médio,2434,CLT,16,Pessoal,1231,36,Ruim,Não,468
+CLI001504,31,Feminino,Casado,3,Médio,1652,Autônomo,3,Cartão,5469,7,Regular,Não,642
+CLI001505,61,Feminino,Casado,3,Superior,5423,CLT,9,Veículo,39457,26,Bom,Não,850
+CLI001506,72,Masculino,Divorciado,2,Médio,2164,Aposentado,0,Pessoal,5497,42,Bom,Não,813
+CLI001507,26,Feminino,Casado,2,Médio,3389,Servidor Público,0,Consignado,7414,28,Bom,Não,850
+CLI001508,56,Feminino,Solteiro,0,Fundamental,1706,CLT,3,Cartão,4721,7,Bom,Não,769
+CLI001509,65,Feminino,Divorciado,1,Fundamental,2240,CLT,16,Cartão,4807,12,Bom,Não,814
+CLI001510,52,Masculino,Casado,2,Fundamental,2770,Servidor Público,21,Pessoal,8412,25,Regular,Não,765
+CLI001511,34,Feminino,Solteiro,3,Superior,4234,CLT,11,Cartão,1805,9,Bom,Não,850
+CLI001512,41,Feminino,Viúvo,1,Pós-graduação,9530,Servidor Público,2,Consignado,5282,17,Ruim,Não,592
+CLI001513,42,Feminino,Solteiro,2,Médio,3353,Autônomo,9,Veículo,50625,38,Regular,Sim,566
+CLI001514,19,Feminino,Solteiro,2,Médio,2906,Servidor Público,0,Veículo,54439,24,Bom,Sim,706
+CLI001515,21,Feminino,Casado,3,Médio,2439,Servidor Público,2,Consignado,5329,34,Bom,Não,850
+CLI001516,22,Feminino,Solteiro,3,Médio,2491,Autônomo,0,Cartão,4599,12,Regular,Sim,501
+CLI001517,19,Masculino,Solteiro,1,Superior,3667,CLT,0,Veículo,53244,40,Bom,Sim,697
+CLI001518,42,Feminino,Solteiro,2,Médio,3768,Autônomo,23,Pessoal,3034,25,Regular,Não,707
+CLI001519,58,Masculino,Solteiro,2,Superior,5581,Servidor Público,0,Pessoal,4887,29,Bom,Não,850
+CLI001520,59,Feminino,Divorciado,2,Fundamental,2248,Servidor Público,1,Pessoal,5994,16,Bom,Não,850
+CLI001521,53,Feminino,Divorciado,0,Superior,6742,Servidor Público,30,Pessoal,16621,38,Bom,Não,850
+CLI001522,54,Feminino,Viúvo,2,Pós-graduação,8583,Autônomo,30,Cartão,4310,11,Ruim,Não,510
+CLI001523,18,Feminino,Casado,3,Médio,1973,CLT,0,Cartão,843,11,Regular,Não,667
+CLI001524,52,Masculino,Solteiro,3,Médio,2764,Autônomo,3,Pessoal,5589,39,Bom,Sim,611
+CLI001525,48,Masculino,Viúvo,3,Médio,2343,CLT,6,Cartão,2725,11,Regular,Não,757
+CLI001526,61,Masculino,Solteiro,0,Superior,5593,Autônomo,7,Pessoal,5769,22,Bom,Não,850
+CLI001527,67,Masculino,Solteiro,1,Superior,3190,Aposentado,0,Cartão,2772,11,Regular,Não,706
+CLI001528,53,Masculino,Solteiro,1,Pós-graduação,6232,CLT,30,Pessoal,13621,20,Bom,Não,850
+CLI001529,20,Feminino,Solteiro,2,Médio,2280,CLT,0,Consignado,4287,23,Bom,Não,843
+CLI001530,33,Masculino,Casado,0,Médio,2531,CLT,5,Cartão,2315,8,Bom,Não,850
+CLI001531,36,Masculino,Solteiro,0,Médio,2624,Servidor Público,13,Consignado,3557,22,Ruim,Não,516
+CLI001532,23,Masculino,Solteiro,2,Médio,2587,CLT,0,Cartão,5403,8,Bom,Não,840
+CLI001533,68,Masculino,Viúvo,1,Superior,3715,Aposentado,0,Consignado,5638,26,Bom,Não,825
+CLI001534,18,Masculino,Casado,2,Superior,3335,Autônomo,0,Veículo,55605,32,Regular,Sim,552
+CLI001535,18,Masculino,Solteiro,3,Médio,3249,Servidor Público,0,Veículo,26304,41,Bom,Sim,696
+CLI001536,64,Feminino,Solteiro,1,Médio,3253,Servidor Público,30,Pessoal,2329,39,Regular,Não,749
+CLI001537,61,Masculino,Solteiro,1,Superior,4901,CLT,30,Pessoal,9916,13,Bom,Não,850
+CLI001538,19,Feminino,Solteiro,2,Superior,3477,CLT,0,Cartão,5039,7,Ruim,Não,496
+CLI001539,31,Feminino,Casado,0,Médio,2129,Autônomo,1,Veículo,60659,47,Bom,Não,797
+CLI001540,36,Feminino,Solteiro,1,Superior,4653,Servidor Público,7,Veículo,43399,28,Bom,Não,850
+CLI001541,46,Feminino,Solteiro,1,Superior,5953,Autônomo,21,Pessoal,2618,41,Regular,Não,742
+CLI001542,57,Masculino,Viúvo,2,Fundamental,2494,Servidor Público,2,Pessoal,5401,21,Regular,Não,758
+CLI001543,35,Masculino,Casado,0,Superior,4468,CLT,16,Cartão,2102,11,Bom,Não,850
+CLI001544,56,Feminino,Viúvo,0,Superior,4424,CLT,6,Cartão,3267,8,Ruim,Não,502
+CLI001545,23,Masculino,Solteiro,2,Médio,2879,Servidor Público,3,Consignado,7515,32,Regular,Não,757
+CLI001546,70,Masculino,Viúvo,3,Fundamental,1168,Aposentado,0,Consignado,3941,12,Regular,Sim,496
+CLI001547,44,Masculino,Viúvo,0,Médio,2925,Servidor Público,20,Cartão,4313,11,Bom,Não,850
+CLI001548,32,Feminino,Casado,3,Médio,2344,Servidor Público,5,Pessoal,2458,13,Bom,Não,850
+CLI001549,51,Masculino,Casado,0,Superior,5663,Servidor Público,23,Veículo,66149,27,Regular,Sim,660
+CLI001550,42,Feminino,Casado,1,Pós-graduação,10003,Servidor Público,15,Consignado,16539,18,Bom,Não,850
+CLI001551,57,Masculino,Casado,3,Pós-graduação,10038,Servidor Público,21,Veículo,39607,39,Bom,Não,850
+CLI001552,67,Feminino,Casado,2,Superior,3387,Aposentado,0,Pessoal,8749,32,Ruim,Não,464
+CLI001553,48,Masculino,Viúvo,3,Superior,5988,Servidor Público,15,Veículo,54305,42,Bom,Não,850
+CLI001554,19,Feminino,Casado,0,Médio,2752,Autônomo,0,Pessoal,1622,24,Ruim,Sim,300
+CLI001555,54,Feminino,Viúvo,3,Pós-graduação,7898,Autônomo,30,Cartão,5260,7,Ruim,Não,480
+CLI001556,66,Feminino,Viúvo,0,Pós-graduação,6613,Aposentado,0,Cartão,544,6,Regular,Não,788
+CLI001557,44,Masculino,Casado,2,Superior,5647,Servidor Público,13,Consignado,9953,14,Bom,Não,850
+CLI001558,40,Feminino,Viúvo,0,Superior,4455,CLT,11,Veículo,28090,38,Bom,Não,850
+CLI001559,34,Masculino,Casado,3,Pós-graduação,7162,Autônomo,15,Pessoal,14870,32,Bom,Não,850
+CLI001560,22,Feminino,Solteiro,1,Médio,2835,Servidor Público,0,Cartão,3188,11,Bom,Não,830
+CLI001561,24,Masculino,Solteiro,0,Médio,2556,CLT,3,Veículo,41109,34,Regular,Sim,561
+CLI001562,27,Masculino,Casado,3,Médio,2066,CLT,8,Consignado,4885,40,Regular,Não,726
+CLI001563,49,Feminino,Casado,2,Superior,3919,Autônomo,10,Pessoal,11617,12,Regular,Não,728
+CLI001564,72,Feminino,Divorciado,0,Pós-graduação,6481,Aposentado,0,Veículo,64562,25,Bom,Não,850
+CLI001565,37,Feminino,Solteiro,3,Superior,4111,CLT,17,Consignado,6655,12,Regular,Não,784
+CLI001566,64,Feminino,Solteiro,1,Fundamental,2143,CLT,30,Consignado,5964,41,Bom,Sim,665
+CLI001567,39,Masculino,Casado,1,Superior,3334,Autônomo,14,Cartão,2130,6,Regular,Não,737
+CLI001568,70,Masculino,Viúvo,2,Fundamental,1367,Aposentado,0,Veículo,38844,33,Ruim,Sim,300
+CLI001569,57,Masculino,Casado,0,Pós-graduação,8151,CLT,16,Veículo,22321,26,Bom,Não,850
+CLI001570,18,Feminino,Solteiro,3,Médio,1806,Autônomo,0,Cartão,930,11,Regular,Sim,464
+CLI001571,36,Feminino,Solteiro,2,Médio,2386,CLT,5,Pessoal,6097,18,Regular,Não,745
+CLI001572,37,Feminino,Casado,2,Superior,4163,CLT,18,Cartão,2580,10,Regular,Não,785
+CLI001573,36,Masculino,Solteiro,3,Médio,2494,Servidor Público,9,Cartão,1372,8,Bom,Não,850
+CLI001574,20,Feminino,Casado,1,Médio,3443,Autônomo,1,Pessoal,7391,33,Bom,Não,752
+CLI001575,34,Masculino,Solteiro,0,Médio,2507,Servidor Público,0,Cartão,4181,12,Bom,Não,850
+CLI001576,38,Masculino,Solteiro,2,Médio,2512,CLT,5,Veículo,30914,29,Regular,Não,741
+CLI001577,68,Masculino,Viúvo,2,Pós-graduação,6626,Aposentado,0,Cartão,2941,11,Ruim,Não,540
+CLI001578,43,Masculino,Viúvo,0,Pós-graduação,4132,Autônomo,12,Pessoal,2815,42,Bom,Não,846
+CLI001579,34,Masculino,Solteiro,0,Médio,2870,Servidor Público,8,Veículo,57558,31,Regular,Sim,612
+CLI001580,42,Masculino,Viúvo,3,Médio,3504,Autônomo,13,Pessoal,10650,27,Bom,Não,805
+CLI001581,28,Masculino,Solteiro,2,Médio,2651,Autônomo,1,Consignado,5949,27,Regular,Sim,526
+CLI001582,59,Masculino,Divorciado,3,Fundamental,2102,CLT,26,Cartão,702,7,Regular,Sim,574
+CLI001583,27,Masculino,Casado,3,Médio,2327,Autônomo,5,Veículo,55047,33,Bom,Não,779
+CLI001584,38,Masculino,Casado,1,Médio,2791,Autônomo,1,Consignado,2801,29,Bom,Não,809
+CLI001585,64,Masculino,Divorciado,0,Superior,6544,Servidor Público,24,Pessoal,13722,26,Ruim,Não,576
+CLI001586,64,Masculino,Divorciado,0,Pós-graduação,9676,Servidor Público,1,Cartão,1984,7,Bom,Não,850
+CLI001587,23,Feminino,Solteiro,2,Médio,2098,Autônomo,2,Consignado,4371,31,Bom,Sim,617
+CLI001588,55,Masculino,Divorciado,2,Médio,2417,Autônomo,27,Consignado,4380,47,Bom,Não,786
+CLI001589,57,Feminino,Viúvo,0,Pós-graduação,7230,CLT,4,Consignado,11981,40,Regular,Não,796
+CLI001590,47,Masculino,Casado,1,Médio,2241,CLT,16,Cartão,4370,12,Ruim,Sim,355
+CLI001591,67,Masculino,Divorciado,0,Médio,2029,Aposentado,0,Cartão,601,6,Ruim,Não,445
+CLI001592,74,Masculino,Divorciado,2,Fundamental,1365,Aposentado,0,Cartão,807,11,Bom,Não,761
+CLI001593,48,Masculino,Divorciado,0,Superior,3872,CLT,23,Veículo,43988,32,Bom,Não,850
+CLI001594,39,Feminino,Solteiro,0,Pós-graduação,7113,CLT,10,Pessoal,4034,29,Regular,Não,841
+CLI001595,19,Feminino,Casado,1,Superior,3374,CLT,0,Consignado,4997,44,Bom,Não,839
+CLI001596,69,Masculino,Casado,0,Fundamental,1648,Aposentado,0,Veículo,69726,26,Regular,Sim,511
+CLI001597,23,Feminino,Solteiro,3,Superior,3410,Autônomo,0,Pessoal,1753,30,Bom,Sim,625
+CLI001598,33,Masculino,Solteiro,1,Médio,2483,CLT,3,Cartão,1694,8,Regular,Não,763
+CLI001599,27,Masculino,Casado,1,Médio,3135,Servidor Público,7,Pessoal,1849,23,Bom,Não,838
+CLI001600,28,Masculino,Casado,1,Superior,4453,CLT,5,Consignado,2532,42,Bom,Não,850
+CLI001601,47,Masculino,Casado,2,Médio,4157,Servidor Público,22,Pessoal,7828,33,Bom,Não,850
+CLI001602,35,Masculino,Solteiro,1,Superior,4896,Servidor Público,12,Pessoal,8403,36,Regular,Não,812
+CLI001603,45,Feminino,Viúvo,1,Médio,3623,Servidor Público,23,Consignado,7774,45,Ruim,Sim,395
+CLI001604,38,Masculino,Solteiro,0,Médio,2068,CLT,4,Consignado,2202,48,Bom,Não,850
+CLI001605,32,Feminino,Solteiro,1,Pós-graduação,6550,CLT,2,Cartão,4335,9,Regular,Não,824
+CLI001606,37,Masculino,Solteiro,2,Superior,4226,Autônomo,5,Cartão,2282,7,Bom,Não,830
+CLI001607,47,Masculino,Viúvo,2,Superior,6270,Servidor Público,21,Consignado,11900,36,Bom,Não,850
+CLI001608,35,Feminino,Casado,2,Pós-graduação,8951,Servidor Público,10,Veículo,40699,46,Bom,Não,850
+CLI001609,44,Masculino,Divorciado,0,Superior,5445,Servidor Público,2,Cartão,2191,12,Regular,Não,848
+CLI001610,49,Masculino,Viúvo,3,Pós-graduação,8762,Servidor Público,24,Consignado,6750,12,Bom,Não,850
+CLI001611,72,Feminino,Divorciado,0,Superior,3189,Aposentado,0,Veículo,36086,39,Regular,Sim,571
+CLI001612,64,Masculino,Solteiro,3,Pós-graduação,9882,Autônomo,30,Veículo,27221,40,Bom,Não,838
+CLI001613,37,Feminino,Solteiro,0,Pós-graduação,8429,Autônomo,9,Consignado,10041,22,Regular,Não,761
+CLI001614,18,Masculino,Casado,2,Médio,2267,CLT,0,Cartão,1451,11,Ruim,Não,491
+CLI001615,44,Feminino,Casado,1,Pós-graduação,10839,Servidor Público,21,Cartão,1154,6,Regular,Não,850
+CLI001616,44,Feminino,Viúvo,2,Superior,3087,Autônomo,14,Pessoal,1325,27,Bom,Não,819
+CLI001617,72,Feminino,Casado,1,Pós-graduação,5278,Aposentado,0,Pessoal,14959,27,Ruim,Não,513
+CLI001618,29,Feminino,Casado,1,Superior,3996,CLT,1,Pessoal,10641,33,Regular,Não,740
+CLI001619,67,Feminino,Casado,1,Pós-graduação,5514,Aposentado,0,Veículo,60003,45,Bom,Sim,711
+CLI001620,56,Feminino,Casado,3,Médio,2255,Autônomo,1,Veículo,39721,46,Bom,Não,788
+CLI001621,66,Feminino,Viúvo,0,Superior,3771,Aposentado,0,Pessoal,2483,18,Ruim,Não,482
+CLI001622,40,Masculino,Viúvo,0,Pós-graduação,8519,Servidor Público,14,Consignado,5329,21,Ruim,Não,605
+CLI001623,60,Masculino,Solteiro,0,Superior,5164,Servidor Público,1,Consignado,8682,38,Ruim,Não,548
+CLI001624,55,Feminino,Divorciado,0,Pós-graduação,8134,Servidor Público,30,Veículo,22494,37,Regular,Não,838
+CLI001625,25,Feminino,Casado,3,Superior,4642,Servidor Público,2,Veículo,68560,39,Bom,Não,850
+CLI001626,20,Feminino,Casado,1,Superior,4991,Autônomo,1,Consignado,2821,30,Regular,Sim,545
+CLI001627,46,Masculino,Casado,3,Pós-graduação,10458,Servidor Público,21,Pessoal,24899,19,Regular,Não,850
+CLI001628,31,Feminino,Casado,0,Médio,2285,Autônomo,9,Pessoal,1036,37,Bom,Não,818
+CLI001629,72,Masculino,Divorciado,2,Superior,2865,Aposentado,0,Veículo,24482,34,Bom,Não,836
+CLI001630,21,Masculino,Solteiro,0,Médio,3450,Servidor Público,2,Veículo,69152,45,Ruim,Sim,342
+CLI001631,38,Masculino,Solteiro,0,Médio,2676,Servidor Público,14,Veículo,26393,48,Regular,Não,761
+CLI001632,44,Feminino,Solteiro,2,Superior,4857,CLT,23,Consignado,8443,39,Bom,Não,850
+CLI001633,66,Masculino,Viúvo,0,Pós-graduação,4903,Aposentado,0,Cartão,3218,11,Bom,Não,825
+CLI001634,53,Masculino,Casado,2,Médio,1988,Autônomo,2,Cartão,644,12,Regular,Sim,455
+CLI001635,60,Masculino,Viúvo,1,Fundamental,2174,CLT,5,Cartão,5481,8,Regular,Não,725
+CLI001636,39,Feminino,Casado,3,Médio,2518,Autônomo,6,Pessoal,6453,41,Bom,Não,795
+CLI001637,22,Masculino,Solteiro,2,Superior,3573,CLT,0,Consignado,3772,14,Ruim,Sim,341
+CLI001638,59,Masculino,Viúvo,2,Fundamental,1622,Autônomo,27,Cartão,3637,8,Ruim,Sim,300
+CLI001639,51,Feminino,Viúvo,0,Superior,6291,Autônomo,15,Consignado,3159,22,Bom,Não,824
+CLI001640,34,Feminino,Solteiro,3,Médio,2808,Servidor Público,4,Cartão,3376,9,Bom,Não,850
+CLI001641,41,Masculino,Viúvo,1,Superior,4233,CLT,0,Pessoal,1728,31,Bom,Não,850
+CLI001642,69,Masculino,Divorciado,2,Superior,3393,Aposentado,0,Veículo,20020,44,Bom,Sim,681
+CLI001643,27,Feminino,Solteiro,0,Médio,2954,Servidor Público,8,Pessoal,6655,40,Bom,Não,850
+CLI001644,29,Masculino,Solteiro,0,Médio,2239,Autônomo,10,Pessoal,1130,22,Ruim,Sim,300
+CLI001645,66,Feminino,Casado,3,Fundamental,1275,Aposentado,0,Cartão,2541,7,Regular,Sim,518
+CLI001646,58,Feminino,Viúvo,1,Superior,5657,Servidor Público,13,Consignado,12902,28,Bom,Não,850
+CLI001647,52,Feminino,Casado,2,Fundamental,2006,Servidor Público,2,Consignado,5470,21,Regular,Não,749
+CLI001648,24,Feminino,Casado,1,Superior,2197,Autônomo,5,Veículo,49524,36,Bom,Não,809
+CLI001649,38,Feminino,Casado,0,Pós-graduação,7161,Servidor Público,17,Consignado,3564,33,Bom,Não,850
+CLI001650,62,Feminino,Viúvo,2,Médio,3478,Servidor Público,30,Pessoal,8592,26,Bom,Não,835
+CLI001651,53,Feminino,Viúvo,3,Superior,6552,Servidor Público,21,Pessoal,4416,32,Ruim,Não,556
+CLI001652,43,Masculino,Divorciado,3,Superior,4289,CLT,11,Pessoal,3966,18,Bom,Não,850
+CLI001653,26,Masculino,Solteiro,1,Médio,2357,CLT,4,Cartão,4180,7,Regular,Sim,563
+CLI001654,64,Masculino,Divorciado,2,Fundamental,2700,Servidor Público,30,Consignado,2842,19,Regular,Não,746
+CLI001655,27,Masculino,Solteiro,0,Médio,2344,CLT,2,Consignado,2428,21,Bom,Não,841
+CLI001656,45,Masculino,Solteiro,2,Médio,3571,Autônomo,9,Pessoal,11661,37,Regular,Sim,536
+CLI001657,68,Feminino,Solteiro,0,Fundamental,1642,Aposentado,0,Cartão,1739,7,Bom,Não,746
+CLI001658,29,Masculino,Solteiro,3,Médio,2695,CLT,2,Consignado,4370,15,Regular,Não,717
+CLI001659,40,Masculino,Viúvo,3,Médio,2284,CLT,9,Cartão,2778,10,Regular,Não,748
+CLI001660,23,Masculino,Solteiro,3,Superior,3260,CLT,0,Consignado,5970,48,Ruim,Não,485
+CLI001661,22,Feminino,Solteiro,2,Médio,2479,CLT,2,Consignado,6150,48,Regular,Não,731
+CLI001662,70,Masculino,Casado,0,Pós-graduação,5847,Aposentado,0,Pessoal,8377,38,Regular,Não,796
+CLI001663,73,Feminino,Divorciado,1,Fundamental,1518,Aposentado,0,Consignado,5010,40,Bom,Não,763
+CLI001664,24,Masculino,Casado,2,Médio,3030,Servidor Público,0,Pessoal,8898,41,Regular,Não,745
+CLI001665,71,Masculino,Solteiro,1,Pós-graduação,4965,Aposentado,0,Consignado,6294,41,Regular,Não,746
+CLI001666,44,Feminino,Casado,0,Pós-graduação,4467,Autônomo,18,Pessoal,13343,16,Regular,Não,739
+CLI001667,26,Masculino,Solteiro,1,Médio,2668,CLT,1,Cartão,1504,8,Regular,Não,716
+CLI001668,30,Feminino,Solteiro,2,Superior,4198,CLT,1,Cartão,2447,9,Ruim,Não,512
+CLI001669,65,Masculino,Divorciado,0,Pós-graduação,8769,Servidor Público,11,Veículo,60636,44,Bom,Não,850
+CLI001670,72,Feminino,Casado,0,Superior,3900,Aposentado,0,Pessoal,8126,15,Bom,Não,835
+CLI001671,29,Feminino,Solteiro,3,Médio,2414,CLT,8,Consignado,2356,30,Bom,Não,829
+CLI001672,56,Feminino,Viúvo,0,Pós-graduação,10534,Servidor Público,27,Consignado,9473,24,Regular,Não,850
+CLI001673,37,Feminino,Casado,0,Pós-graduação,6853,Autônomo,14,Pessoal,16790,12,Regular,Não,792
+CLI001674,62,Masculino,Viúvo,1,Pós-graduação,5171,Autônomo,16,Cartão,5348,6,Bom,Não,838
+CLI001675,64,Feminino,Divorciado,0,Pós-graduação,11664,Servidor Público,23,Consignado,11352,25,Bom,Não,850
+CLI001676,34,Masculino,Casado,0,Superior,3234,CLT,15,Cartão,1184,10,Bom,Não,850
+CLI001677,63,Masculino,Viúvo,1,Fundamental,1644,CLT,16,Consignado,3589,30,Bom,Não,788
+CLI001678,28,Masculino,Casado,0,Médio,2231,CLT,5,Pessoal,6669,32,Ruim,Sim,320
+CLI001679,41,Masculino,Casado,2,Pós-graduação,8664,Servidor Público,4,Veículo,59135,28,Bom,Não,850
+CLI001680,30,Masculino,Solteiro,2,Pós-graduação,7194,CLT,3,Pessoal,20784,22,Regular,Não,850
+CLI001681,51,Masculino,Viúvo,0,Médio,3615,Servidor Público,16,Consignado,8820,34,Bom,Não,843
+CLI001682,40,Feminino,Viúvo,0,Pós-graduação,5681,Autônomo,12,Veículo,24022,41,Ruim,Sim,393
+CLI001683,52,Feminino,Viúvo,1,Fundamental,1371,Autônomo,9,Cartão,1364,10,Bom,Não,702
+CLI001684,57,Masculino,Casado,3,Médio,4344,Servidor Público,15,Consignado,9873,24,Bom,Não,850
+CLI001685,54,Feminino,Solteiro,1,Médio,2524,Autônomo,4,Pessoal,2361,42,Bom,Não,760
+CLI001686,63,Masculino,Divorciado,2,Pós-graduação,10357,Servidor Público,20,Cartão,4554,6,Regular,Não,850
+CLI001687,55,Feminino,Solteiro,1,Médio,2593,CLT,11,Cartão,1904,8,Bom,Não,845
+CLI001688,36,Feminino,Solteiro,3,Médio,3323,Autônomo,10,Veículo,43818,41,Regular,Sim,541
+CLI001689,70,Masculino,Casado,1,Superior,3952,Aposentado,0,Consignado,4953,16,Ruim,Não,459
+CLI001690,61,Masculino,Viúvo,2,Superior,3096,Autônomo,30,Pessoal,9283,37,Ruim,Não,433
+CLI001691,24,Feminino,Solteiro,1,Médio,3327,Servidor Público,2,Pessoal,2756,37,Bom,Não,835
+CLI001692,59,Masculino,Solteiro,1,Fundamental,2832,Servidor Público,5,Consignado,2819,22,Ruim,Não,497
+CLI001693,48,Feminino,Viúvo,1,Pós-graduação,8234,CLT,10,Consignado,6348,46,Bom,Não,850
+CLI001694,66,Feminino,Solteiro,1,Fundamental,1152,Aposentado,0,Pessoal,2626,14,Bom,Não,746
+CLI001695,37,Masculino,Solteiro,2,Médio,2843,Autônomo,4,Cartão,3731,8,Regular,Não,687
+CLI001696,75,Masculino,Divorciado,1,Superior,3069,Aposentado,0,Cartão,2947,10,Regular,Sim,575
+CLI001697,40,Feminino,Casado,2,Médio,2680,CLT,3,Cartão,833,7,Bom,Não,850
+CLI001698,34,Feminino,Solteiro,0,Médio,3343,Servidor Público,0,Consignado,2822,22,Ruim,Não,547
+CLI001699,26,Feminino,Casado,1,Superior,3231,Autônomo,0,Cartão,4512,11,Bom,Não,786
+CLI001700,58,Feminino,Solteiro,2,Pós-graduação,8835,Autônomo,30,Veículo,36918,43,Regular,Sim,611
+CLI001701,20,Masculino,Solteiro,1,Médio,2209,CLT,0,Cartão,4885,7,Regular,Sim,578
+CLI001702,29,Masculino,Casado,3,Superior,3705,CLT,8,Cartão,2619,9,Regular,Não,768
+CLI001703,61,Feminino,Casado,3,Pós-graduação,7793,CLT,30,Consignado,10359,16,Regular,Não,792
+CLI001704,42,Feminino,Divorciado,1,Pós-graduação,8553,CLT,17,Consignado,17266,36,Ruim,Sim,451
+CLI001705,56,Feminino,Casado,3,Fundamental,2769,Servidor Público,11,Consignado,5619,30,Regular,Sim,590
+CLI001706,65,Masculino,Solteiro,3,Superior,5082,Autônomo,22,Pessoal,12894,13,Bom,Não,823
+CLI001707,72,Feminino,Divorciado,0,Superior,2921,Aposentado,0,Cartão,3370,11,Regular,Não,726
+CLI001708,34,Masculino,Casado,2,Superior,3654,Autônomo,3,Cartão,3310,9,Bom,Não,805
+CLI001709,35,Feminino,Solteiro,3,Médio,1971,CLT,9,Cartão,2872,7,Bom,Não,803
+CLI001710,39,Masculino,Solteiro,0,Superior,3010,CLT,2,Consignado,2935,23,Bom,Não,850
+CLI001711,38,Feminino,Solteiro,3,Médio,2651,CLT,19,Consignado,6757,23,Ruim,Não,512
+CLI001712,71,Feminino,Viúvo,1,Pós-graduação,5129,Aposentado,0,Pessoal,15982,12,Regular,Não,777
+CLI001713,70,Masculino,Solteiro,0,Superior,3692,Aposentado,0,Cartão,4065,6,Bom,Não,802
+CLI001714,60,Feminino,Divorciado,2,Superior,4163,CLT,21,Cartão,1561,10,Ruim,Sim,366
+CLI001715,34,Masculino,Casado,0,Pós-graduação,6351,Autônomo,5,Cartão,2311,9,Bom,Não,850
+CLI001716,22,Masculino,Solteiro,3,Superior,3048,CLT,0,Veículo,67195,45,Regular,Sim,589
+CLI001717,37,Masculino,Solteiro,3,Médio,1865,CLT,3,Consignado,2248,19,Bom,Não,826
+CLI001718,73,Feminino,Viúvo,0,Médio,1817,Aposentado,0,Pessoal,3079,20,Ruim,Sim,300
+CLI001719,24,Feminino,Casado,3,Médio,1646,Autônomo,5,Pessoal,5706,20,Regular,Sim,479
+CLI001720,20,Masculino,Solteiro,2,Médio,2687,CLT,0,Cartão,4018,12,Bom,Não,846
+CLI001721,35,Masculino,Casado,0,Pós-graduação,5167,CLT,5,Consignado,4108,19,Bom,Não,850
+CLI001722,39,Masculino,Solteiro,2,Superior,3862,CLT,3,Consignado,8314,38,Bom,Não,850
+CLI001723,73,Masculino,Solteiro,0,Superior,2780,Aposentado,0,Consignado,6226,18,Regular,Sim,562
+CLI001724,29,Masculino,Solteiro,2,Superior,5479,Servidor Público,10,Cartão,4398,10,Regular,Não,790
+CLI001725,48,Masculino,Solteiro,0,Médio,3465,Servidor Público,21,Veículo,61217,26,Bom,Não,850
+CLI001726,47,Masculino,Viúvo,3,Médio,3217,CLT,6,Consignado,7442,19,Bom,Não,850
+CLI001727,50,Feminino,Casado,1,Fundamental,2345,Servidor Público,11,Veículo,23751,33,Bom,Não,850
+CLI001728,27,Feminino,Casado,0,Superior,2715,Autônomo,4,Pessoal,6805,18,Bom,Não,797
+CLI001729,18,Masculino,Casado,3,Médio,3010,Servidor Público,0,Veículo,63809,34,Ruim,Sim,345
+CLI001730,34,Feminino,Solteiro,2,Médio,2496,Servidor Público,15,Consignado,3984,35,Regular,Não,793
+CLI001731,33,Masculino,Solteiro,1,Pós-graduação,6097,CLT,6,Pessoal,18227,39,Bom,Não,850
+CLI001732,53,Masculino,Viúvo,1,Médio,2697,CLT,15,Cartão,1079,12,Bom,Não,843
+CLI001733,55,Feminino,Solteiro,0,Pós-graduação,6285,CLT,28,Cartão,4289,9,Bom,Não,850
+CLI001734,51,Masculino,Solteiro,0,Fundamental,1167,Autônomo,21,Veículo,53006,33,Regular,Sim,479
+CLI001735,26,Feminino,Solteiro,3,Superior,3257,Autônomo,3,Veículo,33705,41,Regular,Não,702
+CLI001736,27,Masculino,Casado,1,Superior,3528,CLT,4,Veículo,41107,38,Regular,Sim,586
+CLI001737,70,Masculino,Solteiro,1,Pós-graduação,5230,Aposentado,0,Consignado,2916,39,Regular,Não,782
+CLI001738,47,Feminino,Divorciado,3,Pós-graduação,8352,CLT,15,Consignado,13124,29,Ruim,Não,598
+CLI001739,24,Masculino,Casado,3,Superior,4989,Servidor Público,1,Veículo,29426,47,Regular,Sim,625
+CLI001740,22,Masculino,Solteiro,1,Médio,2039,CLT,1,Veículo,37201,37,Regular,Sim,578
+CLI001741,46,Feminino,Divorciado,0,Pós-graduação,7729,Servidor Público,16,Veículo,52655,24,Ruim,Não,617
+CLI001742,39,Masculino,Casado,0,Pós-graduação,7353,Servidor Público,11,Consignado,5649,39,Regular,Não,850
+CLI001743,48,Feminino,Casado,3,Médio,3044,Servidor Público,1,Pessoal,8743,17,Regular,Não,782
+CLI001744,35,Feminino,Casado,0,Pós-graduação,5955,CLT,15,Consignado,12129,39,Bom,Não,850
+CLI001745,25,Masculino,Casado,2,Superior,3303,Autônomo,5,Pessoal,7092,38,Regular,Não,694
+CLI001746,22,Masculino,Solteiro,1,Superior,3934,Servidor Público,3,Consignado,9245,18,Bom,Não,850
+CLI001747,56,Feminino,Viúvo,2,Médio,2637,CLT,19,Consignado,2605,39,Regular,Não,717
+CLI001748,59,Feminino,Divorciado,0,Pós-graduação,6381,CLT,22,Veículo,30038,27,Regular,Não,819
+CLI001749,27,Masculino,Casado,3,Superior,4713,Servidor Público,0,Cartão,2809,7,Bom,Não,850
+CLI001750,51,Masculino,Casado,3,Pós-graduação,8599,CLT,30,Cartão,1012,7,Bom,Não,850
+CLI001751,35,Masculino,Solteiro,0,Médio,2831,Servidor Público,16,Pessoal,8329,17,Bom,Não,850
+CLI001752,43,Feminino,Casado,1,Médio,1726,Autônomo,22,Veículo,60609,43,Ruim,Sim,300
+CLI001753,23,Feminino,Solteiro,2,Superior,5072,Servidor Público,0,Veículo,41164,38,Bom,Não,850
+CLI001754,45,Masculino,Divorciado,1,Superior,5005,Servidor Público,2,Pessoal,6432,36,Bom,Não,850
+CLI001755,75,Masculino,Viúvo,1,Médio,2245,Aposentado,0,Consignado,5690,24,Bom,Não,819
+CLI001756,43,Masculino,Divorciado,1,Pós-graduação,10163,Autônomo,3,Cartão,1138,12,Regular,Sim,667
+CLI001757,20,Masculino,Solteiro,1,Médio,2999,Servidor Público,1,Veículo,52480,27,Regular,Sim,592
+CLI001758,44,Masculino,Viúvo,3,Pós-graduação,4771,Autônomo,19,Cartão,4888,7,Regular,Não,746
+CLI001759,63,Masculino,Casado,0,Pós-graduação,11984,Servidor Público,30,Cartão,2768,8,Regular,Não,850
+CLI001760,26,Feminino,Solteiro,1,Superior,5483,Servidor Público,0,Pessoal,5226,30,Bom,Não,850
+CLI001761,58,Masculino,Solteiro,2,Superior,5386,Servidor Público,24,Cartão,3942,12,Bom,Não,850
+CLI001762,37,Feminino,Casado,3,Superior,3235,CLT,12,Cartão,2405,12,Ruim,Não,537
+CLI001763,56,Feminino,Solteiro,0,Médio,2889,CLT,19,Veículo,24193,28,Regular,Sim,578
+CLI001764,27,Feminino,Solteiro,1,Médio,3005,Autônomo,8,Cartão,2455,7,Regular,Não,675
+CLI001765,73,Feminino,Divorciado,1,Superior,3046,Aposentado,0,Veículo,38008,40,Bom,Sim,687
+CLI001766,69,Feminino,Divorciado,0,Pós-graduação,6380,Aposentado,0,Cartão,1585,11,Bom,Não,850
+CLI001767,51,Masculino,Divorciado,3,Pós-graduação,7292,CLT,3,Cartão,5354,10,Ruim,Não,558
+CLI001768,56,Masculino,Viúvo,0,Superior,6245,Autônomo,24,Consignado,5839,34,Bom,Não,835
+CLI001769,30,Masculino,Casado,1,Pós-graduação,7336,Servidor Público,10,Cartão,2084,11,Bom,Não,850
+CLI001770,34,Masculino,Solteiro,0,Pós-graduação,7550,Servidor Público,11,Consignado,5755,28,Ruim,Não,624
+CLI001771,61,Masculino,Divorciado,3,Superior,7269,Servidor Público,26,Veículo,68701,33,Bom,Não,850
+CLI001772,56,Masculino,Viúvo,0,Pós-graduação,4706,Autônomo,30,Pessoal,1668,20,Bom,Não,801
+CLI001773,56,Feminino,Casado,0,Fundamental,2720,Servidor Público,21,Pessoal,6022,18,Bom,Não,850
+CLI001774,36,Masculino,Casado,1,Médio,1755,Autônomo,2,Cartão,780,7,Ruim,Não,402
+CLI001775,63,Masculino,Solteiro,2,Fundamental,2253,CLT,4,Consignado,5918,38,Bom,Não,819
+CLI001776,21,Masculino,Solteiro,0,Superior,4405,Servidor Público,2,Pessoal,9057,35,Ruim,Não,506
+CLI001777,51,Feminino,Casado,2,Fundamental,2524,Servidor Público,4,Veículo,40806,28,Bom,Sim,699
+CLI001778,39,Masculino,Solteiro,2,Superior,5687,Servidor Público,10,Cartão,4617,12,Bom,Não,850
+CLI001779,19,Feminino,Solteiro,0,Superior,5670,Autônomo,0,Veículo,67469,33,Regular,Sim,592
+CLI001780,70,Masculino,Viúvo,1,Médio,2340,Aposentado,0,Consignado,3012,19,Regular,Não,692
+CLI001781,50,Feminino,Casado,3,Superior,4601,Autônomo,18,Cartão,1191,12,Bom,Não,831
+CLI001782,43,Feminino,Solteiro,3,Pós-graduação,8817,Autônomo,5,Consignado,10258,27,Regular,Não,766
+CLI001783,70,Masculino,Divorciado,3,Médio,1831,Aposentado,0,Cartão,4155,7,Ruim,Não,413
+CLI001784,36,Masculino,Solteiro,0,Médio,3142,Servidor Público,14,Consignado,5192,12,Ruim,Não,521
+CLI001785,47,Feminino,Divorciado,1,Médio,2467,CLT,0,Consignado,5226,17,Regular,Sim,601
+CLI001786,33,Masculino,Solteiro,0,Superior,4041,Autônomo,12,Pessoal,12940,36,Regular,Não,732
+CLI001787,71,Feminino,Solteiro,1,Fundamental,1324,Aposentado,0,Veículo,47843,33,Regular,Sim,486
+CLI001788,59,Masculino,Solteiro,1,Superior,6920,Servidor Público,30,Pessoal,15271,21,Bom,Não,850
+CLI001789,31,Masculino,Solteiro,1,Superior,3130,CLT,8,Veículo,49266,30,Bom,Não,850
+CLI001790,52,Feminino,Solteiro,2,Fundamental,1879,Autônomo,15,Veículo,65985,29,Bom,Não,704
+CLI001791,61,Masculino,Solteiro,3,Fundamental,3250,Autônomo,29,Pessoal,4827,24,Bom,Não,767
+CLI001792,32,Feminino,Casado,3,Superior,2338,Autônomo,12,Cartão,1128,11,Bom,Não,830
+CLI001793,35,Feminino,Casado,3,Superior,4291,CLT,15,Pessoal,2268,14,Ruim,Não,519
+CLI001794,57,Feminino,Casado,1,Superior,4055,Autônomo,15,Pessoal,6222,22,Ruim,Não,427
+CLI001795,45,Masculino,Solteiro,2,Médio,2462,CLT,6,Veículo,43782,31,Regular,Sim,613
+CLI001796,50,Feminino,Viúvo,3,Fundamental,1839,Autônomo,17,Pessoal,2813,40,Bom,Não,753
+CLI001797,53,Feminino,Solteiro,1,Pós-graduação,9360,Servidor Público,1,Pessoal,4439,13,Bom,Não,850
+CLI001798,32,Masculino,Casado,0,Pós-graduação,5261,Autônomo,9,Pessoal,4591,17,Regular,Não,788
+CLI001799,49,Feminino,Divorciado,3,Pós-graduação,7079,Autônomo,9,Veículo,61167,43,Ruim,Sim,376
+CLI001800,57,Masculino,Solteiro,2,Médio,2905,CLT,16,Pessoal,4331,25,Ruim,Não,498
+CLI001801,56,Masculino,Solteiro,3,Médio,1756,Autônomo,25,Cartão,4465,6,Ruim,Não,370
+CLI001802,32,Masculino,Casado,1,Pós-graduação,6875,CLT,10,Veículo,39368,27,Bom,Não,850
+CLI001803,38,Feminino,Solteiro,0,Superior,4970,Autônomo,9,Veículo,39512,33,Bom,Sim,687
+CLI001804,40,Feminino,Solteiro,1,Pós-graduação,5821,CLT,3,Veículo,67087,45,Ruim,Não,581
+CLI001805,41,Masculino,Casado,2,Pós-graduação,8386,CLT,3,Consignado,16885,17,Bom,Não,850
+CLI001806,38,Masculino,Solteiro,0,Superior,2941,Autônomo,14,Consignado,6171,17,Ruim,Sim,312
+CLI001807,45,Feminino,Divorciado,2,Médio,1993,Autônomo,6,Cartão,2031,8,Ruim,Sim,300
+CLI001808,39,Feminino,Casado,2,Médio,2793,Servidor Público,13,Pessoal,5977,29,Ruim,Sim,374
+CLI001809,59,Masculino,Viúvo,0,Médio,2505,CLT,10,Pessoal,1617,20,Bom,Não,845
+CLI001810,59,Feminino,Casado,2,Superior,4768,Autônomo,30,Pessoal,12889,37,Bom,Não,780
+CLI001811,45,Feminino,Divorciado,2,Pós-graduação,8580,Servidor Público,11,Cartão,5326,6,Bom,Não,850
+CLI001812,61,Feminino,Viúvo,3,Médio,2194,Autônomo,3,Pessoal,2979,39,Regular,Sim,513
+CLI001813,23,Masculino,Solteiro,0,Superior,2831,Autônomo,2,Consignado,3818,46,Regular,Sim,526
+CLI001814,43,Masculino,Viúvo,1,Médio,3332,Servidor Público,6,Consignado,6647,19,Bom,Não,850
+CLI001815,64,Feminino,Solteiro,0,Superior,3784,Autônomo,30,Cartão,1870,11,Ruim,Sim,300
+CLI001816,63,Feminino,Casado,2,Médio,2302,Autônomo,11,Consignado,2206,44,Regular,Não,683
+CLI001817,30,Feminino,Solteiro,1,Superior,3549,CLT,9,Pessoal,5642,31,Regular,Não,782
+CLI001818,55,Masculino,Divorciado,3,Fundamental,1506,CLT,2,Pessoal,4661,38,Regular,Sim,550
+CLI001819,35,Feminino,Casado,3,Superior,3616,CLT,10,Cartão,4524,9,Ruim,Não,543
+CLI001820,45,Feminino,Divorciado,2,Médio,3241,Servidor Público,14,Pessoal,10485,31,Bom,Não,850
+CLI001821,70,Masculino,Viúvo,1,Médio,2284,Aposentado,0,Cartão,4716,11,Regular,Não,703
+CLI001822,70,Feminino,Solteiro,1,Fundamental,1406,Aposentado,0,Pessoal,4091,25,Regular,Não,658
+CLI001823,27,Feminino,Casado,1,Médio,2148,Autônomo,4,Pessoal,4438,12,Bom,Sim,633
+CLI001824,18,Feminino,Solteiro,2,Superior,4138,CLT,0,Consignado,3671,29,Bom,Sim,691
+CLI001825,18,Feminino,Solteiro,0,Superior,3225,CLT,0,Consignado,4281,47,Bom,Não,831
+CLI001826,35,Masculino,Casado,3,Superior,3704,CLT,13,Cartão,4041,11,Bom,Não,850
+CLI001827,51,Feminino,Divorciado,0,Médio,2891,Servidor Público,3,Veículo,43254,40,Bom,Não,850
+CLI001828,53,Feminino,Solteiro,1,Superior,4787,CLT,15,Consignado,6358,20,Bom,Não,850
+CLI001829,61,Feminino,Casado,3,Pós-graduação,9025,CLT,1,Pessoal,10987,29,Ruim,Sim,399
+CLI001830,59,Masculino,Divorciado,2,Superior,4742,Autônomo,19,Pessoal,14164,13,Regular,Não,694
+CLI001831,61,Feminino,Casado,3,Pós-graduação,6807,CLT,13,Cartão,3605,7,Regular,Não,827
+CLI001832,27,Feminino,Casado,1,Médio,2060,CLT,8,Veículo,66548,24,Ruim,Não,462
+CLI001833,43,Feminino,Divorciado,2,Superior,3724,CLT,4,Consignado,2347,40,Regular,Não,782
+CLI001834,32,Masculino,Solteiro,0,Superior,3386,CLT,5,Cartão,565,6,Bom,Não,850
+CLI001835,28,Masculino,Casado,1,Médio,2506,CLT,6,Veículo,31797,31,Bom,Não,836
+CLI001836,37,Masculino,Solteiro,1,Pós-graduação,9017,Servidor Público,15,Cartão,2817,11,Regular,Não,850
+CLI001837,31,Masculino,Solteiro,2,Médio,2642,CLT,11,Cartão,751,6,Regular,Não,765
+CLI001838,68,Feminino,Viúvo,2,Médio,2110,Aposentado,0,Pessoal,2283,37,Bom,Não,810
+CLI001839,55,Feminino,Solteiro,1,Fundamental,2025,CLT,29,Veículo,67851,29,Bom,Não,850
+CLI001840,54,Feminino,Casado,3,Fundamental,2042,CLT,21,Veículo,56844,45,Regular,Sim,582
+CLI001841,75,Feminino,Divorciado,0,Fundamental,1570,Aposentado,0,Pessoal,5182,18,Bom,Não,768
+CLI001842,75,Feminino,Divorciado,2,Médio,2387,Aposentado,0,Veículo,40825,37,Ruim,Sim,300
+CLI001843,47,Masculino,Viúvo,1,Pós-graduação,9685,Servidor Público,26,Consignado,5821,17,Regular,Não,850
+CLI001844,53,Masculino,Solteiro,3,Médio,3662,Autônomo,16,Cartão,5061,6,Regular,Sim,503
+CLI001845,30,Feminino,Casado,1,Pós-graduação,7387,Autônomo,0,Veículo,41074,45,Regular,Não,771
+CLI001846,26,Feminino,Solteiro,0,Médio,2513,CLT,0,Pessoal,1251,42,Ruim,Não,488
+CLI001847,71,Masculino,Viúvo,1,Médio,2204,Aposentado,0,Consignado,5098,17,Bom,Não,797
+CLI001848,71,Feminino,Viúvo,0,Médio,2313,Aposentado,0,Pessoal,6878,36,Regular,Sim,570
+CLI001849,73,Feminino,Viúvo,3,Superior,4038,Aposentado,0,Pessoal,7638,41,Regular,Não,709
+CLI001850,59,Feminino,Divorciado,3,Médio,3233,Servidor Público,30,Veículo,44028,36,Bom,Não,850
+CLI001851,18,Masculino,Solteiro,1,Superior,3075,CLT,0,Veículo,61253,30,Bom,Não,850
+CLI001852,46,Feminino,Casado,3,Pós-graduação,5919,Autônomo,19,Pessoal,17513,39,Bom,Não,850
+CLI001853,49,Masculino,Solteiro,0,Superior,4180,CLT,5,Cartão,4269,11,Ruim,Não,548
+CLI001854,64,Masculino,Casado,2,Fundamental,2164,Servidor Público,30,Veículo,65836,44,Ruim,Sim,362
+CLI001855,36,Feminino,Solteiro,2,Superior,5347,Servidor Público,15,Pessoal,13233,22,Ruim,Sim,451
+CLI001856,68,Masculino,Viúvo,1,Pós-graduação,4453,Aposentado,0,Consignado,2265,40,Ruim,Sim,353
+CLI001857,25,Masculino,Casado,2,Médio,2408,CLT,4,Cartão,1668,6,Ruim,Sim,325
+CLI001858,35,Masculino,Solteiro,1,Médio,2329,CLT,8,Pessoal,6788,24,Ruim,Sim,359
+CLI001859,62,Feminino,Solteiro,1,Pós-graduação,7838,CLT,16,Cartão,1457,10,Regular,Não,830
+CLI001860,38,Masculino,Solteiro,1,Superior,5612,Servidor Público,8,Pessoal,12683,42,Bom,Não,850
+CLI001861,27,Masculino,Casado,0,Superior,3039,CLT,6,Veículo,22716,37,Ruim,Não,494
+CLI001862,67,Feminino,Divorciado,0,Médio,2210,Aposentado,0,Cartão,4197,11,Bom,Não,787
+CLI001863,46,Masculino,Viúvo,2,Pós-graduação,7825,CLT,5,Cartão,1932,11,Bom,Não,850
+CLI001864,57,Masculino,Divorciado,0,Pós-graduação,12193,Servidor Público,30,Consignado,4828,19,Regular,Não,850
+CLI001865,42,Feminino,Viúvo,3,Pós-graduação,6994,Autônomo,0,Pessoal,15420,42,Ruim,Sim,372
+CLI001866,21,Feminino,Casado,1,Superior,4346,CLT,1,Consignado,2933,16,Bom,Não,846
+CLI001867,38,Masculino,Casado,0,Pós-graduação,6826,CLT,14,Veículo,66140,32,Ruim,Sim,448
+CLI001868,50,Feminino,Solteiro,2,Fundamental,1849,CLT,22,Veículo,66633,28,Regular,Não,702
+CLI001869,21,Feminino,Solteiro,1,Médio,2254,CLT,1,Pessoal,2912,32,Ruim,Sim,340
+CLI001870,32,Feminino,Casado,2,Médio,2747,Servidor Público,6,Consignado,4219,44,Bom,Não,850
+CLI001871,71,Masculino,Solteiro,3,Superior,3088,Aposentado,0,Veículo,60947,32,Regular,Sim,583
+CLI001872,74,Feminino,Casado,0,Fundamental,1224,Aposentado,0,Pessoal,3292,23,Bom,Não,769
+CLI001873,36,Masculino,Solteiro,0,Médio,2595,Autônomo,15,Veículo,31971,47,Regular,Sim,537
+CLI001874,26,Masculino,Solteiro,3,Médio,1596,Autônomo,1,Veículo,67598,48,Bom,Não,723
+CLI001875,35,Masculino,Casado,0,Médio,2382,CLT,13,Pessoal,1979,27,Regular,Não,756
+CLI001876,45,Feminino,Divorciado,1,Médio,3021,Servidor Público,21,Consignado,4355,31,Ruim,Não,519
+CLI001877,37,Masculino,Solteiro,2,Médio,2352,CLT,0,Pessoal,1765,21,Bom,Não,850
+CLI001878,71,Feminino,Solteiro,3,Pós-graduação,5029,Aposentado,0,Pessoal,1094,25,Bom,Não,850
+CLI001879,74,Masculino,Casado,0,Superior,3528,Aposentado,0,Pessoal,7999,28,Ruim,Sim,338
+CLI001880,47,Masculino,Divorciado,0,Superior,4702,CLT,22,Consignado,2338,33,Bom,Não,850
+CLI001881,49,Masculino,Divorciado,3,Médio,3057,Servidor Público,4,Veículo,52455,39,Bom,Não,850
+CLI001882,25,Masculino,Solteiro,2,Médio,2713,Servidor Público,2,Veículo,61183,34,Bom,Não,850
+CLI001883,69,Feminino,Solteiro,1,Fundamental,1551,Aposentado,0,Pessoal,2057,32,Bom,Não,764
+CLI001884,58,Feminino,Casado,0,Médio,2149,Autônomo,12,Veículo,26905,24,Regular,Sim,507
+CLI001885,64,Masculino,Solteiro,1,Superior,6242,Servidor Público,12,Pessoal,17029,27,Bom,Não,850
+CLI001886,41,Masculino,Casado,1,Superior,4751,Servidor Público,16,Veículo,32863,40,Bom,Não,850
+CLI001887,19,Feminino,Solteiro,0,Médio,2014,CLT,0,Cartão,5009,6,Bom,Sim,696
+CLI001888,30,Feminino,Casado,1,Médio,3434,Servidor Público,0,Pessoal,1309,38,Regular,Não,766
+CLI001889,49,Masculino,Viúvo,3,Superior,6734,Servidor Público,26,Veículo,33142,28,Ruim,Não,601
+CLI001890,56,Feminino,Solteiro,1,Médio,3768,Servidor Público,9,Pessoal,6476,34,Regular,Não,742
+CLI001891,68,Feminino,Viúvo,0,Médio,2192,Aposentado,0,Veículo,36010,25,Bom,Não,802
+CLI001892,52,Feminino,Viúvo,1,Superior,5895,Servidor Público,7,Veículo,51108,33,Regular,Não,823
+CLI001893,46,Masculino,Solteiro,1,Pós-graduação,6065,CLT,15,Veículo,48580,41,Bom,Não,850
+CLI001894,68,Masculino,Casado,3,Fundamental,1446,Aposentado,0,Consignado,4461,39,Bom,Não,739
+CLI001895,40,Masculino,Solteiro,3,Superior,5662,Autônomo,16,Veículo,32850,38,Regular,Sim,627
+CLI001896,49,Feminino,Divorciado,3,Pós-graduação,6092,CLT,5,Veículo,66123,36,Bom,Não,850
+CLI001897,53,Masculino,Viúvo,2,Fundamental,1860,CLT,30,Pessoal,4578,31,Bom,Não,771
+CLI001898,25,Masculino,Solteiro,1,Superior,4107,CLT,1,Cartão,2779,10,Regular,Não,735
+CLI001899,44,Masculino,Solteiro,1,Médio,3108,CLT,11,Pessoal,3742,40,Bom,Não,850
+CLI001900,27,Feminino,Solteiro,3,Médio,2732,Servidor Público,4,Consignado,5171,40,Regular,Não,762
+CLI001901,41,Feminino,Solteiro,2,Pós-graduação,6707,CLT,21,Veículo,49012,25,Bom,Não,850
+CLI001902,61,Feminino,Divorciado,0,Pós-graduação,8752,Autônomo,30,Veículo,52800,30,Regular,Sim,580
+CLI001903,19,Masculino,Casado,2,Superior,4517,Servidor Público,0,Cartão,2525,9,Bom,Não,850
+CLI001904,39,Feminino,Casado,3,Superior,5761,Servidor Público,13,Pessoal,9931,39,Ruim,Não,606
+CLI001905,36,Masculino,Casado,1,Médio,3468,Servidor Público,15,Cartão,1165,7,Bom,Não,850
+CLI001906,50,Masculino,Divorciado,2,Superior,5183,Autônomo,9,Consignado,9224,15,Ruim,Não,519
+CLI001907,34,Feminino,Casado,3,Médio,1933,Autônomo,7,Pessoal,2217,41,Bom,Não,768
+CLI001908,35,Masculino,Casado,3,Superior,4138,CLT,7,Pessoal,2287,15,Regular,Não,799
+CLI001909,27,Masculino,Solteiro,1,Médio,2408,Servidor Público,4,Pessoal,3849,41,Bom,Não,838
+CLI001910,53,Masculino,Casado,1,Superior,3633,CLT,16,Consignado,7862,17,Regular,Não,731
+CLI001911,63,Feminino,Viúvo,1,Fundamental,2780,Servidor Público,30,Cartão,2455,11,Ruim,Sim,360
+CLI001912,59,Feminino,Viúvo,0,Médio,1789,Autônomo,8,Consignado,5322,42,Bom,Não,705
+CLI001913,59,Feminino,Viúvo,3,Fundamental,2064,Servidor Público,30,Cartão,771,12,Regular,Não,758
+CLI001914,56,Feminino,Divorciado,1,Fundamental,1842,CLT,20,Cartão,1651,6,Bom,Não,790
+CLI001915,33,Masculino,Casado,3,Superior,2842,Autônomo,5,Cartão,4927,6,Bom,Não,819
+CLI001916,61,Feminino,Casado,1,Pós-graduação,9293,Autônomo,11,Cartão,1470,8,Bom,Não,850
+CLI001917,71,Feminino,Casado,3,Superior,3179,Aposentado,0,Cartão,3077,6,Bom,Não,819
+CLI001918,60,Masculino,Solteiro,2,Pós-graduação,8944,CLT,21,Cartão,1908,11,Regular,Não,804
+CLI001919,62,Masculino,Viúvo,1,Superior,6811,Autônomo,30,Veículo,21693,44,Bom,Não,840
+CLI001920,42,Masculino,Solteiro,3,Pós-graduação,9367,Servidor Público,3,Cartão,2739,12,Ruim,Não,597
+CLI001921,75,Feminino,Viúvo,3,Superior,3408,Aposentado,0,Cartão,1284,8,Ruim,Sim,325
+CLI001922,70,Feminino,Casado,0,Superior,4091,Aposentado,0,Pessoal,5920,23,Bom,Não,833
+CLI001923,49,Masculino,Casado,0,Médio,2646,CLT,16,Cartão,5296,12,Regular,Não,771
+CLI001924,27,Feminino,Solteiro,2,Superior,4906,Autônomo,2,Consignado,6777,39,Bom,Não,784
+CLI001925,38,Feminino,Solteiro,2,Médio,3017,Autônomo,13,Pessoal,8981,35,Bom,Não,796
+CLI001926,27,Masculino,Casado,0,Superior,4996,Servidor Público,7,Cartão,5220,7,Ruim,Sim,361
+CLI001927,67,Feminino,Solteiro,1,Fundamental,1648,Aposentado,0,Consignado,4032,39,Bom,Não,745
+CLI001928,74,Feminino,Solteiro,0,Fundamental,1303,Aposentado,0,Pessoal,1976,15,Bom,Não,745
+CLI001929,60,Masculino,Viúvo,2,Médio,3309,CLT,18,Pessoal,1555,28,Regular,Sim,577
+CLI001930,45,Masculino,Casado,0,Pós-graduação,7327,Autônomo,16,Consignado,15493,25,Regular,Não,796
+CLI001931,23,Feminino,Solteiro,1,Médio,2432,CLT,1,Veículo,61029,42,Ruim,Sim,311
+CLI001932,25,Masculino,Casado,2,Médio,2591,CLT,0,Cartão,1101,8,Bom,Não,814
+CLI001933,41,Masculino,Viúvo,2,Pós-graduação,7771,Autônomo,19,Cartão,3284,10,Regular,Não,786
+CLI001934,59,Masculino,Viúvo,0,Superior,4029,CLT,18,Veículo,23912,25,Bom,Não,837
+CLI001935,45,Masculino,Viúvo,2,Superior,6097,Autônomo,5,Cartão,712,11,Bom,Não,849
+CLI001936,50,Masculino,Divorciado,0,Médio,3028,CLT,12,Pessoal,2437,39,Regular,Não,745
+CLI001937,34,Masculino,Solteiro,1,Superior,4727,Servidor Público,7,Pessoal,9449,19,Bom,Não,850
+CLI001938,21,Feminino,Casado,2,Médio,2023,Autônomo,0,Pessoal,2996,33,Regular,Sim,528
+CLI001939,60,Feminino,Divorciado,2,Pós-graduação,10732,Servidor Público,15,Pessoal,23815,35,Bom,Não,850
+CLI001940,47,Feminino,Viúvo,0,Superior,5414,Autônomo,1,Consignado,12662,38,Ruim,Sim,358
+CLI001941,18,Masculino,Solteiro,2,Médio,2971,Servidor Público,0,Cartão,1096,6,Bom,Não,831
+CLI001942,20,Feminino,Casado,1,Superior,4298,CLT,0,Veículo,58362,24,Ruim,Sim,366
+CLI001943,22,Masculino,Solteiro,3,Médio,2582,Servidor Público,2,Cartão,2768,8,Bom,Não,842
+CLI001944,54,Masculino,Solteiro,2,Pós-graduação,9357,Servidor Público,2,Veículo,59437,47,Regular,Sim,664
+CLI001945,47,Feminino,Casado,2,Médio,3986,Servidor Público,21,Veículo,49035,46,Regular,Sim,639
+CLI001946,47,Masculino,Casado,2,Pós-graduação,6922,CLT,24,Consignado,5805,33,Regular,Não,846
+CLI001947,71,Feminino,Casado,3,Pós-graduação,4891,Aposentado,0,Veículo,47240,43,Regular,Não,747
+CLI001948,44,Masculino,Viúvo,3,Pós-graduação,7650,Autônomo,9,Cartão,4140,6,Bom,Não,850
+CLI001949,32,Feminino,Casado,3,Pós-graduação,7551,Autônomo,11,Veículo,26175,44,Bom,Não,850
+CLI001950,26,Masculino,Casado,0,Médio,2281,CLT,3,Pessoal,1989,33,Ruim,Não,496
+CLI001951,24,Feminino,Casado,2,Médio,2456,CLT,0,Veículo,51371,27,Bom,Sim,667
+CLI001952,29,Masculino,Casado,2,Médio,2675,CLT,10,Cartão,3885,11,Ruim,Não,470
+CLI001953,47,Masculino,Divorciado,3,Pós-graduação,8211,Servidor Público,16,Veículo,65362,32,Regular,Não,850
+CLI001954,72,Feminino,Viúvo,2,Superior,3413,Aposentado,0,Pessoal,5293,17,Bom,Não,833
+CLI001955,30,Feminino,Solteiro,2,Pós-graduação,6228,CLT,8,Consignado,12343,26,Regular,Não,850
+CLI001956,65,Masculino,Viúvo,3,Superior,4659,Autônomo,19,Veículo,58310,39,Regular,Não,707
+CLI001957,42,Feminino,Solteiro,0,Médio,3414,Autônomo,23,Veículo,45552,47,Bom,Não,792
+CLI001958,70,Masculino,Divorciado,3,Superior,2849,Aposentado,0,Cartão,2287,8,Ruim,Não,485
+CLI001959,53,Masculino,Divorciado,0,Superior,2924,Autônomo,19,Veículo,36322,40,Bom,Sim,656
+CLI001960,37,Feminino,Casado,3,Superior,4683,Autônomo,16,Veículo,26441,36,Bom,Sim,665
+CLI001961,55,Masculino,Solteiro,1,Pós-graduação,6399,Autônomo,22,Veículo,47483,24,Ruim,Sim,365
+CLI001962,38,Masculino,Casado,1,Médio,1805,Autônomo,6,Cartão,5469,11,Regular,Sim,514
+CLI001963,59,Masculino,Solteiro,0,Fundamental,2254,Servidor Público,30,Cartão,3870,6,Bom,Não,850
+CLI001964,32,Feminino,Solteiro,2,Superior,3914,CLT,9,Veículo,31633,41,Bom,Não,850
+CLI001965,41,Feminino,Divorciado,1,Superior,6908,Servidor Público,15,Pessoal,17298,35,Regular,Não,850
+CLI001966,41,Feminino,Solteiro,3,Médio,3521,Servidor Público,16,Consignado,4134,46,Ruim,Não,535
+CLI001967,26,Feminino,Casado,3,Superior,3351,Autônomo,3,Pessoal,10281,35,Regular,Não,677
+CLI001968,33,Feminino,Casado,0,Pós-graduação,6835,Servidor Público,0,Consignado,5130,47,Bom,Não,850
+CLI001969,56,Feminino,Viúvo,0,Pós-graduação,9481,CLT,30,Cartão,4288,10,Bom,Não,850
+CLI001970,37,Masculino,Solteiro,1,Médio,2114,CLT,2,Veículo,45556,42,Bom,Sim,697
+CLI001971,48,Feminino,Divorciado,3,Médio,3789,Servidor Público,6,Pessoal,3395,29,Bom,Não,850
+CLI001972,54,Feminino,Viúvo,2,Pós-graduação,5627,Autônomo,30,Consignado,6313,35,Regular,Não,734
+CLI001973,55,Masculino,Casado,1,Pós-graduação,6079,Autônomo,9,Cartão,4764,6,Regular,Sim,591
+CLI001974,69,Masculino,Casado,2,Médio,2387,Aposentado,0,Pessoal,1094,17,Ruim,Sim,309
+CLI001975,52,Masculino,Casado,0,Superior,6696,Servidor Público,24,Consignado,13531,28,Regular,Não,795
+CLI001976,41,Masculino,Casado,3,Superior,6169,Servidor Público,1,Veículo,64733,39,Bom,Não,850
+CLI001977,22,Feminino,Solteiro,3,Superior,4289,Autônomo,2,Veículo,68426,31,Regular,Sim,522
+CLI001978,61,Feminino,Divorciado,3,Fundamental,2793,Servidor Público,10,Consignado,6535,46,Bom,Não,850
+CLI001979,75,Feminino,Casado,3,Fundamental,1414,Aposentado,0,Pessoal,4760,18,Bom,Não,746
+CLI001980,60,Masculino,Divorciado,2,Médio,2556,Autônomo,1,Pessoal,2108,19,Regular,Não,677
+CLI001981,49,Masculino,Solteiro,2,Pós-graduação,6596,Autônomo,21,Cartão,2781,7,Bom,Não,850
+CLI001982,25,Masculino,Solteiro,2,Superior,3564,CLT,5,Cartão,5084,11,Ruim,Não,481
+CLI001983,71,Feminino,Divorciado,3,Superior,2952,Aposentado,0,Pessoal,1431,19,Bom,Não,807
+CLI001984,68,Masculino,Divorciado,2,Médio,1977,Aposentado,0,Consignado,3344,29,Ruim,Sim,300
+CLI001985,24,Feminino,Solteiro,3,Médio,1623,Autônomo,1,Cartão,4053,9,Bom,Sim,580
+CLI001986,56,Feminino,Solteiro,2,Fundamental,1631,Autônomo,4,Pessoal,5259,34,Ruim,Sim,300
+CLI001987,34,Masculino,Solteiro,1,Pós-graduação,6647,CLT,1,Veículo,49663,36,Bom,Não,850
+CLI001988,44,Masculino,Viúvo,3,Médio,3146,CLT,13,Consignado,6999,18,Regular,Não,760
+CLI001989,65,Feminino,Divorciado,1,Médio,3080,CLT,25,Pessoal,6498,31,Regular,Não,749
+CLI001990,68,Feminino,Solteiro,3,Pós-graduação,4896,Aposentado,0,Cartão,4548,6,Ruim,Não,501
+CLI001991,60,Masculino,Divorciado,3,Pós-graduação,9429,CLT,12,Veículo,53769,30,Bom,Não,850
+CLI001992,39,Masculino,Solteiro,1,Médio,3457,Servidor Público,11,Pessoal,4416,40,Bom,Não,850
+CLI001993,43,Feminino,Casado,3,Pós-graduação,4030,Autônomo,18,Cartão,4820,9,Ruim,Não,494
+CLI001994,27,Masculino,Solteiro,0,Superior,4053,Autônomo,0,Veículo,65944,24,Bom,Não,796
+CLI001995,22,Feminino,Casado,1,Superior,4410,CLT,3,Pessoal,13965,40,Regular,Não,733
+CLI001996,74,Feminino,Solteiro,0,Médio,2438,Aposentado,0,Cartão,2964,7,Regular,Sim,564
+CLI001997,27,Feminino,Casado,2,Médio,2639,Servidor Público,0,Pessoal,6124,39,Regular,Não,754
+CLI001998,53,Feminino,Divorciado,1,Fundamental,1669,CLT,23,Cartão,2726,11,Bom,Não,762
+CLI001999,32,Feminino,Casado,1,Pós-graduação,4896,Autônomo,6,Pessoal,7179,41,Bom,Não,837
+CLI002000,58,Masculino,Casado,2,Superior,4516,CLT,10,Cartão,4352,12,Regular,Não,748
